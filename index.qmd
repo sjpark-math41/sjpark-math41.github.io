@@ -1,0 +1,13 @@
+---
+title: "Welcome"
+---
+
+# 박성준 (Sungjun Park)
+
+Yonsei University (Ph.D. Student)
+
+> "수학과 코딩을 좋아하는 대학원생입니다."
+
+### Contact
+* Email: sungjun.park@yonsei.ac.kr
+* Location: 연세대학교 과학관 222-A호

@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  title: "Sungjun Park" # 사이트 왼쪽 상단에 보일 이름
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: Abaout
+      - href: research.qmd
+        text: Research
+      - href: notes.qmd
+        text: Notes
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+
