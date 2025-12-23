@@ -1,10 +1,22 @@
 ---
-title: "Notes"
-listing:
-  contents: notes # 'notes'라는 폴더 안에 있는 글들을 가져와라
-  sort: "date desc" # 최신 날짜순 정렬
-  type: default # 목록 스타일 (default, table, grid 중 선택 가능)
-  categories: true # 카테고리(태그) 필터 기능 켜기
+title: "Lecture Notes & Study Records"
 ---
 
-Here are my study notes and problem solutions.
+Here are my notes from courses and personal studies.
+
+## Graduate Courses (2025)
+
+* **Real Analysis (2)**
+
+
+* **Numerical Analysis (1)**
+    * Project: Finite Difference Method Implementation
+    * Final Exam Preparation Notes
+
+## Self Study
+
+* **Probability Theory**
+    * Basics of Martingales
+    * Brownian Motion properties
+
+> **Note:** This section is currently under construction. More notes will be updated soon.

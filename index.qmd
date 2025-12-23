@@ -1,13 +1,22 @@
 ---
-title: "Welcome"
+title: "Sungjun Park"
+about:
+  template: jolla  # trestles나 solana로 변경 가능
+  image: profile.jpg # 폴더에 본인 사진(profile.jpg)을 넣거나, 없으면 이 줄을 지우세요.
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:sungjun.park@yonsei.ac.kr
 ---
 
-# 박성준 (Sungjun Park)
+Hello, I am a Master's/Ph.D. integrated student in the Department of Mathematics at **Yonsei University**.
 
-Yonsei University (Ph.D. Student)
+My research interests lie in **Probability Theory**. 
 
-> "수학과 코딩을 좋아하는 대학원생입니다."
+## Education
 
-### Contact
-* Email: sungjun.park@yonsei.ac.kr
-* Location: 연세대학교 과학관 222-A호
+**Yonsei University** | Seoul, South Korea <br>
+Ph.D. Student in Mathematics | Mar 2025 - Present
+
+**Yonsei University** | Seoul, South Korea <br>
+B.S. in Mathematics | Mar 2019 - Aug 2025
