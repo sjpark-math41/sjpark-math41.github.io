@@ -1,0 +1,178 @@
+[
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research Interest",
+    "section": "",
+    "text": "I am interested in the intersection of probability."
+  },
+  {
+    "objectID": "research.html#core-interests",
+    "href": "research.html#core-interests",
+    "title": "Research Interest",
+    "section": "Core Interests",
+    "text": "Core Interests\n\nProbability Theory: N/A"
+  },
+  {
+    "objectID": "research.html#current-projects",
+    "href": "research.html#current-projects",
+    "title": "Research Interest",
+    "section": "Current Projects",
+    "text": "Current Projects\n.\n\nStudy on Real Analysis\n\nDeepening understanding of measure theory and Lebesgue integration as a foundation for advanced probability."
+  },
+  {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Lecture Notes & Study Records",
+    "section": "",
+    "text": "Here are my notes from courses and personal studies.",
+    "crumbs": [
+      "Home",
+      "Notes",
+      "Lecture Notes & Study Records"
+    ]
+  },
+  {
+    "objectID": "notes.html#graduate-courses-2025",
+    "href": "notes.html#graduate-courses-2025",
+    "title": "Lecture Notes & Study Records",
+    "section": "Graduate Courses (2025)",
+    "text": "Graduate Courses (2025)\n\nReal Analysis (2)\nNumerical Analysis (1)\n\nProject: Finite Difference Method Implementation\nFinal Exam Preparation Notes",
+    "crumbs": [
+      "Home",
+      "Notes",
+      "Lecture Notes & Study Records"
+    ]
+  },
+  {
+    "objectID": "notes.html#self-study",
+    "href": "notes.html#self-study",
+    "title": "Lecture Notes & Study Records",
+    "section": "Self Study",
+    "text": "Self Study\n\nProbability Theory\n\nBasics of Martingales\nBrownian Motion properties\n\n\n\nNote: This section is currently under construction. More notes will be updated soon.",
+    "crumbs": [
+      "Home",
+      "Notes",
+      "Lecture Notes & Study Records"
+    ]
+  },
+  {
+    "objectID": "notes/probability-measure.html",
+    "href": "notes/probability-measure.html",
+    "title": "Definition of Probability Measure",
+    "section": "",
+    "text": "This note summarizes the definition of a probability measure based on the Kolmogorov axioms."
+  },
+  {
+    "objectID": "notes/probability-measure.html#introduction",
+    "href": "notes/probability-measure.html#introduction",
+    "title": "Definition of Probability Measure",
+    "section": "",
+    "text": "This note summarizes the definition of a probability measure based on the Kolmogorov axioms."
+  },
+  {
+    "objectID": "notes/probability-measure.html#definition",
+    "href": "notes/probability-measure.html#definition",
+    "title": "Definition of Probability Measure",
+    "section": "2. Definition",
+    "text": "2. Definition\nLet \\((\\Omega, \\mathcal{F})\\) be a measurable space. A set function \\(P: \\mathcal{F} \\to [0, 1]\\) is called a probability measure if it satisfies the following conditions:\n\n\\(P(\\Omega) = 1\\).\n(Countable Additivity) For any pairwise disjoint sequence of events \\(\\{E_n\\}_{n=1}^\\infty \\subset \\mathcal{F}\\), \\[\nP\\left( \\bigcup_{n=1}^\\infty E_n \\right) = \\sum_{n=1}^\\infty P(E_n)\n\\]"
+  },
+  {
+    "objectID": "notes/probability-measure.html#example",
+    "href": "notes/probability-measure.html#example",
+    "title": "Definition of Probability Measure",
+    "section": "3. Example",
+    "text": "3. Example\nIf we consider a fair coin toss, \\(\\Omega = \\{H, T\\}\\) and \\(P(\\{H\\}) = P(\\{T\\}) = 0.5\\)."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sungjun Park",
+    "section": "",
+    "text": "Hello, I am a Master’s/Ph.D. integrated student in the Department of Mathematics at Yonsei University.\nMy research interests lie in Probability Theory."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Sungjun Park",
+    "section": "Education",
+    "text": "Education\nYonsei University | Seoul, South Korea  Ph.D. Student in Mathematics | Mar 2025 - Present\nYonsei University | Seoul, South Korea  B.S. in Mathematics | Mar 2019 - Aug 2025"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "소개 (About)",
+    "section": "",
+    "text": "OO대학교 수학과 대학원생 박성준입니다."
+  },
+  {
+    "objectID": "about.html#안녕하세요",
+    "href": "about.html#안녕하세요",
+    "title": "소개 (About)",
+    "section": "",
+    "text": "OO대학교 수학과 대학원생 박성준입니다."
+  },
+  {
+    "objectID": "about.html#관심-분야",
+    "href": "about.html#관심-분야",
+    "title": "소개 (About)",
+    "section": "관심 분야",
+    "text": "관심 분야\n\n해석학 (Analysis)\n기하학 (Geometry)"
+  },
+  {
+    "objectID": "notes/probability-measure 2.html",
+    "href": "notes/probability-measure 2.html",
+    "title": "Definition of Probability Measure",
+    "section": "",
+    "text": "This note summarizes the definition of a probability measure based on the Kolmogorov axioms."
+  },
+  {
+    "objectID": "notes/probability-measure 2.html#introduction",
+    "href": "notes/probability-measure 2.html#introduction",
+    "title": "Definition of Probability Measure",
+    "section": "",
+    "text": "This note summarizes the definition of a probability measure based on the Kolmogorov axioms."
+  },
+  {
+    "objectID": "notes/probability-measure 2.html#definition",
+    "href": "notes/probability-measure 2.html#definition",
+    "title": "Definition of Probability Measure",
+    "section": "2. Definition",
+    "text": "2. Definition\nLet \\((\\Omega, \\mathcal{F})\\) be a measurable space. A set function \\(P: \\mathcal{F} \\to [0, 1]\\) is called a probability measure if it satisfies the following conditions:\n\n\\(P(\\Omega) = 1\\).\n(Countable Additivity) For any pairwise disjoint sequence of events \\(\\{E_n\\}_{n=1}^\\infty \\subset \\mathcal{F}\\), \\[\nP\\left( \\bigcup_{n=1}^\\infty E_n \\right) = \\sum_{n=1}^\\infty P(E_n)\n\\]"
+  },
+  {
+    "objectID": "notes/probability-measure 2.html#example",
+    "href": "notes/probability-measure 2.html#example",
+    "title": "Definition of Probability Measure",
+    "section": "3. Example",
+    "text": "3. Example\nIf we consider a fair coin toss, \\(\\Omega = \\{H, T\\}\\) and \\(P(\\{H\\}) = P(\\{T\\}) = 0.5\\)."
+  },
+  {
+    "objectID": "notes 2.html",
+    "href": "notes 2.html",
+    "title": "Notes",
+    "section": "",
+    "text": "Here are my study notes and problem solutions.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDefinition of Probability Measure\n\n\n\nProbability\n\nMeasure Theory\n\n\n\n\n\n\n\n\n\nDec 23, 2025\n\n\nSungjun Park\n\n\n\n\n\n\n\n\n\n\n\n\nDefinition of Probability Measure\n\n\n\nProbability\n\nMeasure Theory\n\n\n\n\n\n\n\n\n\nDec 23, 2025\n\n\nSungjun Park\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research 2.html",
+    "href": "research 2.html",
+    "title": "Research",
+    "section": "",
+    "text": "OO대학교 수학과 대학원생 박성준입니다."
+  },
+  {
+    "objectID": "research 2.html#안녕하세요",
+    "href": "research 2.html#안녕하세요",
+    "title": "Research",
+    "section": "",
+    "text": "OO대학교 수학과 대학원생 박성준입니다."
+  },
+  {
+    "objectID": "research 2.html#관심-분야",
+    "href": "research 2.html#관심-분야",
+    "title": "Research",
+    "section": "관심 분야",
+    "text": "관심 분야\n\n해석학 (Analysis)\n기하학 (Geometry)"
+  }
+]
