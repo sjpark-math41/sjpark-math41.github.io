@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "notes/probability-measure.html",
+    "href": "notes/probability-measure.html",
+    "title": "Definition of Probability Measure",
+    "section": "",
+    "text": "This note summarizes the definition of a probability measure based on the Kolmogorov axioms."
+  },
+  {
+    "objectID": "notes/probability-measure.html#introduction",
+    "href": "notes/probability-measure.html#introduction",
+    "title": "Definition of Probability Measure",
+    "section": "",
+    "text": "This note summarizes the definition of a probability measure based on the Kolmogorov axioms."
+  },
+  {
+    "objectID": "notes/probability-measure.html#definition",
+    "href": "notes/probability-measure.html#definition",
+    "title": "Definition of Probability Measure",
+    "section": "2. Definition",
+    "text": "2. Definition\nLet \\((\\Omega, \\mathcal{F})\\) be a measurable space. A set function \\(P: \\mathcal{F} \\to [0, 1]\\) is called a probability measure if it satisfies the following conditions:\n\n\\(P(\\Omega) = 1\\).\n(Countable Additivity) For any pairwise disjoint sequence of events \\(\\{E_n\\}_{n=1}^\\infty \\subset \\mathcal{F}\\), \\[\nP\\left( \\bigcup_{n=1}^\\infty E_n \\right) = \\sum_{n=1}^\\infty P(E_n)\n\\]"
+  },
+  {
+    "objectID": "notes/probability-measure.html#example",
+    "href": "notes/probability-measure.html#example",
+    "title": "Definition of Probability Measure",
+    "section": "3. Example",
+    "text": "3. Example\nIf we consider a fair coin toss, \\(\\Omega = \\{H, T\\}\\) and \\(P(\\{H\\}) = P(\\{T\\}) = 0.5\\)."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "박성준 (Sungjun Park)\nYonsei University (Ph.D. Student)\n\n“수학과 코딩을 좋아하는 대학원생입니다.”\n\n\nContact\n\nEmail: sungjun.park@yonsei.ac.kr\nLocation: 연세대학교 과학관 222-A호"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "OO대학교 수학과 대학원생 박성준입니다."
+  },
+  {
+    "objectID": "research.html#안녕하세요",
+    "href": "research.html#안녕하세요",
+    "title": "Research",
+    "section": "",
+    "text": "OO대학교 수학과 대학원생 박성준입니다."
+  },
+  {
+    "objectID": "research.html#관심-분야",
+    "href": "research.html#관심-분야",
+    "title": "Research",
+    "section": "관심 분야",
+    "text": "관심 분야\n\n해석학 (Analysis)\n기하학 (Geometry)"
+  },
+  {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Notes",
+    "section": "",
+    "text": "Here are my study notes and problem solutions.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDefinition of Probability Measure\n\n\n\nProbability\n\nMeasure Theory\n\n\n\n\n\n\n\n\n\nDec 23, 2025\n\n\nSungjun Park\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "소개 (About)",
+    "section": "",
+    "text": "OO대학교 수학과 대학원생 박성준입니다."
+  },
+  {
+    "objectID": "about.html#안녕하세요",
+    "href": "about.html#안녕하세요",
+    "title": "소개 (About)",
+    "section": "",
+    "text": "OO대학교 수학과 대학원생 박성준입니다."
+  },
+  {
+    "objectID": "about.html#관심-분야",
+    "href": "about.html#관심-분야",
+    "title": "소개 (About)",
+    "section": "관심 분야",
+    "text": "관심 분야\n\n해석학 (Analysis)\n기하학 (Geometry)"
+  }
+]
