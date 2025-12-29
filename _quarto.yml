@@ -23,14 +23,14 @@ website:
         href: mailto:sungjun.park@yonsei.ac.kr
 
   # 사이드바 설정 (특히 'Notes' 섹션에서 유용함)
-  sidebar:
-    style: "docked"
-    search: true
-    collapse-level: 1
-    contents:
-      - section: "Notes"
-        contents:
-          - notes.qmd
+  #sidebar:
+   # style: "docked"
+   # search: true
+   # collapse-level: 1
+   # contents:
+   #   - section: "Notes"
+   #     contents:
+   #       - notes.qmd
           # 나중에 'Real Analysis', 'Probability' 등 하위 노트를 여기에 추가
 
 format:

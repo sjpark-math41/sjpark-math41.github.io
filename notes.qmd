@@ -1,22 +1,12 @@
 ---
-title: "Lecture Notes & Study Records"
+title: "Study Notes"
+listing:
+  contents: notes        # notes 폴더 안에 있는 파일들을 가져와라
+  sort: "date desc"      # 날짜 최신순 정렬
+  type: default          # default, table, grid 중 선택 가능
+  categories: true       # 오른쪽(또는 왼쪽)에 필터 카테고리 생성
+  sort-ui: true          # 정렬 기능 켜기
+  filter-ui: true        # 검색창 켜기
+page-layout: full
+title-block-banner: true
 ---
-
-Here are my notes from courses and personal studies.
-
-## Graduate Courses (2025)
-
-* **Real Analysis (2)**
-
-
-* **Numerical Analysis (1)**
-    * Project: Finite Difference Method Implementation
-    * Final Exam Preparation Notes
-
-## Self Study
-
-* **Probability Theory**
-    * Basics of Martingales
-    * Brownian Motion properties
-
-> **Note:** This section is currently under construction. More notes will be updated soon.
