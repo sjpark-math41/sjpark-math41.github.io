@@ -51,7 +51,7 @@ Hello! I am **Sungjun Park**, a Graduate Student in Mathematics at **Yonsei Univ
 
 ---
 
-## 🏆 Honors & Awards
+<!-- ## 🏆 Honors & Awards
 
 * **Scholarship Name**, Yonsei University | *2024*
-* **Dean's List**, College of Science | *2023*
+* **Dean's List**, College of Science | *2023* -->
