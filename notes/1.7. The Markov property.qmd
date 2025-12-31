@@ -2,7 +2,7 @@
 title: "1.7. The Markov Property"
 date: 2025-12-29
 categories: [Continuos Time Markov Processes An Introduction] # 태그 기능
-author: "Sungjun Park"
+# author: "Sungjun Park"
 ---
 
 ## 1. Introduction
