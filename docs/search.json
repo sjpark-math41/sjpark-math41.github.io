@@ -67,7 +67,7 @@
     "href": "notes.html",
     "title": "Study Notes",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n1.7. The Markov Property\n\n\n\nContinuos Time Markov Processes An Introduction\n\n\n\n\n\n\n\n\n\nDec 29, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nDefinition of Probability Measure\n\n\n\nProbability\n\nMeasure Theory\n\n\n\n\n\n\n\n\n\nDec 23, 2025\n\n\nSungjun Park\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n1.2. The multivariate Gaussian Distribution\n\n\n\nCTMP\n\n\n\n\n\n\n\n\n\nJan 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nDefinition of Probability Measure\n\n\n\nProbability\n\nMeasure Theory\n\n\n\n\n\n\n\n\n\nDec 23, 2025\n\n\nSungjun Park\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research.html",
@@ -122,6 +122,48 @@
     "objectID": "notes/1.7. The Markov property.html#definition",
     "href": "notes/1.7. The Markov property.html#definition",
     "title": "1.7. The Markov Property",
+    "section": "2. Definition",
+    "text": "2. Definition\nLet \\(X(t)\\) be a Markov proccess."
+  },
+  {
+    "objectID": "notes.html#probability-durrett",
+    "href": "notes.html#probability-durrett",
+    "title": "Study Notes",
+    "section": "",
+    "text": "대학원 확률론 교재(Durrett) 정리 노트입니다."
+  },
+  {
+    "objectID": "notes.html#stochastic-differential-equations",
+    "href": "notes.html#stochastic-differential-equations",
+    "title": "Study Notes",
+    "section": "📈 Stochastic Differential Equations",
+    "text": "📈 Stochastic Differential Equations\nSDE 관련 심화 학습 노트입니다."
+  },
+  {
+    "objectID": "notes/CTMP/1.7. The Markov property.html",
+    "href": "notes/CTMP/1.7. The Markov property.html",
+    "title": "1.7. The Markov Property",
+    "section": "",
+    "text": "This note summarizes the markov porperty on continuous time."
+  },
+  {
+    "objectID": "notes/CTMP/1.7. The Markov property.html#introduction",
+    "href": "notes/CTMP/1.7. The Markov property.html#introduction",
+    "title": "1.7. The Markov Property",
+    "section": "",
+    "text": "This note summarizes the markov porperty on continuous time."
+  },
+  {
+    "objectID": "notes/CTMP/1.7. The Markov property.html#definition",
+    "href": "notes/CTMP/1.7. The Markov property.html#definition",
+    "title": "1.7. The Markov Property",
+    "section": "2. Definition",
+    "text": "2. Definition\nLet \\(X(t)\\) be a Markov proccess."
+  },
+  {
+    "objectID": "notes/CTMP/1.2. The multivariate Gaussian Distribution.html#definition",
+    "href": "notes/CTMP/1.2. The multivariate Gaussian Distribution.html#definition",
+    "title": "1.2. The multivariate Gaussian Distribution",
     "section": "2. Definition",
     "text": "2. Definition\nLet \\(X(t)\\) be a Markov proccess."
   }
