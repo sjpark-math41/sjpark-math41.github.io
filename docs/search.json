@@ -28,6 +28,55 @@
     "text": "3. Example\nIf we consider a fair coin toss, \\(\\Omega = \\{H, T\\}\\) and \\(P(\\{H\\}) = P(\\{T\\}) = 0.5\\)."
   },
   {
+    "objectID": "notes/CTMP/1.2. The multivariate Gaussian Distribution.html#definition",
+    "href": "notes/CTMP/1.2. The multivariate Gaussian Distribution.html#definition",
+    "title": "1.2. The multivariate Gaussian Distribution",
+    "section": "2. Definition",
+    "text": "2. Definition\nLet \\(X(t)\\) be a Markov proccess."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sungjun Park",
+    "section": "",
+    "text": "Hello. My name is Sungjun Park. I am currently a graduate student in the combined Master’s and Ph.D. program in the Department of Mathematics at Yonsei University. I received my B.S. in Mathematics from Yonsei University in August 2025. My primary research interest lies in Probability Theory"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Sungjun Park",
+    "section": "Education",
+    "text": "Education\nYonsei University | Seoul, South Korea  Ph.D. Student in Mathematics | Sep 2025 - Present\nYonsei University | Seoul, South Korea  B.S. in Mathematics | Mar 2019 - Aug 2025"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research Interest",
+    "section": "",
+    "text": "I am interested in the intersection of probability."
+  },
+  {
+    "objectID": "research.html#core-interests",
+    "href": "research.html#core-interests",
+    "title": "Research Interest",
+    "section": "Core Interests",
+    "text": "Core Interests\n\nProbability Theory: N/A"
+  },
+  {
+    "objectID": "research.html#current-projects",
+    "href": "research.html#current-projects",
+    "title": "Research Interest",
+    "section": "Current Projects",
+    "text": "Current Projects\n.\n\nStudy on Real Analysis\n\nDeepening understanding of measure theory and Lebesgue integration as a foundation for advanced probability."
+  },
+  {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Study Notes",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n1.4. Definition of Brownian Motion\n\n\n\nContinuous Time Markov Processes\n\nProbability\n\n\n\n\n\n\n\n\n\nJan 7, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n1.2. The multivariate Gaussian Distribution\n\n\n\nCTMP\n\n\n\n\n\n\n\n\n\nJan 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nDefinition of Probability Measure\n\n\n\nProbability\n\nMeasure Theory\n\n\n\n\n\n\n\n\n\nDec 23, 2025\n\n\nSungjun Park\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Me",
@@ -63,134 +112,15 @@
     "text": "💻 Technical Skills\n\nLanguages: Python, MATLAB\nTools: LaTeX"
   },
   {
-    "objectID": "notes.html",
-    "href": "notes.html",
-    "title": "Study Notes",
-    "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n1.4. Definition of Brownian Motion\n\n\n\nContinuous Time Markov Processes\n\nProbability\n\n\n\n\n\n\n\n\n\nJan 7, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n1.2. The multivariate Gaussian Distribution\n\n\n\nCTMP\n\n\n\n\n\n\n\n\n\nJan 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nDefinition of Probability Measure\n\n\n\nProbability\n\nMeasure Theory\n\n\n\n\n\n\n\n\n\nDec 23, 2025\n\n\nSungjun Park\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research Interest",
-    "section": "",
-    "text": "I am interested in the intersection of probability."
-  },
-  {
-    "objectID": "research.html#core-interests",
-    "href": "research.html#core-interests",
-    "title": "Research Interest",
-    "section": "Core Interests",
-    "text": "Core Interests\n\nProbability Theory: N/A"
-  },
-  {
-    "objectID": "research.html#current-projects",
-    "href": "research.html#current-projects",
-    "title": "Research Interest",
-    "section": "Current Projects",
-    "text": "Current Projects\n.\n\nStudy on Real Analysis\n\nDeepening understanding of measure theory and Lebesgue integration as a foundation for advanced probability."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Sungjun Park",
-    "section": "",
-    "text": "Hello. My name is Sungjun Park. I am currently a graduate student in the combined Master’s and Ph.D. program in the Department of Mathematics at Yonsei University. I received my B.S. in Mathematics from Yonsei University in August 2025. My primary research interest lies in Probability Theory"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Sungjun Park",
-    "section": "Education",
-    "text": "Education\nYonsei University | Seoul, South Korea  Ph.D. Student in Mathematics | Sep 2025 - Present\nYonsei University | Seoul, South Korea  B.S. in Mathematics | Mar 2019 - Aug 2025"
-  },
-  {
-    "objectID": "notes/1.7. The Markov property.html",
-    "href": "notes/1.7. The Markov property.html",
-    "title": "1.7. The Markov Property",
-    "section": "",
-    "text": "This note summarizes the markov porperty on continuous time."
-  },
-  {
-    "objectID": "notes/1.7. The Markov property.html#introduction",
-    "href": "notes/1.7. The Markov property.html#introduction",
-    "title": "1.7. The Markov Property",
-    "section": "",
-    "text": "This note summarizes the markov porperty on continuous time."
-  },
-  {
-    "objectID": "notes/1.7. The Markov property.html#definition",
-    "href": "notes/1.7. The Markov property.html#definition",
-    "title": "1.7. The Markov Property",
-    "section": "2. Definition",
-    "text": "2. Definition\nLet \\(X(t)\\) be a Markov proccess."
-  },
-  {
-    "objectID": "notes.html#probability-durrett",
-    "href": "notes.html#probability-durrett",
-    "title": "Study Notes",
-    "section": "",
-    "text": "대학원 확률론 교재(Durrett) 정리 노트입니다."
-  },
-  {
-    "objectID": "notes.html#stochastic-differential-equations",
-    "href": "notes.html#stochastic-differential-equations",
-    "title": "Study Notes",
-    "section": "📈 Stochastic Differential Equations",
-    "text": "📈 Stochastic Differential Equations\nSDE 관련 심화 학습 노트입니다."
-  },
-  {
-    "objectID": "notes/CTMP/1.7. The Markov property.html",
-    "href": "notes/CTMP/1.7. The Markov property.html",
-    "title": "1.7. The Markov Property",
-    "section": "",
-    "text": "This note summarizes the markov porperty on continuous time."
-  },
-  {
-    "objectID": "notes/CTMP/1.7. The Markov property.html#introduction",
-    "href": "notes/CTMP/1.7. The Markov property.html#introduction",
-    "title": "1.7. The Markov Property",
-    "section": "",
-    "text": "This note summarizes the markov porperty on continuous time."
-  },
-  {
-    "objectID": "notes/CTMP/1.7. The Markov property.html#definition",
-    "href": "notes/CTMP/1.7. The Markov property.html#definition",
-    "title": "1.7. The Markov Property",
-    "section": "2. Definition",
-    "text": "2. Definition\nLet \\(X(t)\\) be a Markov proccess."
-  },
-  {
-    "objectID": "notes/CTMP/1.2. The multivariate Gaussian Distribution.html#definition",
-    "href": "notes/CTMP/1.2. The multivariate Gaussian Distribution.html#definition",
-    "title": "1.2. The multivariate Gaussian Distribution",
-    "section": "2. Definition",
-    "text": "2. Definition\nLet \\(X(t)\\) be a Markov proccess."
-  },
-  {
-    "objectID": "notes/CTMP/1.4.html",
-    "href": "notes/CTMP/1.4.html",
-    "title": "1.4. Definition of Brownian Motion",
-    "section": "",
-    "text": "NoteExercise 1.13\n\n\n\nSuppose X(t) is a stochastic process with stationary independent increments that satisfies E[X(1)]=0, E[X(1)^2]=1, and \nX(t) \\sim \\sqrt{t}X(1) \\quad \\text{for } t \\ge 0.\n Use the Central Limit Theorem (CLT) to show that X(t) - X(s) follows N(0, |t-s|) for s,t \\ge 0.\n\n\n\nProof. Proof.\nLet s &lt; t. Since X has stationary independent increments, X(t) - X(s) has the same distribution as X(t-s). By the scaling property given in the problem, \nX(t-s) \\sim \\sqrt{t-s}X(1).\n Therefore, it suffices to show that X(1) \\sim N(0,1).\nFix n \\in \\mathbb{N}. We can decompose X(1) into a sum of n independent increments: \nX(1) = \\sum_{k=1}^n \\left( X\\left(\\frac{k}{n}\\right) - X\\left(\\frac{k-1}{n}\\right) \\right).\n Let Y_{n,k} = X(\\frac{k}{n}) - X(\\frac{k-1}{n}). Due to stationary independent increments, Y_{n,k} are i.i.d. variables distributed as X(1/n). Using the scaling property X(1/n) \\sim \\frac{1}{\\sqrt{n}}X(1), we have: \nE[Y_{n,k}] = \\frac{1}{\\sqrt{n}}E[X(1)] = 0, \\quad \\text{Var}(Y_{n,k}) = \\frac{1}{n}\\text{Var}(X(1)) = \\frac{1}{n}.\n Now apply the classical CLT… (이하 생략)\n\\hfill \\square"
-  },
-  {
-    "objectID": "notes/CTMP/1.4.html#exercises",
-    "href": "notes/CTMP/1.4.html#exercises",
-    "title": "1.4. Definition of Brownian Motion",
-    "section": "",
-    "text": "NoteExercise 1.13\n\n\n\nSuppose X(t) is a stochastic process with stationary independent increments that satisfies E[X(1)]=0, E[X(1)^2]=1, and \nX(t) \\sim \\sqrt{t}X(1) \\quad \\text{for } t \\ge 0.\n Use the Central Limit Theorem (CLT) to show that X(t) - X(s) follows N(0, |t-s|) for s,t \\ge 0.\n\n\n\nProof. Proof.\nLet s &lt; t. Since X has stationary independent increments, X(t) - X(s) has the same distribution as X(t-s). By the scaling property given in the problem, \nX(t-s) \\sim \\sqrt{t-s}X(1).\n Therefore, it suffices to show that X(1) \\sim N(0,1).\nFix n \\in \\mathbb{N}. We can decompose X(1) into a sum of n independent increments: \nX(1) = \\sum_{k=1}^n \\left( X\\left(\\frac{k}{n}\\right) - X\\left(\\frac{k-1}{n}\\right) \\right).\n Let Y_{n,k} = X(\\frac{k}{n}) - X(\\frac{k-1}{n}). Due to stationary independent increments, Y_{n,k} are i.i.d. variables distributed as X(1/n). Using the scaling property X(1/n) \\sim \\frac{1}{\\sqrt{n}}X(1), we have: \nE[Y_{n,k}] = \\frac{1}{\\sqrt{n}}E[X(1)] = 0, \\quad \\text{Var}(Y_{n,k}) = \\frac{1}{n}\\text{Var}(X(1)) = \\frac{1}{n}.\n Now apply the classical CLT… (이하 생략)\n\\hfill \\square"
-  },
-  {
-    "objectID": "notes/CTMP/1.4.html#definitions",
-    "href": "notes/CTMP/1.4.html#definitions",
-    "title": "1.4. Definition of Brownian Motion",
-    "section": "2. Definitions",
-    "text": "2. Definitions\n\n\n\n\n\n\nTipDefinition (Markov Process)\n\n\n\nLet X(t) be a stochastic process defined on a probability space (\\Omega, \\mathcal{F}, P)…"
-  },
-  {
     "objectID": "notes/CTMP/1.4. Definition of Brownian Motion.html",
     "href": "notes/CTMP/1.4. Definition of Brownian Motion.html",
+    "title": "1.4. Definition of Brownian Motion",
+    "section": "",
+    "text": "This is a sample note for site building.\n\n\n\n\n\n\nNoteExercise 1.13\n\n\n\nSuppose X(t) is a stochastic process with stationary independent increments that satisfies E[X(1)]=0, E[X(1)^2]=1, and \nX(t) \\sim \\sqrt{t}X(1) \\quad \\text{for } t \\ge 0.\n Use the Central Limit Theorem (CLT) to show that X(t) - X(s) follows N(0, |t-s|) for s,t \\ge 0.\n\n\n\nProof. Proof.\nLet s &lt; t. Since X has stationary independent increments, X(t) - X(s) has the same distribution as X(t-s). By the scaling property given in the problem, \nX(t-s) \\sim \\sqrt{t-s}X(1).\n Therefore, it suffices to show that X(1) \\sim N(0,1).\nFix n \\in \\mathbb{N}. We can decompose X(1) into a sum of n independent increments: \nX(1) = \\sum_{k=1}^n \\left( X\\left(\\frac{k}{n}\\right) - X\\left(\\frac{k-1}{n}\\right) \\right).\n Let Y_{n,k} = X(\\frac{k}{n}) - X(\\frac{k-1}{n}). Due to stationary independent increments, Y_{n,k} are i.i.d. variables distributed as X(1/n). Using the scaling property X(1/n) \\sim \\frac{1}{\\sqrt{n}}X(1), we have: \nE[Y_{n,k}] = \\frac{1}{\\sqrt{n}}E[X(1)] = 0, \\quad \\text{Var}(Y_{n,k}) = \\frac{1}{n}\\text{Var}(X(1)) = \\frac{1}{n}.\n Now apply the classical CLT… (이하 생략)"
+  },
+  {
+    "objectID": "notes/CTMP/1.4. Definition of Brownian Motion.html#exercises",
+    "href": "notes/CTMP/1.4. Definition of Brownian Motion.html#exercises",
     "title": "1.4. Definition of Brownian Motion",
     "section": "",
     "text": "This is a sample note for site building.\n\n\n\n\n\n\nNoteExercise 1.13\n\n\n\nSuppose X(t) is a stochastic process with stationary independent increments that satisfies E[X(1)]=0, E[X(1)^2]=1, and \nX(t) \\sim \\sqrt{t}X(1) \\quad \\text{for } t \\ge 0.\n Use the Central Limit Theorem (CLT) to show that X(t) - X(s) follows N(0, |t-s|) for s,t \\ge 0.\n\n\n\nProof. Proof.\nLet s &lt; t. Since X has stationary independent increments, X(t) - X(s) has the same distribution as X(t-s). By the scaling property given in the problem, \nX(t-s) \\sim \\sqrt{t-s}X(1).\n Therefore, it suffices to show that X(1) \\sim N(0,1).\nFix n \\in \\mathbb{N}. We can decompose X(1) into a sum of n independent increments: \nX(1) = \\sum_{k=1}^n \\left( X\\left(\\frac{k}{n}\\right) - X\\left(\\frac{k-1}{n}\\right) \\right).\n Let Y_{n,k} = X(\\frac{k}{n}) - X(\\frac{k-1}{n}). Due to stationary independent increments, Y_{n,k} are i.i.d. variables distributed as X(1/n). Using the scaling property X(1/n) \\sim \\frac{1}{\\sqrt{n}}X(1), we have: \nE[Y_{n,k}] = \\frac{1}{\\sqrt{n}}E[X(1)] = 0, \\quad \\text{Var}(Y_{n,k}) = \\frac{1}{n}\\text{Var}(X(1)) = \\frac{1}{n}.\n Now apply the classical CLT… (이하 생략)"
@@ -201,12 +131,5 @@
     "title": "1.4. Definition of Brownian Motion",
     "section": "2. Definitions",
     "text": "2. Definitions\n\n\n\n\n\n\nTipDefinition (Markov Process)\n\n\n\nLet X(t) be a stochastic process defined on a probability space (\\Omega, \\mathcal{F}, P)…"
-  },
-  {
-    "objectID": "notes/CTMP/1.4. Definition of Brownian Motion.html#exercises",
-    "href": "notes/CTMP/1.4. Definition of Brownian Motion.html#exercises",
-    "title": "1.4. Definition of Brownian Motion",
-    "section": "",
-    "text": "This is a sample note for site building.\n\n\n\n\n\n\nNoteExercise 1.13\n\n\n\nSuppose X(t) is a stochastic process with stationary independent increments that satisfies E[X(1)]=0, E[X(1)^2]=1, and \nX(t) \\sim \\sqrt{t}X(1) \\quad \\text{for } t \\ge 0.\n Use the Central Limit Theorem (CLT) to show that X(t) - X(s) follows N(0, |t-s|) for s,t \\ge 0.\n\n\n\nProof. Proof.\nLet s &lt; t. Since X has stationary independent increments, X(t) - X(s) has the same distribution as X(t-s). By the scaling property given in the problem, \nX(t-s) \\sim \\sqrt{t-s}X(1).\n Therefore, it suffices to show that X(1) \\sim N(0,1).\nFix n \\in \\mathbb{N}. We can decompose X(1) into a sum of n independent increments: \nX(1) = \\sum_{k=1}^n \\left( X\\left(\\frac{k}{n}\\right) - X\\left(\\frac{k-1}{n}\\right) \\right).\n Let Y_{n,k} = X(\\frac{k}{n}) - X(\\frac{k-1}{n}). Due to stationary independent increments, Y_{n,k} are i.i.d. variables distributed as X(1/n). Using the scaling property X(1/n) \\sim \\frac{1}{\\sqrt{n}}X(1), we have: \nE[Y_{n,k}] = \\frac{1}{\\sqrt{n}}E[X(1)] = 0, \\quad \\text{Var}(Y_{n,k}) = \\frac{1}{n}\\text{Var}(X(1)) = \\frac{1}{n}.\n Now apply the classical CLT… (이하 생략)"
   }
 ]
