@@ -31,7 +31,6 @@ Hello! I am **Sungjun Park**, a Graduate Student in Mathematics at **Yonsei Univ
 
 **Yonsei University** | Seoul, South Korea <br>
 **M.S./Ph.D. Integrated Student** in Mathematics | *Aug 2025 - Present* <br>
-*Advisor: Prof. Name*
 
 **Yonsei University** | Seoul, South Korea <br>
 **B.S.** in Mathematics | *Mar 2019 - Aug 2025*
@@ -44,7 +43,7 @@ Hello! I am **Sungjun Park**, a Graduate Student in Mathematics at **Yonsei Univ
 
 ---
 
-## 💻 Technical Skills
+## Academinc Tools
 
 * **Languages**: Python, MATLAB
 * **Tools**: LaTeX

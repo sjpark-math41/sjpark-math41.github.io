@@ -95,7 +95,7 @@
     "href": "about.html#education",
     "title": "About Me",
     "section": "🎓 Education",
-    "text": "🎓 Education\nYonsei University | Seoul, South Korea  M.S./Ph.D. Integrated Student in Mathematics | Aug 2025 - Present  Advisor: Prof. Name\nYonsei University | Seoul, South Korea  B.S. in Mathematics | Mar 2019 - Aug 2025"
+    "text": "🎓 Education\nYonsei University | Seoul, South Korea  M.S./Ph.D. Integrated Student in Mathematics | Aug 2025 - Present \nYonsei University | Seoul, South Korea  B.S. in Mathematics | Mar 2019 - Aug 2025"
   },
   {
     "objectID": "about.html#research-interests",
@@ -105,11 +105,11 @@
     "text": "🔬 Research Interests\n\nProbability Theory: Stochastic Processes, Martingales, Measure Theory"
   },
   {
-    "objectID": "about.html#technical-skills",
-    "href": "about.html#technical-skills",
+    "objectID": "about.html#academinc-tools",
+    "href": "about.html#academinc-tools",
     "title": "About Me",
-    "section": "💻 Technical Skills",
-    "text": "💻 Technical Skills\n\nLanguages: Python, MATLAB\nTools: LaTeX"
+    "section": "Academinc Tools",
+    "text": "Academinc Tools\n\nLanguages: Python, MATLAB\nTools: LaTeX"
   },
   {
     "objectID": "notes/CTMP/1.4. Definition of Brownian Motion.html",

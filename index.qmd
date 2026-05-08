@@ -9,6 +9,7 @@ about:
       href: mailto:sungjun.park@yonsei.ac.kr
 ---
 
+
 Hello. My name is Sungjun Park. I am currently a graduate student in the combined Master's and Ph.D. program in the Department of Mathematics at Yonsei University. I received my B.S. in Mathematics from Yonsei University in August 2025. My primary research interest lies in Probability Theory
 
 
