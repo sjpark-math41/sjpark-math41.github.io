@@ -74,7 +74,7 @@
     "href": "notes.html",
     "title": "Study Notes",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n1.4. Definition of Brownian Motion\n\n\n\nContinuous Time Markov Processes\n\nProbability\n\n\n\n\n\n\n\n\n\nJan 7, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n1.2. The multivariate Gaussian Distribution\n\n\n\nCTMP\n\n\n\n\n\n\n\n\n\nJan 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nDefinition of Probability Measure\n\n\n\nProbability\n\nMeasure Theory\n\n\n\n\n\n\n\n\n\nDec 23, 2025\n\n\nSungjun Park\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nProblem 1.1: Asymmetric Lebesgue Differentiation\n\n\n\nreal analysis\n\nmeasure theory\n\nLebesgue differentiation theorem\n\n\n\n\n\n\n\n\n\nMay 23, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nProblem 1.1: Asymmetric Lebesgue Differentiation\n\n\n\nreal analysis\n\nmeasure theory\n\nLebesgue differentiation theorem\n\n\n\n\n\n\n\n\n\nMay 23, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n1.4. Definition of Brownian Motion\n\n\n\nContinuous Time Markov Processes\n\nProbability\n\n\n\n\n\n\n\n\n\nJan 7, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n1.2. The multivariate Gaussian Distribution\n\n\n\nCTMP\n\n\n\n\n\n\n\n\n\nJan 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nDefinition of Probability Measure\n\n\n\nProbability\n\nMeasure Theory\n\n\n\n\n\n\n\n\n\nDec 23, 2025\n\n\nSungjun Park\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -131,5 +131,159 @@
     "title": "1.4. Definition of Brownian Motion",
     "section": "2. Definitions",
     "text": "2. Definitions\n\n\n\n\n\n\nTipDefinition (Markov Process)\n\n\n\nLet X(t) be a stochastic process defined on a probability space (\\Omega, \\mathcal{F}, P)…"
+  },
+  {
+    "objectID": "notes/Inclusion Process/Understanding for Inclusion Process.html",
+    "href": "notes/Inclusion Process/Understanding for Inclusion Process.html",
+    "title": "What is Inclusion Process?",
+    "section": "",
+    "text": "Inclusion process는 여러 입자가 유한한 상태공간 \\(S\\) 위에서 움직이는 interacting particle system이다.\n이 모델의 특징은 입자들이 서로 밀어내는 것이 아니라, 이미 입자가 많이 모여 있는 곳으로 더 잘 이동한다는 점이다.\n이러한 attractive interaction 때문에 많은 수의 입자가 한 지점에 몰리는 현상이 발생할 수 있고 이를 condensation이라고 한다.\n이 글에서는 inclusion process의 기본 정의, condensation의 의미, 그리고 condensate의 metastable behavior가 무엇을 뜻하는지를 알아보고자 한다."
+  },
+  {
+    "objectID": "notes/Inclusion Process/Understanding for Inclusion Process.html#introduction",
+    "href": "notes/Inclusion Process/Understanding for Inclusion Process.html#introduction",
+    "title": "What is Inclusion Process?",
+    "section": "",
+    "text": "Inclusion process는 여러 입자가 유한한 상태공간 \\(S\\) 위에서 움직이는 interacting particle system이다.\n이 모델의 특징은 입자들이 서로 밀어내는 것이 아니라, 이미 입자가 많이 모여 있는 곳으로 더 잘 이동한다는 점이다.\n이러한 attractive interaction 때문에 많은 수의 입자가 한 지점에 몰리는 현상이 발생할 수 있고 이를 condensation이라고 한다.\n이 글에서는 inclusion process의 기본 정의, condensation의 의미, 그리고 condensate의 metastable behavior가 무엇을 뜻하는지를 알아보고자 한다."
+  },
+  {
+    "objectID": "notes/Inclusion Process/Understanding for Inclusion Process.html#underlying-random-walk",
+    "href": "notes/Inclusion Process/Understanding for Inclusion Process.html#underlying-random-walk",
+    "title": "What is Inclusion Process?",
+    "section": "2 Underlying Random walk",
+    "text": "2 Underlying Random walk\nInclusion Process는 입자들이 상호작용하면서 움직이는 입자계이다. 이때, 입자들이 어떤 공간 위에서 어떤 방향과 rate로 이동할 수 있는지를 먼저 정해야 한다. 이를 위해 finite state set \\(S\\) 위에서의 underlying random walk를 정의하자.\n\\[S = \\{ x_1, x_2, \\ldots , \\kappa \\}\\]\n를 잡자. 이때, \\(x \\in S\\)는 입자가 위치할 수 있는 site이다.\n\nDefinition 1 (Underlying random walk) \\(S\\) 위에서 jump rate \\(r(\\cdot, \\cdot):S \\times S \\to [0,\\infty)\\)를 가지고 continuous time, irreducible 한 Markov chain \\((X(t))_{t \\in [0,\\infty)}\\)를 underlying random walk로 잡는다.\n이때, \\(m(\\cdot)\\)은 Markov chain \\(X(\\cdot)\\)의 invariant measure라 하고, 서술의 편의를 위해 \\(r(x,x)=0\\) for all \\(x \\in S\\)라 하자.\n\n전체 입자의 수를 \\(N\\)이라 하면, configuration space는\n\\[\\mathcal{E}_N\\]\n[ E_N = ]\n로 정의된다.\n여기서\n[ _x ]\n는 site (x)에 존재하는 입자의 수를 의미한다.\n즉, 하나의 configuration\n[ = (*x)*{x S} ]\n는 전체 (N)개의 입자가 각 site에 어떻게 분포되어 있는지를 나타낸다."
+  },
+  {
+    "objectID": "notes/Inclusion Process/Understanding for Inclusion Process.html#inclusion-process의-generator",
+    "href": "notes/Inclusion Process/Understanding for Inclusion Process.html#inclusion-process의-generator",
+    "title": "What is Inclusion Process?",
+    "section": "3 3. Inclusion Process의 Generator",
+    "text": "3 3. Inclusion Process의 Generator\nInclusion process는 (E_N) 위의 continuous-time Markov chain으로 정의된다.\n일반적으로 generator는 다음 형태를 가진다.\n[ (L_N F)() = _{x,y S} _x (d_N + _y) r(x,y) . ]\n여기서 각 기호의 의미는 다음과 같다.\n\n(r(x,y)): underlying random walk가 (x)에서 (y)로 이동하는 rate\n(d_N &gt; 0): diffusion strength를 조절하는 작은 parameter\n(^{x,y}): configuration ()에서 입자 하나를 (x)에서 (y)로 옮긴 configuration\n(F : E_N ): test function\n\n즉, (_x)개의 입자 중 하나가 (x)에서 (y)로 이동하는 rate는\n[ _x(d_N + _y) r(x,y) ]\n이다."
+  },
+  {
+    "objectID": "notes/Inclusion Process/Understanding for Inclusion Process.html#왜-inclusion인가",
+    "href": "notes/Inclusion Process/Understanding for Inclusion Process.html#왜-inclusion인가",
+    "title": "What is Inclusion Process?",
+    "section": "4 4. 왜 “Inclusion”인가?",
+    "text": "4 4. 왜 “Inclusion”인가?\n이 rate를 다음과 같이 나누어 볼 수 있다.\n[ _x(d_N + _y)r(x,y) = d_N _x r(x,y) + _x _y r(x,y). ]\n첫 번째 항\n[ d_N _x r(x,y) ]\n은 입자들이 underlying random walk에 따라 움직이는 diffusive part로 볼 수 있다.\n반면 두 번째 항\n[ _x _y r(x,y) ]\n은 site (y)에 이미 입자가 많을수록 (x)의 입자가 (y)로 더 잘 이동한다는 것을 의미한다.\n따라서 입자들은 서로를 끌어당기는 것처럼 행동한다.\n이것이 inclusion process의 핵심적인 attractive mechanism이다."
+  },
+  {
+    "objectID": "notes/Inclusion Process/Understanding for Inclusion Process.html#condensation-현상",
+    "href": "notes/Inclusion Process/Understanding for Inclusion Process.html#condensation-현상",
+    "title": "What is Inclusion Process?",
+    "section": "5 5. Condensation 현상",
+    "text": "5 5. Condensation 현상\nInclusion process에서 (d_N)이 충분히 작으면, diffusive effect보다 attractive interaction이 지배적이 된다.\n그 결과 대부분의 입자가 하나의 site에 몰리는 현상이 나타날 수 있다.\n이를 condensation이라고 한다.\n예를 들어 site (x S)에 모든 입자가 모인 configuration을\n[ _N^x ]\n라고 쓰자. 즉,\n[ (_N^x)_z =\n\\[\\begin{cases}\nN, & z=x, \\\\\n0, & z \\neq x.\n\\end{cases}\\]\n]\n이때\n[ E_N^x = {_N^x} ]\n는 (x)에 condensate가 위치한 metastable state로 볼 수 있다.\nCondensation이 일어난다는 것은 대략적으로 invariant measure (_N) 아래에서\n[ *N* ( E_N^x ) ]\n이 성립한다는 뜻이다. 여기서 (S_*)는 condensate가 나타날 수 있는 site들의 집합이다."
+  },
+  {
+    "objectID": "notes/Inclusion Process/Understanding for Inclusion Process.html#metastability와-condensate의-움직임",
+    "href": "notes/Inclusion Process/Understanding for Inclusion Process.html#metastability와-condensate의-움직임",
+    "title": "What is Inclusion Process?",
+    "section": "6 6. Metastability와 Condensate의 움직임",
+    "text": "6 6. Metastability와 Condensate의 움직임\nCondensation이 발생하면, process는 대부분의 시간 동안 어떤 (E_N^x) 근처에 머문다.\n하지만 매우 긴 시간 scale에서 보면 condensate가 한 site에서 다른 site로 이동한다.\n즉,\n[ _N^x _N^y ]\n와 같은 전이가 드물게 발생한다.\n이러한 드문 전이를 관찰하기 위해 적절한 time scale (*N)을 도입한다.\n그러면 condensate의 위치 process는 유한 상태공간 (S**) 위의 Markov chain으로 수렴할 수 있다.\n이것이 inclusion process에서의 metastable behavior이다."
+  },
+  {
+    "objectID": "notes/Inclusion Process/Understanding for Inclusion Process.html#reversible-case와-non-reversible-case의-차이",
+    "href": "notes/Inclusion Process/Understanding for Inclusion Process.html#reversible-case와-non-reversible-case의-차이",
+    "title": "What is Inclusion Process?",
+    "section": "7 7. Reversible Case와 Non-reversible Case의 차이",
+    "text": "7 7. Reversible Case와 Non-reversible Case의 차이\nReversible inclusion process에서는 invariant measure가 explicit하게 주어지는 경우가 많기 때문에, condensation과 metastable transition을 potential theory를 통해 분석할 수 있다.\n하지만 non-reversible case에서는 일반적으로 invariant measure의 closed-form expression이 없다.\n이 때문에 다음 두 문제가 어려워진다.\n\ncondensation이 실제로 발생하는지 보이기 어렵다.\nmetastable transition rate를 계산하기 어렵다.\n\n그럼에도 non-reversible inclusion process에서는 reversible case와 다른 흥미로운 현상이 나타난다.\n특히 condensate의 이동 time scale과 limiting dynamics가 달라질 수 있다."
+  },
+  {
+    "objectID": "notes/Inclusion Process/Understanding for Inclusion Process.html#zero-range-process와의-비교",
+    "href": "notes/Inclusion Process/Understanding for Inclusion Process.html#zero-range-process와의-비교",
+    "title": "What is Inclusion Process?",
+    "section": "8 8. Zero-range Process와의 비교",
+    "text": "8 8. Zero-range Process와의 비교\nZero-range process와 inclusion process는 둘 다 condensation을 보이는 대표적인 interacting particle system이다.\n하지만 condensate가 이동하는 방식은 다르다.\nZero-range process에서는 일부 입자가 먼저 떨어져 나와 다른 곳에 작은 condensate를 만들고, 이후 전체 condensate가 이동하는 식의 long-range movement가 가능하다.\n반면 inclusion process에서는 condensate가 보통 이웃 site들을 따라 순차적으로 이동하는 구조가 나타난다.\n이 차이는 두 모델의 generator가 가진 interaction mechanism의 차이에서 비롯된다."
+  },
+  {
+    "objectID": "notes/Inclusion Process/Understanding for Inclusion Process.html#요약",
+    "href": "notes/Inclusion Process/Understanding for Inclusion Process.html#요약",
+    "title": "What is Inclusion Process?",
+    "section": "9 9. 요약",
+    "text": "9 9. 요약\nInclusion process는 다음과 같이 요약할 수 있다.\n\n유한한 상태공간 (S) 위의 interacting particle system이다.\n입자는 (x)에서 (y)로 rate (_x(d_N+_y)r(x,y))로 이동한다.\n(_y)가 클수록 (y)로 이동할 rate가 커지므로 attractive interaction이 존재한다.\n(d_N)이 작으면 대부분의 입자가 하나의 site에 몰리는 condensation이 발생할 수 있다.\n긴 시간 scale에서 condensate의 위치가 site들 사이를 이동하며, 이것이 metastability 문제로 해석된다.\nnon-reversible case에서는 invariant measure를 알기 어렵기 때문에 분석이 훨씬 섬세해진다."
+  },
+  {
+    "objectID": "notes/Inclusion Process/Understanding for Inclusion Process.html#앞으로-공부할-방향",
+    "href": "notes/Inclusion Process/Understanding for Inclusion Process.html#앞으로-공부할-방향",
+    "title": "What is Inclusion Process?",
+    "section": "10 10. 앞으로 공부할 방향",
+    "text": "10 10. 앞으로 공부할 방향\n이 글에서는 inclusion process의 기본 개념만 정리했다.\n다음 글에서는 다음 주제를 다룰 수 있다.\n\ncondensation의 엄밀한 정의\nmetastable set (E_N^x)의 의미\ntrace process와 order process\nmean jump rate 계산\nreversible case와 non-reversible case의 time scale 차이\nresolvent equation approach와의 연결"
+  },
+  {
+    "objectID": "notes/Inclusion Process/Understanding for Inclusion Process.html#underlying-random-walk-1",
+    "href": "notes/Inclusion Process/Understanding for Inclusion Process.html#underlying-random-walk-1",
+    "title": "What is Inclusion Process?",
+    "section": "3 Underlying Random walk",
+    "text": "3 Underlying Random walk\ndasdadasdadadasdad"
+  },
+  {
+    "objectID": "notes/Analysis/problem-1-1-asymmetric-lebesgue-differentiation.html",
+    "href": "notes/Analysis/problem-1-1-asymmetric-lebesgue-differentiation.html",
+    "title": "Problem 1.1: Asymmetric Lebesgue Differentiation",
+    "section": "",
+    "text": "Let \\(f \\in L^1_{\\mathrm{loc}}(\\mathbb{R})\\). For \\(r&gt;0\\), define\n\\[\nA_r f(x) := \\frac{1}{3r}\\int_{x-r}^{x+2r} f(t)\\,dt.\n\\]\nProve that for almost every \\(x\\in\\mathbb{R}\\),\n\\[\n\\lim_{r\\to 0} A_r f(x) = f(x).\n\\]"
+  },
+  {
+    "objectID": "notes/Analysis/problem-1-1-asymmetric-lebesgue-differentiation.html#problem",
+    "href": "notes/Analysis/problem-1-1-asymmetric-lebesgue-differentiation.html#problem",
+    "title": "Problem 1.1: Asymmetric Lebesgue Differentiation",
+    "section": "",
+    "text": "Let \\(f \\in L^1_{\\mathrm{loc}}(\\mathbb{R})\\). For \\(r&gt;0\\), define\n\\[\nA_r f(x) := \\frac{1}{3r}\\int_{x-r}^{x+2r} f(t)\\,dt.\n\\]\nProve that for almost every \\(x\\in\\mathbb{R}\\),\n\\[\n\\lim_{r\\to 0} A_r f(x) = f(x).\n\\]"
+  },
+  {
+    "objectID": "notes/Analysis/problem-1-1-asymmetric-lebesgue-differentiation.html#remarks",
+    "href": "notes/Analysis/problem-1-1-asymmetric-lebesgue-differentiation.html#remarks",
+    "title": "Problem 1.1: Asymmetric Lebesgue Differentiation",
+    "section": "Remarks",
+    "text": "Remarks\nIn the textbook’s Lebesgue Differentiation Theorem, the averaging interval is probably the symmetric interval \\((x-t,x+t)\\). This problem shows that the theorem still holds even when the interval is asymmetric. As long as the interval contains \\(x\\) and its length shrinks to \\(0\\), the average value converges to \\(f(x)\\) at almost every point.\nRecall that \\(f\\in L^1_{\\mathrm{loc}}(\\mathbb{R})\\) means that for every compact interval \\(K\\subset \\mathbb{R}\\),\n\\[\n\\int_K |f(t)|\\,dt &lt; \\infty.\n\\]\nAlso, a point \\(x\\) is a Lebesgue point of \\(f\\) if\n\\[\n\\frac{1}{2r}\\int_{x-r}^{x+r}|f(t)-f(x)|\\,dt \\to 0\n\\qquad \\text{as } r\\to 0.\n\\]\nBy the Lebesgue Differentiation Theorem, almost every \\(x\\in\\mathbb{R}\\) is a Lebesgue point of \\(f\\)."
+  },
+  {
+    "objectID": "notes/Analysis/problem-1-1-asymmetric-lebesgue-differentiation.html#solution",
+    "href": "notes/Analysis/problem-1-1-asymmetric-lebesgue-differentiation.html#solution",
+    "title": "Problem 1.1: Asymmetric Lebesgue Differentiation",
+    "section": "Solution",
+    "text": "Solution\nSince \\(f\\in L^1_{\\mathrm{loc}}(\\mathbb{R})\\), by the Lebesgue Differentiation Theorem, for almost every \\(x\\in\\mathbb{R}\\),\n\\[\n\\frac{1}{2\\rho}\\int_{x-\\rho}^{x+\\rho}|f(t)-f(x)|\\,dt \\to 0\n\\qquad \\text{as } \\rho\\to 0.\n\\]\nFix such an \\(x\\). We estimate \\(|A_r f(x)-f(x)|\\). Since\n\\[\n\\frac{1}{3r}\\int_{x-r}^{x+2r} f(x)\\,dt = f(x),\n\\]\nwe have\n\\[\n\\begin{aligned}\n|A_r f(x)-f(x)|\n&= \\left|\\frac{1}{3r}\\int_{x-r}^{x+2r}f(t)\\,dt - f(x)\\right| \\\\\n&= \\left|\\frac{1}{3r}\\int_{x-r}^{x+2r}f(t)\\,dt\n      - \\frac{1}{3r}\\int_{x-r}^{x+2r}f(x)\\,dt\\right| \\\\\n&= \\left|\\frac{1}{3r}\\int_{x-r}^{x+2r}\\bigl(f(t)-f(x)\\bigr)\\,dt\\right| \\\\\n&\\le \\frac{1}{3r}\\int_{x-r}^{x+2r}|f(t)-f(x)|\\,dt.\n\\end{aligned}\n\\]\nNow observe that\n\\[\n(x-r,x+2r)\\subset (x-2r,x+2r).\n\\]\nTherefore,\n\\[\n\\begin{aligned}\n|A_r f(x)-f(x)|\n&\\le \\frac{1}{3r}\\int_{x-r}^{x+2r}|f(t)-f(x)|\\,dt \\\\\n&\\le \\frac{1}{3r}\\int_{x-2r}^{x+2r}|f(t)-f(x)|\\,dt \\\\\n&= \\frac{4}{3}\\cdot \\frac{1}{4r}\\int_{x-2r}^{x+2r}|f(t)-f(x)|\\,dt.\n\\end{aligned}\n\\]\nSince \\(x\\) is a Lebesgue point of \\(f\\), applying the defining property with radius \\(2r\\) gives\n\\[\n\\frac{1}{4r}\\int_{x-2r}^{x+2r}|f(t)-f(x)|\\,dt \\to 0\n\\qquad \\text{as } r\\to 0.\n\\]\nHence,\n\\[\n|A_r f(x)-f(x)|\n\\le\n\\frac{4}{3}\\cdot \\frac{1}{4r}\\int_{x-2r}^{x+2r}|f(t)-f(x)|\\,dt\n\\to 0\n\\qquad \\text{as } r\\to 0.\n\\]\nThus,\n\\[\n\\lim_{r\\to 0} A_r f(x)=f(x)\n\\]\nfor every Lebesgue point \\(x\\) of \\(f\\). Since almost every \\(x\\in\\mathbb{R}\\) is a Lebesgue point of \\(f\\), we conclude that\n\\[\n\\lim_{r\\to 0} A_r f(x)=f(x)\n\\qquad \\text{for almost every }x\\in\\mathbb{R}.\n\\]"
+  },
+  {
+    "objectID": "notes/Analysis/problem-1-1-asymmetric-lebesgue-differentiation.html#comment",
+    "href": "notes/Analysis/problem-1-1-asymmetric-lebesgue-differentiation.html#comment",
+    "title": "Problem 1.1: Asymmetric Lebesgue Differentiation",
+    "section": "Comment",
+    "text": "Comment\nThe main idea is that the asymmetric interval \\((x-r,x+2r)\\) is contained in the symmetric interval \\((x-2r,x+2r)\\), whose radius is \\(2r\\). Therefore the asymmetric average is controlled by the symmetric Lebesgue differentiation average at the same point."
+  },
+  {
+    "objectID": "notes/Analysis/problem-1-1-asymmetric-lebesgue-differentiation (1).html",
+    "href": "notes/Analysis/problem-1-1-asymmetric-lebesgue-differentiation (1).html",
+    "title": "Problem 1.1: Asymmetric Lebesgue Differentiation",
+    "section": "",
+    "text": "Let \\(f \\in L^1_{\\mathrm{loc}}(\\mathbb{R})\\). For \\(r&gt;0\\), define\n\\[\nA_r f(x) := \\frac{1}{3r}\\int_{x-r}^{x+2r} f(t)\\,dt.\n\\]\nProve that for almost every \\(x\\in\\mathbb{R}\\),\n\\[\n\\lim_{r\\to 0} A_r f(x) = f(x).\n\\]"
+  },
+  {
+    "objectID": "notes/Analysis/problem-1-1-asymmetric-lebesgue-differentiation (1).html#problem",
+    "href": "notes/Analysis/problem-1-1-asymmetric-lebesgue-differentiation (1).html#problem",
+    "title": "Problem 1.1: Asymmetric Lebesgue Differentiation",
+    "section": "",
+    "text": "Let \\(f \\in L^1_{\\mathrm{loc}}(\\mathbb{R})\\). For \\(r&gt;0\\), define\n\\[\nA_r f(x) := \\frac{1}{3r}\\int_{x-r}^{x+2r} f(t)\\,dt.\n\\]\nProve that for almost every \\(x\\in\\mathbb{R}\\),\n\\[\n\\lim_{r\\to 0} A_r f(x) = f(x).\n\\]"
+  },
+  {
+    "objectID": "notes/Analysis/problem-1-1-asymmetric-lebesgue-differentiation (1).html#remarks",
+    "href": "notes/Analysis/problem-1-1-asymmetric-lebesgue-differentiation (1).html#remarks",
+    "title": "Problem 1.1: Asymmetric Lebesgue Differentiation",
+    "section": "Remarks",
+    "text": "Remarks\nIn the textbook’s Lebesgue Differentiation Theorem, the averaging interval is probably the symmetric interval \\((x-t,x+t)\\). This problem shows that the theorem still holds even when the interval is asymmetric. As long as the interval contains \\(x\\) and its length shrinks to \\(0\\), the average value converges to \\(f(x)\\) at almost every point.\nRecall that \\(f\\in L^1_{\\mathrm{loc}}(\\mathbb{R})\\) means that for every compact interval \\(K\\subset \\mathbb{R}\\),\n\\[\n\\int_K |f(t)|\\,dt &lt; \\infty.\n\\]\nAlso, a point \\(x\\) is a Lebesgue point of \\(f\\) if\n\\[\n\\frac{1}{2r}\\int_{x-r}^{x+r}|f(t)-f(x)|\\,dt \\to 0\n\\qquad \\text{as } r\\to 0.\n\\]\nBy the Lebesgue Differentiation Theorem, almost every \\(x\\in\\mathbb{R}\\) is a Lebesgue point of \\(f\\)."
+  },
+  {
+    "objectID": "notes/Analysis/problem-1-1-asymmetric-lebesgue-differentiation (1).html#solution",
+    "href": "notes/Analysis/problem-1-1-asymmetric-lebesgue-differentiation (1).html#solution",
+    "title": "Problem 1.1: Asymmetric Lebesgue Differentiation",
+    "section": "Solution",
+    "text": "Solution\nSince \\(f\\in L^1_{\\mathrm{loc}}(\\mathbb{R})\\), by the Lebesgue Differentiation Theorem, for almost every \\(x\\in\\mathbb{R}\\),\n\\[\n\\frac{1}{2\\rho}\\int_{x-\\rho}^{x+\\rho}|f(t)-f(x)|\\,dt \\to 0\n\\qquad \\text{as } \\rho\\to 0.\n\\]\nFix such an \\(x\\). We estimate \\(|A_r f(x)-f(x)|\\). Since\n\\[\n\\frac{1}{3r}\\int_{x-r}^{x+2r} f(x)\\,dt = f(x),\n\\]\nwe have\n\\[\n\\begin{aligned}\n|A_r f(x)-f(x)|\n&= \\left|\\frac{1}{3r}\\int_{x-r}^{x+2r}f(t)\\,dt - f(x)\\right| \\\\\n&= \\left|\\frac{1}{3r}\\int_{x-r}^{x+2r}f(t)\\,dt\n      - \\frac{1}{3r}\\int_{x-r}^{x+2r}f(x)\\,dt\\right| \\\\\n&= \\left|\\frac{1}{3r}\\int_{x-r}^{x+2r}\\bigl(f(t)-f(x)\\bigr)\\,dt\\right| \\\\\n&\\le \\frac{1}{3r}\\int_{x-r}^{x+2r}|f(t)-f(x)|\\,dt.\n\\end{aligned}\n\\]\nNow observe that\n\\[\n(x-r,x+2r)\\subset (x-2r,x+2r).\n\\]\nTherefore,\n\\[\n\\begin{aligned}\n|A_r f(x)-f(x)|\n&\\le \\frac{1}{3r}\\int_{x-r}^{x+2r}|f(t)-f(x)|\\,dt \\\\\n&\\le \\frac{1}{3r}\\int_{x-2r}^{x+2r}|f(t)-f(x)|\\,dt \\\\\n&= \\frac{4}{3}\\cdot \\frac{1}{4r}\\int_{x-2r}^{x+2r}|f(t)-f(x)|\\,dt.\n\\end{aligned}\n\\]\nSince \\(x\\) is a Lebesgue point of \\(f\\), applying the defining property with radius \\(2r\\) gives\n\\[\n\\frac{1}{4r}\\int_{x-2r}^{x+2r}|f(t)-f(x)|\\,dt \\to 0\n\\qquad \\text{as } r\\to 0.\n\\]\nHence,\n\\[\n|A_r f(x)-f(x)|\n\\le\n\\frac{4}{3}\\cdot \\frac{1}{4r}\\int_{x-2r}^{x+2r}|f(t)-f(x)|\\,dt\n\\to 0\n\\qquad \\text{as } r\\to 0.\n\\]\nThus,\n\\[\n\\lim_{r\\to 0} A_r f(x)=f(x)\n\\]\nfor every Lebesgue point \\(x\\) of \\(f\\). Since almost every \\(x\\in\\mathbb{R}\\) is a Lebesgue point of \\(f\\), we conclude that\n\\[\n\\lim_{r\\to 0} A_r f(x)=f(x)\n\\qquad \\text{for almost every }x\\in\\mathbb{R}.\n\\]"
+  },
+  {
+    "objectID": "notes/Analysis/problem-1-1-asymmetric-lebesgue-differentiation (1).html#comment",
+    "href": "notes/Analysis/problem-1-1-asymmetric-lebesgue-differentiation (1).html#comment",
+    "title": "Problem 1.1: Asymmetric Lebesgue Differentiation",
+    "section": "Comment",
+    "text": "Comment\nThe main idea is that the asymmetric interval \\((x-r,x+2r)\\) is contained in the symmetric interval \\((x-2r,x+2r)\\), whose radius is \\(2r\\). Therefore the asymmetric average is controlled by the symmetric Lebesgue differentiation average at the same point."
   }
 ]
