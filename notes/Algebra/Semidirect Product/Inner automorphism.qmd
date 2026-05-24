@@ -1,5 +1,5 @@
 ---
-title: "5.5. Exercise 18. Realizing Automorphisms as Inner Automorphisms"
+title: "Realizing Automorphisms as Inner Automorphisms"
 date: 2026-05-24
 categories: [Algebra, Group Theory, Semidirect Product]
 format:

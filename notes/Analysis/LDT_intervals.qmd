@@ -1,5 +1,5 @@
 ---
-title: "Problem 1.1: Asymmetric Lebesgue Differentiation"
+title: "Asymmetric Lebesgue Differentiation"
 author: ""
 date: today
 format:
@@ -9,8 +9,8 @@ format:
     number-sections: false
     html-math-method: mathjax
 categories:
-  - real analysis
-  - measure theory
+  - Real analysis
+  - Measure theory
   - Lebesgue differentiation theorem
 ---
 
