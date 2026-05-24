@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="">
+<meta name="dcterms.date" content="2026-05-24">
 
-<title>Study Notes – Sungjun Park</title>
+<title>Problem 1.1: Asymmetric Lebesgue Differentiation – Sungjun Park</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -26,25 +28,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-158031087360bce0ff56dc785ce39e06.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-158031087360bce0ff56dc785ce39e06.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -72,35 +72,6 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
   <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
@@ -137,11 +108,11 @@ window.Quarto = {
 <body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Sungjun Park</span>
     </a>
   </div>
@@ -152,19 +123,19 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./research.html"> 
+    <a class="nav-link" href="../../research.html"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./notes.html" aria-current="page"> 
+    <a class="nav-link" href="../../notes.html"> 
 <span class="menu-text">Notes</span></a>
   </li>  
 </ul>
@@ -182,219 +153,145 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page-left">
-      <h1 class="title">Study Notes</h1>
-                      </div>
-  </div>
-    
-  
-  <div class="quarto-title-meta column-page-left">
-
-      
-    
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(5)</span></div><div class="category" data-category="QWxnZWJyYQ==">Algebra <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Q29udGludW91cyUyMFRpbWUlMjBNYXJrb3YlMjBQcm9jZXNzZXM=">Continuous Time Markov Processes <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Q1RNUA==">CTMP <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R3JvdXAlMjBUaGVvcnk=">Group Theory <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TGViZXNndWUlMjBkaWZmZXJlbnRpYXRpb24lMjB0aGVvcmVt">Lebesgue differentiation theorem <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bWVhc3VyZSUyMHRoZW9yeQ==">measure theory <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TWVhc3VyZSUyMFRoZW9yeQ==">Measure Theory <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UHJvYmFiaWxpdHk=">Probability <span class="quarto-category-count">(2)</span></div><div class="category" data-category="cmVhbCUyMGFuYWx5c2lz">real analysis <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U2VtaWRpcmVjdCUyMFByb2R1Y3Q=">Semidirect Product <span class="quarto-category-count">(1)</span></div></div></div>
-<!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
-
-
-
-
-
-
-
-
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-    <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-      <option value="" disabled="" selected="" hidden="">Order By</option>
-      <option value="index" data-direction="asc">Default</option>
-      <option value="listing-title" data-direction="asc">
-        Title
-      </option>
-      <option value="listing-date-sort" data-direction="asc">
-        Date - Oldest
-      </option>
-      <option value="listing-date-sort" data-direction="desc">
-        Date - Newest
-      </option>
-      <option value="listing-author" data-direction="asc">
-        Author
-      </option>
-    </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul class="collapse">
+  <li><a href="#problem" id="toc-problem" class="nav-link active" data-scroll-target="#problem">Problem</a></li>
+  <li><a href="#remarks" id="toc-remarks" class="nav-link" data-scroll-target="#remarks">Remarks</a></li>
+  <li><a href="#solution" id="toc-solution" class="nav-link" data-scroll-target="#solution">Solution</a></li>
+  <li><a href="#comment" id="toc-comment" class="nav-link" data-scroll-target="#comment">Comment</a></li>
+  </ul>
+</nav>
     </div>
-</div>
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="cmVhbCUyMGFuYWx5c2lzJTJDbWVhc3VyZSUyMHRoZW9yeSUyQ0xlYmVzZ3VlJTIwZGlmZmVyZW50aWF0aW9uJTIwdGhlb3JlbQ==" data-listing-date-sort="1779548400000" data-listing-file-modified-sort="1779529703473" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="266">
-<div class="thumbnail"><a href="./notes/Analysis/LDT_intervals.html" class="no-external">
+<!-- main -->
+<main class="content" id="quarto-document-content">
 
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Problem 1.1: Asymmetric Lebesgue Differentiation</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">real analysis</div>
+    <div class="quarto-category">measure theory</div>
+    <div class="quarto-category">Lebesgue differentiation theorem</div>
+  </div>
+  </div>
 
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./notes/Analysis/LDT_intervals.html" class="no-external">Problem 1.1: Asymmetric Lebesgue Differentiation</a>
-</h3>
-<div class="listing-categories">
 
-<div class="listing-category" onclick="window.quartoListingCategory('cmVhbCUyMGFuYWx5c2lz'); return false;">real analysis</div>
 
-<div class="listing-category" onclick="window.quartoListingCategory('bWVhc3VyZSUyMHRoZW9yeQ=='); return false;">measure theory</div>
+<div class="quarto-title-meta">
 
-<div class="listing-category" onclick="window.quartoListingCategory('TGViZXNndWUlMjBkaWZmZXJlbnRpYXRpb24lMjB0aGVvcmVt'); return false;">Lebesgue differentiation theorem</div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">May 24, 2026</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
 
-</div>
-<div class="delink listing-description"><a href="./notes/Analysis/LDT_intervals.html" class="no-external">
-Let <span class="math inline">\(f \in L^1_{\mathrm{loc}}(\mathbb{R})\)</span>. For <span class="math inline">\(r&gt;0\)</span>, define
-</a></div>
-</div>
-<div class="metadata">
-<a href="./notes/Analysis/LDT_intervals.html" class="no-external">
-<div class="listing-date">
-May 24, 2026
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="QWxnZWJyYSUyQ0dyb3VwJTIwVGhlb3J5JTJDU2VtaWRpcmVjdCUyMFByb2R1Y3Q=" data-listing-date-sort="1779548400000" data-listing-file-modified-sort="1779618300642" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="289">
-<div class="thumbnail"><a href="./notes/Algebra/exercise-18-automorphisms-as-inner-automorphisms-dollar.html" class="no-external">
 
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</header>
 
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./notes/Algebra/exercise-18-automorphisms-as-inner-automorphisms-dollar.html" class="no-external">5.5. Exercise 18. Realizing Automorphisms as Inner Automorphisms</a>
-</h3>
-<div class="listing-categories">
 
-<div class="listing-category" onclick="window.quartoListingCategory('QWxnZWJyYQ=='); return false;">Algebra</div>
+<section id="problem" class="level2">
+<h2 class="anchored" data-anchor-id="problem">Problem</h2>
+<p>Let <span class="math inline">\(f \in L^1_{\mathrm{loc}}(\mathbb{R})\)</span>. For <span class="math inline">\(r&gt;0\)</span>, define</p>
+<p><span class="math display">\[
+A_r f(x) := \frac{1}{3r}\int_{x-r}^{x+2r} f(t)\,dt.
+\]</span></p>
+<p>Prove that for almost every <span class="math inline">\(x\in\mathbb{R}\)</span>,</p>
+<p><span class="math display">\[
+\lim_{r\to 0} A_r f(x) = f(x).
+\]</span></p>
+</section>
+<section id="remarks" class="level2">
+<h2 class="anchored" data-anchor-id="remarks">Remarks</h2>
+<p>In the textbook’s Lebesgue Differentiation Theorem, the averaging interval is probably the symmetric interval <span class="math inline">\((x-t,x+t)\)</span>. This problem shows that the theorem still holds even when the interval is asymmetric. As long as the interval contains <span class="math inline">\(x\)</span> and its length shrinks to <span class="math inline">\(0\)</span>, the average value converges to <span class="math inline">\(f(x)\)</span> at almost every point.</p>
+<p>Recall that <span class="math inline">\(f\in L^1_{\mathrm{loc}}(\mathbb{R})\)</span> means that for every compact interval <span class="math inline">\(K\subset \mathbb{R}\)</span>,</p>
+<p><span class="math display">\[
+\int_K |f(t)|\,dt &lt; \infty.
+\]</span></p>
+<p>Also, a point <span class="math inline">\(x\)</span> is a Lebesgue point of <span class="math inline">\(f\)</span> if</p>
+<p><span class="math display">\[
+\frac{1}{2r}\int_{x-r}^{x+r}|f(t)-f(x)|\,dt \to 0
+\qquad \text{as } r\to 0.
+\]</span></p>
+<p>By the Lebesgue Differentiation Theorem, almost every <span class="math inline">\(x\in\mathbb{R}\)</span> is a Lebesgue point of <span class="math inline">\(f\)</span>.</p>
+</section>
+<section id="solution" class="level2">
+<h2 class="anchored" data-anchor-id="solution">Solution</h2>
+<p>Since <span class="math inline">\(f\in L^1_{\mathrm{loc}}(\mathbb{R})\)</span>, by the Lebesgue Differentiation Theorem, for almost every <span class="math inline">\(x\in\mathbb{R}\)</span>,</p>
+<p><span class="math display">\[
+\frac{1}{2\rho}\int_{x-\rho}^{x+\rho}|f(t)-f(x)|\,dt \to 0
+\qquad \text{as } \rho\to 0.
+\]</span></p>
+<p>Fix such an <span class="math inline">\(x\)</span>. We estimate <span class="math inline">\(|A_r f(x)-f(x)|\)</span>. Since</p>
+<p><span class="math display">\[
+\frac{1}{3r}\int_{x-r}^{x+2r} f(x)\,dt = f(x),
+\]</span></p>
+<p>we have</p>
+<p><span class="math display">\[
+\begin{aligned}
+|A_r f(x)-f(x)|
+&amp;= \left|\frac{1}{3r}\int_{x-r}^{x+2r}f(t)\,dt - f(x)\right| \\
+&amp;= \left|\frac{1}{3r}\int_{x-r}^{x+2r}f(t)\,dt
+      - \frac{1}{3r}\int_{x-r}^{x+2r}f(x)\,dt\right| \\
+&amp;= \left|\frac{1}{3r}\int_{x-r}^{x+2r}\bigl(f(t)-f(x)\bigr)\,dt\right| \\
+&amp;\le \frac{1}{3r}\int_{x-r}^{x+2r}|f(t)-f(x)|\,dt.
+\end{aligned}
+\]</span></p>
+<p>Now observe that</p>
+<p><span class="math display">\[
+(x-r,x+2r)\subset (x-2r,x+2r).
+\]</span></p>
+<p>Therefore,</p>
+<p><span class="math display">\[
+\begin{aligned}
+|A_r f(x)-f(x)|
+&amp;\le \frac{1}{3r}\int_{x-r}^{x+2r}|f(t)-f(x)|\,dt \\
+&amp;\le \frac{1}{3r}\int_{x-2r}^{x+2r}|f(t)-f(x)|\,dt \\
+&amp;= \frac{4}{3}\cdot \frac{1}{4r}\int_{x-2r}^{x+2r}|f(t)-f(x)|\,dt.
+\end{aligned}
+\]</span></p>
+<p>Since <span class="math inline">\(x\)</span> is a Lebesgue point of <span class="math inline">\(f\)</span>, applying the defining property with radius <span class="math inline">\(2r\)</span> gives</p>
+<p><span class="math display">\[
+\frac{1}{4r}\int_{x-2r}^{x+2r}|f(t)-f(x)|\,dt \to 0
+\qquad \text{as } r\to 0.
+\]</span></p>
+<p>Hence,</p>
+<p><span class="math display">\[
+|A_r f(x)-f(x)|
+\le
+\frac{4}{3}\cdot \frac{1}{4r}\int_{x-2r}^{x+2r}|f(t)-f(x)|\,dt
+\to 0
+\qquad \text{as } r\to 0.
+\]</span></p>
+<p>Thus,</p>
+<p><span class="math display">\[
+\lim_{r\to 0} A_r f(x)=f(x)
+\]</span></p>
+<p>for every Lebesgue point <span class="math inline">\(x\)</span> of <span class="math inline">\(f\)</span>. Since almost every <span class="math inline">\(x\in\mathbb{R}\)</span> is a Lebesgue point of <span class="math inline">\(f\)</span>, we conclude that</p>
+<p><span class="math display">\[
+\lim_{r\to 0} A_r f(x)=f(x)
+\qquad \text{for almost every }x\in\mathbb{R}.
+\]</span></p>
+</section>
+<section id="comment" class="level2">
+<h2 class="anchored" data-anchor-id="comment">Comment</h2>
+<p>The main idea is that the asymmetric interval <span class="math inline">\((x-r,x+2r)\)</span> is contained in the symmetric interval <span class="math inline">\((x-2r,x+2r)\)</span>, whose radius is <span class="math inline">\(2r\)</span>. Therefore the asymmetric average is controlled by the symmetric Lebesgue differentiation average at the same point.</p>
 
-<div class="listing-category" onclick="window.quartoListingCategory('R3JvdXAlMjBUaGVvcnk='); return false;">Group Theory</div>
 
-<div class="listing-category" onclick="window.quartoListingCategory('U2VtaWRpcmVjdCUyMFByb2R1Y3Q='); return false;">Semidirect Product</div>
+</section>
 
-</div>
-<div class="delink listing-description"><a href="./notes/Algebra/exercise-18-automorphisms-as-inner-automorphisms-dollar.html" class="no-external">
-Let <span class="math inline">H</span> be any group. Show that there is a group <span class="math inline">G</span> containing <span class="math inline">H</span> as a normal subgroup with the following property:
-</a></div>
-</div>
-<div class="metadata">
-<a href="./notes/Algebra/exercise-18-automorphisms-as-inner-automorphisms-dollar.html" class="no-external">
-<div class="listing-date">
-May 24, 2026
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="Q29udGludW91cyUyMFRpbWUlMjBNYXJrb3YlMjBQcm9jZXNzZXMlMkNQcm9iYWJpbGl0eQ==" data-listing-date-sort="1767711600000" data-listing-file-modified-sort="1778202389971" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="173">
-<div class="thumbnail"><a href="./notes/CTMP/1.4. Definition of Brownian Motion.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./notes/CTMP/1.4. Definition of Brownian Motion.html" class="no-external">1.4. Definition of Brownian Motion</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('Q29udGludW91cyUyMFRpbWUlMjBNYXJrb3YlMjBQcm9jZXNzZXM='); return false;">Continuous Time Markov Processes</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('UHJvYmFiaWxpdHk='); return false;">Probability</div>
-
-</div>
-<div class="delink listing-description"><a href="./notes/CTMP/1.4. Definition of Brownian Motion.html" class="no-external">
-This is a sample note for site building.
-</a></div>
-</div>
-<div class="metadata">
-<a href="./notes/CTMP/1.4. Definition of Brownian Motion.html" class="no-external">
-<div class="listing-date">
-Jan 7, 2026
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="Q1RNUA==" data-listing-date-sort="1767193200000" data-listing-file-modified-sort="1778308636483" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="9">
-<div class="thumbnail"><a href="./notes/CTMP/1.2. The multivariate Gaussian Distribution.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./notes/CTMP/1.2. The multivariate Gaussian Distribution.html" class="no-external">1.2. The multivariate Gaussian Distribution</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('Q1RNUA=='); return false;">CTMP</div>
-
-</div>
-<div class="delink listing-description"><a href="./notes/CTMP/1.2. The multivariate Gaussian Distribution.html" class="no-external">
-Let <span class="math inline">\(X(t)\)</span> be a Markov proccess.
-</a></div>
-</div>
-<div class="metadata">
-<a href="./notes/CTMP/1.2. The multivariate Gaussian Distribution.html" class="no-external">
-<div class="listing-date">
-Jan 1, 2026
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-categories="UHJvYmFiaWxpdHklMkNNZWFzdXJlJTIwVGhlb3J5" data-listing-date-sort="1766415600000" data-listing-file-modified-sort="1778308614077" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="94">
-<div class="thumbnail"><a href="./notes/probability-measure.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./notes/probability-measure.html" class="no-external">Definition of Probability Measure</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('UHJvYmFiaWxpdHk='); return false;">Probability</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('TWVhc3VyZSUyMFRoZW9yeQ=='); return false;">Measure Theory</div>
-
-</div>
-<div class="delink listing-description"><a href="./notes/probability-measure.html" class="no-external">
-This note summarizes the definition of a probability measure based on the Kolmogorov axioms.
-</a></div>
-</div>
-<div class="metadata">
-<a href="./notes/probability-measure.html" class="no-external">
-<div class="listing-date">
-Dec 23, 2025
-</div>
-<div class="listing-author">
-Sungjun Park
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

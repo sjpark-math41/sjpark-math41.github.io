@@ -74,7 +74,7 @@
     "href": "notes.html",
     "title": "Study Notes",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nProblem 1.1: Asymmetric Lebesgue Differentiation\n\n\n\nreal analysis\n\nmeasure theory\n\nLebesgue differentiation theorem\n\n\n\n\n\n\n\n\n\nMay 23, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nProblem 1.1: Asymmetric Lebesgue Differentiation\n\n\n\nreal analysis\n\nmeasure theory\n\nLebesgue differentiation theorem\n\n\n\n\n\n\n\n\n\nMay 23, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n1.4. Definition of Brownian Motion\n\n\n\nContinuous Time Markov Processes\n\nProbability\n\n\n\n\n\n\n\n\n\nJan 7, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n1.2. The multivariate Gaussian Distribution\n\n\n\nCTMP\n\n\n\n\n\n\n\n\n\nJan 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nDefinition of Probability Measure\n\n\n\nProbability\n\nMeasure Theory\n\n\n\n\n\n\n\n\n\nDec 23, 2025\n\n\nSungjun Park\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nProblem 1.1: Asymmetric Lebesgue Differentiation\n\n\n\nreal analysis\n\nmeasure theory\n\nLebesgue differentiation theorem\n\n\n\n\n\n\n\n\n\nMay 24, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n5.5. Exercise 18. Realizing Automorphisms as Inner Automorphisms\n\n\n\nAlgebra\n\nGroup Theory\n\nSemidirect Product\n\n\n\n\n\n\n\n\n\nMay 24, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n1.4. Definition of Brownian Motion\n\n\n\nContinuous Time Markov Processes\n\nProbability\n\n\n\n\n\n\n\n\n\nJan 7, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n1.2. The multivariate Gaussian Distribution\n\n\n\nCTMP\n\n\n\n\n\n\n\n\n\nJan 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nDefinition of Probability Measure\n\n\n\nProbability\n\nMeasure Theory\n\n\n\n\n\n\n\n\n\nDec 23, 2025\n\n\nSungjun Park\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -285,5 +285,110 @@
     "title": "Problem 1.1: Asymmetric Lebesgue Differentiation",
     "section": "Comment",
     "text": "Comment\nThe main idea is that the asymmetric interval \\((x-r,x+2r)\\) is contained in the symmetric interval \\((x-2r,x+2r)\\), whose radius is \\(2r\\). Therefore the asymmetric average is controlled by the symmetric Lebesgue differentiation average at the same point."
+  },
+  {
+    "objectID": "notes/Algebra/exercise-18-automorphisms-as-inner-automorphisms.html",
+    "href": "notes/Algebra/exercise-18-automorphisms-as-inner-automorphisms.html",
+    "title": "5.5. Exercise 18. Realizing Automorphisms as Inner Automorphisms",
+    "section": "",
+    "text": "Let (H) be any group. Show that there is a group (G) containing (H) as a normal subgroup with the following property:\nFor every automorphism ((H)), there exists an element (gG) such that conjugation by (g), restricted to (H), is the given automorphism (). In other words, every automorphism of (H) is obtained as an inner automorphism of (G) restricted to (H)."
+  },
+  {
+    "objectID": "notes/Algebra/exercise-18-automorphisms-as-inner-automorphisms.html#problem",
+    "href": "notes/Algebra/exercise-18-automorphisms-as-inner-automorphisms.html#problem",
+    "title": "5.5. Exercise 18. Realizing Automorphisms as Inner Automorphisms",
+    "section": "",
+    "text": "Let (H) be any group. Show that there is a group (G) containing (H) as a normal subgroup with the following property:\nFor every automorphism ((H)), there exists an element (gG) such that conjugation by (g), restricted to (H), is the given automorphism (). In other words, every automorphism of (H) is obtained as an inner automorphism of (G) restricted to (H)."
+  },
+  {
+    "objectID": "notes/Algebra/exercise-18-automorphisms-as-inner-automorphisms.html#remark",
+    "href": "notes/Algebra/exercise-18-automorphisms-as-inner-automorphisms.html#remark",
+    "title": "5.5. Exercise 18. Realizing Automorphisms as Inner Automorphisms",
+    "section": "Remark",
+    "text": "Remark\nWhen we consider ((H)), there may be no element (h_{0}H) such that\n[ (h)=h_{0}hh_{0}^{-1} hH. ]\nThat is, not every automorphism of (H) has to be inner inside (H).\nThis problem says that even if () is not inner in (H), we can enlarge (H) to a larger group (G) such that (HG), and then () becomes conjugation by some element of (G)."
+  },
+  {
+    "objectID": "notes/Algebra/exercise-18-automorphisms-as-inner-automorphisms.html#definition",
+    "href": "notes/Algebra/exercise-18-automorphisms-as-inner-automorphisms.html#definition",
+    "title": "5.5. Exercise 18. Realizing Automorphisms as Inner Automorphisms",
+    "section": "Definition",
+    "text": "Definition\nRecall that if (:K(H)) is a homomorphism, then the semidirect product\n[ H_{}K ]\nhas underlying set (HK), with multiplication\n[ (h_{1},k_{1})(h_{2},k_{2}) = (h_{1}(k_{1})(h_{2}),,k_{1}k_{2}). ]\nIn this problem, we take\n[ K=(H) ]\nand define\n[ :(H)(H) ]\nby\n[ ()=. ]\nThus () is the identity map on ((H))."
+  },
+  {
+    "objectID": "notes/Algebra/exercise-18-automorphisms-as-inner-automorphisms.html#solution",
+    "href": "notes/Algebra/exercise-18-automorphisms-as-inner-automorphisms.html#solution",
+    "title": "5.5. Exercise 18. Realizing Automorphisms as Inner Automorphisms",
+    "section": "Solution",
+    "text": "Solution\nLet\n[ G=H_{}(H), ]\nwhere\n[ ()= (H). ]\nDefine\n[ :HG ]\nby\n[ (h)=(h,_{H}). ]\nWe identify (H) with its image\n[ (H)=H{_{H}}. ]\nFirst, () is an injective homomorphism. Indeed, for (h_{1},h_{2}H),\n[ (h_{1})(h_{2}) = (h_{1},{H})(h{2},{H}) = (h{1}{H}(h{2}),{H}) = (h{1}h_{2},{H}) = (h{1}h_{2}). ]\nAlso, if ((h)=(1_{H},{H})), then (h=1{H}). Hence () is injective.\nTherefore,\n[ H{_{H}}G. ]\nWe now prove that (H{_{H}}) is normal in (G).\nTake arbitrary\n[ (a,)G ]\nand\n[ (h,{H})H{{H}}. ]\nSince\n[ (a,)^{-1} = ({-1}(a{-1}),^{-1}), ]\nwe have\n[\n\\begin{aligned}\n(a,\\sigma)(h,\\operatorname{id}_{H})(a,\\sigma)^{-1}\n&=\n(a,\\sigma)(h,\\operatorname{id}_{H})\n\\left(\\sigma^{-1}(a^{-1}),\\sigma^{-1}\\right)\\\\\n&=\n(a\\sigma(h),\\sigma)\n\\left(\\sigma^{-1}(a^{-1}),\\sigma^{-1}\\right)\\\\\n&=\n\\left(a\\sigma(h)\\sigma\\bigl(\\sigma^{-1}(a^{-1})\\bigr),\\operatorname{id}_{H}\\right)\\\\\n&=\n(a\\sigma(h)a^{-1},\\operatorname{id}_{H}).\n\\end{aligned}\n]\nThis belongs to (H{_{H}}). Hence\n[ H{_{H}}G. ]\nNow let ((H)). We need to find an element (gG) such that conjugation by (g), restricted to (H), gives ().\nTake\n[ g=(1_{H},)G. ]\nThen\n[ g{-1}=(1_{H},{-1}). ]\nFor (hH), consider the corresponding element\n[ (h,{H})H{{H}}. ]\nThen\n[\n\\begin{aligned}\ng(h,\\operatorname{id}_{H})g^{-1}\n&=\n(1_{H},\\sigma)(h,\\operatorname{id}_{H})(1_{H},\\sigma^{-1})\\\\\n&=\n(\\sigma(h),\\sigma)(1_{H},\\sigma^{-1})\\\\\n&=\n(\\sigma(h)\\sigma(1_{H}),\\operatorname{id}_{H})\\\\\n&=\n(\\sigma(h),\\operatorname{id}_{H}).\n\\end{aligned}\n]\nTherefore, under the identification\n[ HH{{H}}, h(h,{H}), ]\nconjugation by (g=(1_{H},)) sends (h) to ((h)). That is,\n[ g(h,{H})g^{-1} = ((h),{H}). ]\nEquivalently,\n[ ghg^{-1}=(h) ]\nafter identifying (H) with (H{_{H}}).\nThus every automorphism of (H) is obtained as conjugation by some element of the larger group\n[ G=H(H). ]\nHence there exists a group (G) containing (H) as a normal subgroup such that every automorphism of (H) is realized as an inner automorphism of (G) restricted to (H)."
+  },
+  {
+    "objectID": "notes/Analysis/LDT_intervals.html",
+    "href": "notes/Analysis/LDT_intervals.html",
+    "title": "Problem 1.1: Asymmetric Lebesgue Differentiation",
+    "section": "",
+    "text": "Let \\(f \\in L^1_{\\mathrm{loc}}(\\mathbb{R})\\). For \\(r&gt;0\\), define\n\\[\nA_r f(x) := \\frac{1}{3r}\\int_{x-r}^{x+2r} f(t)\\,dt.\n\\]\nProve that for almost every \\(x\\in\\mathbb{R}\\),\n\\[\n\\lim_{r\\to 0} A_r f(x) = f(x).\n\\]"
+  },
+  {
+    "objectID": "notes/Analysis/LDT_intervals.html#problem",
+    "href": "notes/Analysis/LDT_intervals.html#problem",
+    "title": "Problem 1.1: Asymmetric Lebesgue Differentiation",
+    "section": "",
+    "text": "Let \\(f \\in L^1_{\\mathrm{loc}}(\\mathbb{R})\\). For \\(r&gt;0\\), define\n\\[\nA_r f(x) := \\frac{1}{3r}\\int_{x-r}^{x+2r} f(t)\\,dt.\n\\]\nProve that for almost every \\(x\\in\\mathbb{R}\\),\n\\[\n\\lim_{r\\to 0} A_r f(x) = f(x).\n\\]"
+  },
+  {
+    "objectID": "notes/Analysis/LDT_intervals.html#remarks",
+    "href": "notes/Analysis/LDT_intervals.html#remarks",
+    "title": "Problem 1.1: Asymmetric Lebesgue Differentiation",
+    "section": "Remarks",
+    "text": "Remarks\nIn the textbook’s Lebesgue Differentiation Theorem, the averaging interval is probably the symmetric interval \\((x-t,x+t)\\). This problem shows that the theorem still holds even when the interval is asymmetric. As long as the interval contains \\(x\\) and its length shrinks to \\(0\\), the average value converges to \\(f(x)\\) at almost every point.\nRecall that \\(f\\in L^1_{\\mathrm{loc}}(\\mathbb{R})\\) means that for every compact interval \\(K\\subset \\mathbb{R}\\),\n\\[\n\\int_K |f(t)|\\,dt &lt; \\infty.\n\\]\nAlso, a point \\(x\\) is a Lebesgue point of \\(f\\) if\n\\[\n\\frac{1}{2r}\\int_{x-r}^{x+r}|f(t)-f(x)|\\,dt \\to 0\n\\qquad \\text{as } r\\to 0.\n\\]\nBy the Lebesgue Differentiation Theorem, almost every \\(x\\in\\mathbb{R}\\) is a Lebesgue point of \\(f\\)."
+  },
+  {
+    "objectID": "notes/Analysis/LDT_intervals.html#solution",
+    "href": "notes/Analysis/LDT_intervals.html#solution",
+    "title": "Problem 1.1: Asymmetric Lebesgue Differentiation",
+    "section": "Solution",
+    "text": "Solution\nSince \\(f\\in L^1_{\\mathrm{loc}}(\\mathbb{R})\\), by the Lebesgue Differentiation Theorem, for almost every \\(x\\in\\mathbb{R}\\),\n\\[\n\\frac{1}{2\\rho}\\int_{x-\\rho}^{x+\\rho}|f(t)-f(x)|\\,dt \\to 0\n\\qquad \\text{as } \\rho\\to 0.\n\\]\nFix such an \\(x\\). We estimate \\(|A_r f(x)-f(x)|\\). Since\n\\[\n\\frac{1}{3r}\\int_{x-r}^{x+2r} f(x)\\,dt = f(x),\n\\]\nwe have\n\\[\n\\begin{aligned}\n|A_r f(x)-f(x)|\n&= \\left|\\frac{1}{3r}\\int_{x-r}^{x+2r}f(t)\\,dt - f(x)\\right| \\\\\n&= \\left|\\frac{1}{3r}\\int_{x-r}^{x+2r}f(t)\\,dt\n      - \\frac{1}{3r}\\int_{x-r}^{x+2r}f(x)\\,dt\\right| \\\\\n&= \\left|\\frac{1}{3r}\\int_{x-r}^{x+2r}\\bigl(f(t)-f(x)\\bigr)\\,dt\\right| \\\\\n&\\le \\frac{1}{3r}\\int_{x-r}^{x+2r}|f(t)-f(x)|\\,dt.\n\\end{aligned}\n\\]\nNow observe that\n\\[\n(x-r,x+2r)\\subset (x-2r,x+2r).\n\\]\nTherefore,\n\\[\n\\begin{aligned}\n|A_r f(x)-f(x)|\n&\\le \\frac{1}{3r}\\int_{x-r}^{x+2r}|f(t)-f(x)|\\,dt \\\\\n&\\le \\frac{1}{3r}\\int_{x-2r}^{x+2r}|f(t)-f(x)|\\,dt \\\\\n&= \\frac{4}{3}\\cdot \\frac{1}{4r}\\int_{x-2r}^{x+2r}|f(t)-f(x)|\\,dt.\n\\end{aligned}\n\\]\nSince \\(x\\) is a Lebesgue point of \\(f\\), applying the defining property with radius \\(2r\\) gives\n\\[\n\\frac{1}{4r}\\int_{x-2r}^{x+2r}|f(t)-f(x)|\\,dt \\to 0\n\\qquad \\text{as } r\\to 0.\n\\]\nHence,\n\\[\n|A_r f(x)-f(x)|\n\\le\n\\frac{4}{3}\\cdot \\frac{1}{4r}\\int_{x-2r}^{x+2r}|f(t)-f(x)|\\,dt\n\\to 0\n\\qquad \\text{as } r\\to 0.\n\\]\nThus,\n\\[\n\\lim_{r\\to 0} A_r f(x)=f(x)\n\\]\nfor every Lebesgue point \\(x\\) of \\(f\\). Since almost every \\(x\\in\\mathbb{R}\\) is a Lebesgue point of \\(f\\), we conclude that\n\\[\n\\lim_{r\\to 0} A_r f(x)=f(x)\n\\qquad \\text{for almost every }x\\in\\mathbb{R}.\n\\]"
+  },
+  {
+    "objectID": "notes/Analysis/LDT_intervals.html#comment",
+    "href": "notes/Analysis/LDT_intervals.html#comment",
+    "title": "Problem 1.1: Asymmetric Lebesgue Differentiation",
+    "section": "Comment",
+    "text": "Comment\nThe main idea is that the asymmetric interval \\((x-r,x+2r)\\) is contained in the symmetric interval \\((x-2r,x+2r)\\), whose radius is \\(2r\\). Therefore the asymmetric average is controlled by the symmetric Lebesgue differentiation average at the same point."
+  },
+  {
+    "objectID": "notes/Algebra/exercise-18-automorphisms-as-inner-automorphisms-dollar.html",
+    "href": "notes/Algebra/exercise-18-automorphisms-as-inner-automorphisms-dollar.html",
+    "title": "5.5. Exercise 18. Realizing Automorphisms as Inner Automorphisms",
+    "section": "",
+    "text": "Let H be any group. Show that there is a group G containing H as a normal subgroup with the following property:\nFor every automorphism \\sigma\\in \\operatorname{Aut}(H), there exists an element g\\in G such that conjugation by g, restricted to H, is the given automorphism \\sigma. In other words, every automorphism of H is obtained as an inner automorphism of G restricted to H."
+  },
+  {
+    "objectID": "notes/Algebra/exercise-18-automorphisms-as-inner-automorphisms-dollar.html#problem",
+    "href": "notes/Algebra/exercise-18-automorphisms-as-inner-automorphisms-dollar.html#problem",
+    "title": "5.5. Exercise 18. Realizing Automorphisms as Inner Automorphisms",
+    "section": "",
+    "text": "Let H be any group. Show that there is a group G containing H as a normal subgroup with the following property:\nFor every automorphism \\sigma\\in \\operatorname{Aut}(H), there exists an element g\\in G such that conjugation by g, restricted to H, is the given automorphism \\sigma. In other words, every automorphism of H is obtained as an inner automorphism of G restricted to H."
+  },
+  {
+    "objectID": "notes/Algebra/exercise-18-automorphisms-as-inner-automorphisms-dollar.html#remark",
+    "href": "notes/Algebra/exercise-18-automorphisms-as-inner-automorphisms-dollar.html#remark",
+    "title": "5.5. Exercise 18. Realizing Automorphisms as Inner Automorphisms",
+    "section": "Remark",
+    "text": "Remark\nWhen we consider \\sigma\\in\\operatorname{Aut}(H), there may be no element h_{0}\\in H such that\n\n\\sigma(h)=h_{0}hh_{0}^{-1}\n\\qquad\n\\text{for all }h\\in H.\n\nThat is, not every automorphism of H has to be inner inside H.\nThis problem says that even if \\sigma is not inner in H, we can enlarge H to a larger group G such that H\\trianglelefteq G, and then \\sigma becomes conjugation by some element of G."
+  },
+  {
+    "objectID": "notes/Algebra/exercise-18-automorphisms-as-inner-automorphisms-dollar.html#definition",
+    "href": "notes/Algebra/exercise-18-automorphisms-as-inner-automorphisms-dollar.html#definition",
+    "title": "5.5. Exercise 18. Realizing Automorphisms as Inner Automorphisms",
+    "section": "Definition",
+    "text": "Definition\nRecall that if \\varphi:K\\to \\operatorname{Aut}(H) is a homomorphism, then the semidirect product\n\nH\\rtimes_{\\varphi}K\n\nhas underlying set H\\times K, with multiplication\n\n(h_{1},k_{1})(h_{2},k_{2})\n=\n\\left(h_{1}\\varphi(k_{1})(h_{2}),\\,k_{1}k_{2}\\right).\n\nIn this problem, we take\n\nK=\\operatorname{Aut}(H)\n\nand define\n\n\\varphi:\\operatorname{Aut}(H)\\to \\operatorname{Aut}(H)\n\nby\n\n\\varphi(\\sigma)=\\sigma.\n\nThus \\varphi is the identity map on \\operatorname{Aut}(H)."
+  },
+  {
+    "objectID": "notes/Algebra/exercise-18-automorphisms-as-inner-automorphisms-dollar.html#solution",
+    "href": "notes/Algebra/exercise-18-automorphisms-as-inner-automorphisms-dollar.html#solution",
+    "title": "5.5. Exercise 18. Realizing Automorphisms as Inner Automorphisms",
+    "section": "Solution",
+    "text": "Solution\nLet\n\nG=H\\rtimes_{\\varphi}\\operatorname{Aut}(H),\n\nwhere\n\n\\varphi(\\sigma)=\\sigma\n\\qquad\n\\text{for every }\\sigma\\in\\operatorname{Aut}(H).\n\nDefine\n\n\\iota:H\\to G\n\nby\n\n\\iota(h)=(h,\\operatorname{id}_{H}).\n\nWe identify H with its image\n\n\\iota(H)=H\\times\\{\\operatorname{id}_{H}\\}.\n\nFirst, \\iota is an injective homomorphism. Indeed, for h_{1},h_{2}\\in H,\n\n\\begin{aligned}\n\\iota(h_{1})\\iota(h_{2})\n&=\n(h_{1},\\operatorname{id}_{H})(h_{2},\\operatorname{id}_{H})\\\\\n&=\n(h_{1}\\operatorname{id}_{H}(h_{2}),\\operatorname{id}_{H})\\\\\n&=\n(h_{1}h_{2},\\operatorname{id}_{H})\\\\\n&=\n\\iota(h_{1}h_{2}).\n\\end{aligned}\n\nAlso, if \\iota(h)=(1_{H},\\operatorname{id}_{H}), then h=1_{H}. Hence \\iota is injective.\nTherefore,\n\nH\\times\\{\\operatorname{id}_{H}\\}\\le G.\n\nWe now prove that H\\times\\{\\operatorname{id}_{H}\\} is normal in G.\nTake arbitrary\n\n(a,\\sigma)\\in G\n\nand\n\n(h,\\operatorname{id}_{H})\\in H\\times\\{\\operatorname{id}_{H}\\}.\n\nSince\n\n(a,\\sigma)^{-1}\n=\n\\left(\\sigma^{-1}(a^{-1}),\\sigma^{-1}\\right),\n\nwe have\n\n\\begin{aligned}\n(a,\\sigma)(h,\\operatorname{id}_{H})(a,\\sigma)^{-1}\n&=\n(a,\\sigma)(h,\\operatorname{id}_{H})\n\\left(\\sigma^{-1}(a^{-1}),\\sigma^{-1}\\right)\\\\\n&=\n(a\\sigma(h),\\sigma)\n\\left(\\sigma^{-1}(a^{-1}),\\sigma^{-1}\\right)\\\\\n&=\n\\left(a\\sigma(h)\\sigma\\bigl(\\sigma^{-1}(a^{-1})\\bigr),\\operatorname{id}_{H}\\right)\\\\\n&=\n(a\\sigma(h)a^{-1},\\operatorname{id}_{H}).\n\\end{aligned}\n\nThis belongs to H\\times\\{\\operatorname{id}_{H}\\}. Hence\n\nH\\times\\{\\operatorname{id}_{H}\\}\\trianglelefteq G.\n\nNow let \\sigma\\in\\operatorname{Aut}(H). We need to find an element g\\in G such that conjugation by g, restricted to H, gives \\sigma.\nTake\n\ng=(1_{H},\\sigma)\\in G.\n\nThen\n\ng^{-1}=(1_{H},\\sigma^{-1}).\n\nFor h\\in H, consider the corresponding element\n\n(h,\\operatorname{id}_{H})\\in H\\times\\{\\operatorname{id}_{H}\\}.\n\nThen\n\n\\begin{aligned}\ng(h,\\operatorname{id}_{H})g^{-1}\n&=\n(1_{H},\\sigma)(h,\\operatorname{id}_{H})(1_{H},\\sigma^{-1})\\\\\n&=\n(\\sigma(h),\\sigma)(1_{H},\\sigma^{-1})\\\\\n&=\n(\\sigma(h)\\sigma(1_{H}),\\operatorname{id}_{H})\\\\\n&=\n(\\sigma(h),\\operatorname{id}_{H}).\n\\end{aligned}\n\nTherefore, under the identification\n\nH\\cong H\\times\\{\\operatorname{id}_{H}\\},\n\\qquad\nh\\leftrightarrow (h,\\operatorname{id}_{H}),\n\nconjugation by g=(1_{H},\\sigma) sends h to \\sigma(h). That is,\n\ng(h,\\operatorname{id}_{H})g^{-1}\n=\n(\\sigma(h),\\operatorname{id}_{H}).\n\nEquivalently,\n\nghg^{-1}=\\sigma(h)\n\nafter identifying H with H\\times\\{\\operatorname{id}_{H}\\}.\nThus every automorphism of H is obtained as conjugation by some element of the larger group\n\nG=H\\rtimes \\operatorname{Aut}(H).\n\nHence there exists a group G containing H as a normal subgroup such that every automorphism of H is realized as an inner automorphism of G restricted to H."
   }
 ]
