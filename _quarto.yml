@@ -1,44 +1,15 @@
 project:
   type: website
-  output-dir: docs
+  output-dir: _site
 
 website:
   title: "Sungjun Park"
-  
-  # 상단 내비게이션 바 (메뉴)
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
-      - href: research.qmd
-        text: Research
-      - href: notes.qmd
-        text: Notes
-    
-    # 우측에 아이콘 추가 (깃허브, 이메일 등) - 대학원생 필수 요소
-    right:
-      - icon: envelope
-        href: mailto:sungjun.park@yonsei.ac.kr
-
-  # 사이드바 설정 (특히 'Notes' 섹션에서 유용함)
-  #sidebar:
-   # style: "docked"
-   # search: true
-   # collapse-level: 1
-   # contents:
-   #   - section: "Notes"
-   #     contents:
-   #       - notes.qmd
-          # 나중에 'Real Analysis', 'Probability' 등 하위 노트를 여기에 추가
 
 format:
   html:
-    theme: cosmo  # 깔끔한 기본 테마
-    # css: styles.css  # styles.css 파일이 아직 없다면 주석 처리 해두는 것이 에러 방지에 좋습니다.
+    theme: cosmo
     toc: true
-    toc-depth: 3
-    
-    # 수학 수식 렌더링 설정 (수학과 필수)
-    html-math-method: mathjax

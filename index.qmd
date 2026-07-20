@@ -1,22 +1,11 @@
 ---
 title: "Sungjun Park"
-about:
-  template: jolla  # trestles나 solana로 변경 가능
-  image: profile.jpg # 폴더에 본인 사진(profile.jpg)을 넣거나, 없으면 이 줄을 지우세요.
-  links:
-    - icon: envelope
-      text: Email
-      href: mailto:sungjun.park@yonsei.ac.kr
 ---
 
+## Academic Website
 
-Hello. My name is Sungjun Park. I am currently a graduate student in the combined Master's and Ph.D. program in the Department of Mathematics at Yonsei University. I received my B.S. in Mathematics from Yonsei University in August 2025. My primary research interest lies in Probability Theory
+This website is being rebuilt with Quarto.
 
-
-## Education
-
-**Yonsei University** | Seoul, South Korea <br>
-Ph.D. Student in Mathematics | Sep 2025 - Present
-
-**Yonsei University** | Seoul, South Korea <br>
-B.S. in Mathematics | Mar 2019 - Aug 2025
+$$
+\mathbb{P}(X \in A)
+$$
