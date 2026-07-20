@@ -1,0 +1,45 @@
+---
+title: "Brownian Motion, Martingales, and Stochastic Calculus: Chapter 3"
+description: "A graduate presentation on Chapter 3 of Brownian Motion, Martingales, and Stochastic Calculus."
+date: 2026-07-31
+date-modified: 2026-07-20
+categories:
+  - Graduate Seminar
+  - Brownian Motion
+  - Stochastic Calculus
+status: "Scheduled"
+draft: true
+toc: true
+---
+
+::: {.record-summary}
+<div>
+<span class="record-label">Status</span>
+
+**Scheduled**
+</div>
+
+<div>
+<span class="record-label">Date</span>
+
+**2026-07-31**
+</div>
+
+<div>
+<span class="record-label">Format</span>
+
+**Graduate presentation**
+</div>
+:::
+
+## Overview
+
+This presentation is based on Chapter 3 of *Brownian Motion, Martingales, and Stochastic Calculus*.
+
+## Planned contents
+
+The detailed outline will be added after the chapter has been fully organized for presentation.
+
+## Materials
+
+Slides, handouts, and related notes are still in preparation.

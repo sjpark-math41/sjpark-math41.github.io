@@ -1,0 +1,51 @@
+---
+title: "Course Title"
+description: "A concise description of the teaching activity."
+categories:
+  - Teaching Assistant
+  - Subject
+  - Term
+institution: "Institution"
+term: "Term"
+role: "Teaching Assistant"
+draft: true
+toc: true
+---
+
+::: {.record-summary}
+<div>
+<span class="record-label">Role</span>
+
+**Teaching Assistant**
+</div>
+
+<div>
+<span class="record-label">Institution</span>
+
+**Institution**
+</div>
+
+<div>
+<span class="record-label">Term</span>
+
+**Term**
+</div>
+:::
+
+## Overview
+
+Describe the course and your teaching role.
+
+## Responsibilities
+
+- Responsibility one
+- Responsibility two
+- Responsibility three
+
+## Public materials
+
+List only materials that may be distributed publicly.
+
+## Topics
+
+Summarize the main mathematical topics covered in the course.

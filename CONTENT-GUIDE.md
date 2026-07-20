@@ -76,7 +76,53 @@ In GitHub Desktop:
 Fetch/Pull → Commit → Push
 ```
 
-## 3. Standard subject names
+## 3. Adding a teaching record
+
+Copy:
+
+```text
+templates/teaching-course/
+```
+
+to:
+
+```text
+teaching/<course-slug>-<year>-<term>/
+```
+
+Record the institution, term, role, overview, responsibilities, and only publicly distributable materials.
+
+Do not publish:
+
+- Student names, email addresses, grades, or submissions
+- Internal announcements
+- Restricted textbook scans or substantial exercise collections
+- Answer keys not intended for public release
+
+## 4. Adding a seminar record
+
+Copy:
+
+```text
+templates/seminar/
+```
+
+to:
+
+```text
+seminars/<year>/<presentation-slug>/
+```
+
+Use the presentation date in ISO format and keep `draft: true` while materials are under preparation.
+
+After the presentation:
+
+1. Update `status` from `Scheduled` to `Completed`.
+2. Update `date-modified`.
+3. Add slides, handouts, or related notes.
+4. Change `draft` to `false` when the page is ready to publish.
+
+## 5. Standard subject names
 
 Use these category names consistently:
 
@@ -100,9 +146,9 @@ categories:
   - Thermodynamic Limit
 ```
 
-## 4. Date policy
+## 6. Date policy
 
-- `date`: first public or substantive creation date
+- `date`: first public or substantive creation date, or the scheduled presentation date
 - `date-modified`: most recent meaningful content revision
 - Do not update `date-modified` for a typo-only edit
 
@@ -112,7 +158,7 @@ Use the ISO format:
 YYYY-MM-DD
 ```
 
-## 5. Mathematical writing
+## 7. Mathematical writing
 
 Use inline mathematics with:
 
@@ -139,7 +185,7 @@ Use ordinary headings in hierarchical order:
 
 Do not skip heading levels for visual effect.
 
-## 6. Definitions, theorems, and remarks
+## 8. Definitions, theorems, and remarks
 
 Use the reusable blocks included in the note template:
 
@@ -165,9 +211,9 @@ Available classes:
 
 These provide visual consistency but do not create automatic theorem numbering. Ordinary numbered section headings remain the primary navigation system.
 
-## 7. Images and files
+## 9. Images and files
 
-Store note-specific files next to the note:
+Store item-specific files next to the source page:
 
 ```text
 notes/subject/note-slug/
@@ -176,13 +222,15 @@ notes/subject/note-slug/
 └── files/
 ```
 
+The same convention applies to teaching and seminar records.
+
 Use descriptive image names and always supply alt text.
 
 ```markdown
 ![Description of the mathematical diagram](images/diagram-name.svg)
 ```
 
-## 8. Links
+## 10. Links
 
 Use relative project links.
 
@@ -190,9 +238,9 @@ Use relative project links.
 [Related note](../other-note/index.qmd)
 ```
 
-After moving or renaming a note, check all inbound links before pushing.
+After moving or renaming a page, check all inbound links before pushing.
 
-## 9. Working across Windows and macOS
+## 11. Working across Windows and macOS
 
 At the beginning of work:
 
@@ -206,13 +254,15 @@ At the end of work:
 Save → Commit → Push origin
 ```
 
-Do not edit the same note independently on both computers before syncing.
+Do not edit the same page independently on both computers before syncing.
 
-## 10. Content that should not be duplicated
+## 12. Content that should not be duplicated
 
 - Profile and education: `_variables.yml`
 - Global navigation and site metadata: `_quarto.yml`
 - Shared visual styling: `styles/`
 - Note-wide defaults: `notes/_metadata.yml`
+- Teaching-wide defaults: `teaching/_metadata.yml`
+- Seminar-wide defaults: `seminars/_metadata.yml`
 
 Change the central source rather than copying the same information into several pages.

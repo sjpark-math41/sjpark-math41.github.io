@@ -366,3 +366,39 @@ main.content {
     box-shadow: none;
   }
 }
+
+/* Teaching and seminar records */
+
+.record-summary {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 0 0 2.2rem;
+}
+
+.record-summary > div {
+  padding: 1rem 1.1rem;
+  border: 1px solid var(--academic-border);
+  border-radius: 0.55rem;
+  background: var(--academic-surface);
+}
+
+.record-summary p {
+  margin-bottom: 0;
+}
+
+.record-label {
+  display: block;
+  margin-bottom: 0.35rem;
+  color: var(--academic-text-muted);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+}
+
+@media (max-width: 700px) {
+  .record-summary {
+    grid-template-columns: 1fr;
+  }
+}

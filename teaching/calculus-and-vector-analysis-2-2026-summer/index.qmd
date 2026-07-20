@@ -1,0 +1,48 @@
+---
+title: "Calculus and Vector Analysis (2)"
+description: "Teaching-assistant activity for the 2026 summer term at Yonsei University."
+categories:
+  - Teaching Assistant
+  - Calculus
+  - Summer 2026
+institution: "Yonsei University"
+term: "Summer 2026"
+role: "Teaching Assistant"
+toc: true
+---
+
+::: {.record-summary}
+<div>
+<span class="record-label">Role</span>
+
+**Teaching Assistant**
+</div>
+
+<div>
+<span class="record-label">Institution</span>
+
+**Yonsei University**
+</div>
+
+<div>
+<span class="record-label">Term</span>
+
+**Summer 2026**
+</div>
+:::
+
+## Overview
+
+Teaching-assistant activity for **Calculus and Vector Analysis (2)** during the 2026 summer term at Yonsei University.
+
+The work includes supporting problem-solving sessions and preparing instructional materials for the course.
+
+## Public materials
+
+No course materials are currently published on this page.
+
+Materials will be added only after confirming that they are appropriate for public distribution and do not reproduce restricted textbook content or disclose student information.
+
+## Topics
+
+The course includes topics from multivariable and vector calculus, such as parametric surfaces, surface integrals, and the classical integral theorems of vector analysis.

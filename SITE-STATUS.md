@@ -26,9 +26,25 @@
 - Automatic listing: configured
 - Common note metadata: `notes/_metadata.yml`
 - Reusable template: `templates/note/index.qmd`
-- Authoring rules: `CONTENT-GUIDE.md`
-- Draft workflow: configured through the `draft` metadata field
+- Draft workflow: configured
 - Standard subject taxonomy: defined
+- Listing redesign: deferred until the remaining content systems are complete
+
+## Teaching system
+
+- Automatic listing: configured
+- Common metadata: `teaching/_metadata.yml`
+- Reusable template: `templates/teaching-course/index.qmd`
+- Summer 2026 teaching-assistant record: added
+- Public materials: none currently posted
+
+## Seminars system
+
+- Automatic listing: configured
+- Common metadata: `seminars/_metadata.yml`
+- Reusable template: `templates/seminar/index.qmd`
+- Large Deviations Chapter 8 entry: draft
+- Brownian Motion Chapter 3 entry: draft
 
 ## Research content
 
@@ -37,6 +53,7 @@ The site currently lists research interests only. Formal projects, publications,
 ## Next priorities
 
 1. Replace the temporary profile image with the actual portrait.
-2. Use the template to add the first substantive note.
-3. Add seminar and teaching records.
-4. Prepare a PDF CV when appropriate.
+2. Confirm the seminar draft details before publishing.
+3. Add the first substantive mathematical note.
+4. Add publicly shareable teaching materials when appropriate.
+5. Prepare a PDF CV when appropriate.

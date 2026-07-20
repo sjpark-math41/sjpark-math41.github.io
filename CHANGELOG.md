@@ -1,5 +1,15 @@
 # Changelog
 
+## 2026-07-20 — Teaching and seminars system
+
+- Added automatic listings for Teaching and Seminars.
+- Added shared directory metadata for teaching and seminar pages.
+- Added reusable templates for course records and seminar presentations.
+- Added a public Summer 2026 teaching-assistant record for Calculus and Vector Analysis (2).
+- Added draft seminar records for Large Deviations Chapter 8 and Brownian Motion Chapter 3.
+- Added a conservative public-materials policy for teaching content.
+- Updated the content guide, roadmap, and site status.
+
 ## 2026-07-20 — Notes authoring system
 
 - Added common defaults in `notes/_metadata.yml`.

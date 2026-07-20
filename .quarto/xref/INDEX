@@ -40,5 +40,20 @@
   },
   "templates/note/index.qmd": {
     "index.html": "0b433040"
+  },
+  "seminars/2026/brownian-motion-chapter-3/index.qmd": {
+    "index.html": "510c19dc"
+  },
+  "seminars/2026/large-deviations-chapter-8/index.qmd": {
+    "index.html": "2547a1d1"
+  },
+  "teaching/calculus-and-vector-analysis-2-2026-summer/index.qmd": {
+    "index.html": "27c0d238"
+  },
+  "templates/seminar/index.qmd": {
+    "index.html": "d33edcef"
+  },
+  "templates/teaching-course/index.qmd": {
+    "index.html": "42bb1d8f"
   }
 }

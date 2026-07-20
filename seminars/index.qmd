@@ -1,19 +1,31 @@
 ---
 title: "Seminars"
-description: "Upcoming and past seminar presentations."
-toc: true
+description: "Seminar and course presentations, slides, handouts, and related notes."
+listing:
+  contents: "**/index.qmd"
+  type: default
+  sort: "date desc"
+  fields: [date, title, description, categories]
+  categories: true
+  sort-ui:
+    - date
+    - title
+  filter-ui:
+    - title
+    - description
+    - categories
+  page-size: 10
+toc: false
 ---
 
-## Upcoming presentations
+This section records presentations prepared for seminars, reading groups, and graduate courses.
 
-Upcoming seminar dates and topics will be listed here.
+Entries may include:
 
-## Past presentations
-
-Each presentation will have a separate page containing:
-
-- Title and date
-- Seminar or course name
-- Abstract
-- Slides or handout
+- Presentation title and date
+- Seminar or course context
+- A concise abstract
+- Slides or handouts
 - Related mathematical notes
+
+Presentations still under preparation remain drafts and are visible locally during `quarto preview`, but they are excluded from the published website.

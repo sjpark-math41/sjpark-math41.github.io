@@ -1,0 +1,55 @@
+---
+title: "Large Deviations and Gibbs Measures: Chapter 8"
+description: "A graduate seminar presentation on thermodynamic limits and the continuation of Chapter 8."
+date: 2026-07-23
+date-modified: 2026-07-20
+categories:
+  - Graduate Seminar
+  - Large Deviations
+  - Gibbs Measures
+status: "Scheduled"
+draft: true
+toc: true
+---
+
+::: {.record-summary}
+<div>
+<span class="record-label">Status</span>
+
+**Scheduled**
+</div>
+
+<div>
+<span class="record-label">Date</span>
+
+**2026-07-23**
+</div>
+
+<div>
+<span class="record-label">Format</span>
+
+**Graduate seminar presentation**
+</div>
+:::
+
+## Overview
+
+This presentation concerns Chapter 8 of *A Course on Large Deviations with an Introduction to Gibbs Measures*.
+
+The presentation develops the thermodynamic-limit framework and the subsequent material on Gibbs measures and variational structure.
+
+## Planned contents
+
+- Finite-volume Gibbs models
+- Energy as a spatial sum
+- Thermodynamic pressure
+- Thermodynamic limits
+- The transition from Section 8.1 to Section 8.2
+
+## Materials
+
+Slides and related notes are still in preparation.
+
+## Related notes
+
+A link to the corresponding Large Deviations notes will be added after the note is published.

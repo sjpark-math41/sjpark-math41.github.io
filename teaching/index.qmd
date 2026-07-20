@@ -1,24 +1,22 @@
 ---
 title: "Teaching"
-description: "Teaching assistance, course materials, and problem-solving resources."
-toc: true
+description: "Teaching-assistant activities and publicly shareable course materials."
+listing:
+  contents: "**/index.qmd"
+  type: default
+  sort: "title asc"
+  fields: [title, description, categories]
+  categories: true
+  filter-ui:
+    - title
+    - description
+    - categories
+  page-size: 10
+toc: false
 ---
 
-## Teaching activities
+This section records teaching-assistant appointments and course-related materials that are appropriate for public distribution.
 
-This page will contain teaching-assistant appointments, course information, and selected instructional materials.
+## Publication policy
 
-## Courses
-
-Course pages will be organized by course and semester, for example:
-
-```text
-teaching/
-└── calculus-ii-2026-summer/
-    ├── index.qmd
-    └── materials/
-```
-
-## Materials
-
-Publicly shareable lecture materials, problem sets, and solutions will be linked from the relevant course page.
+Only materials that may be shared publicly will be posted here. Course handouts, textbook exercises, student information, grading records, and internal announcements are excluded unless public distribution is clearly permitted.
