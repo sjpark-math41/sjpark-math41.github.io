@@ -44,7 +44,9 @@
 - Reusable template: `templates/note/index.qmd`
 - Draft workflow: configured
 - Standard subject taxonomy: defined
-- Listing redesign: next design priority
+- Custom editorial landing page: configured
+- Custom note-card listing: configured
+- Sorting, filtering, and pagination: preserved
 
 ## Teaching system
 
@@ -52,6 +54,7 @@
 - Common metadata: `teaching/_metadata.yml`
 - Reusable template: `templates/teaching-course/index.qmd`
 - Summer 2026 teaching-assistant record: added
+- Custom teaching-card listing: configured
 - Public materials: none currently posted
 
 ## Seminars system
@@ -61,6 +64,7 @@
 - Reusable template: `templates/seminar/index.qmd`
 - Large Deviations Chapter 8 entry: draft
 - Brownian Motion Chapter 3 entry: draft
+- Custom seminar-card listing: configured
 
 ## Research content
 
@@ -68,8 +72,8 @@ The site currently lists research interests only. Formal projects, publications,
 
 ## Next priorities
 
-1. Redesign Notes, Teaching, and Seminars listings.
-2. Conduct a full site design review.
+1. Review Home, About, Research, and CV design.
+2. Conduct a full mobile and dark-mode audit.
 3. Replace the temporary profile image.
 4. Add the first substantive mathematical note.
 5. Prepare a PDF CV when appropriate.

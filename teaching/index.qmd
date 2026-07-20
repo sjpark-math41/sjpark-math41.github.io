@@ -1,22 +1,74 @@
 ---
 title: "Teaching"
 description: "Teaching-assistant activities and publicly shareable course materials."
+page-layout: full
+title-block-style: none
 listing:
+  id: teaching-listing
   contents: "**/index.qmd"
-  type: default
+  template: ../includes/listings/teaching.ejs.md
   sort: "title asc"
-  fields: [title, description, categories]
-  categories: true
+  sort-ui:
+    - title
+    - term
   filter-ui:
     - title
     - description
     - categories
+    - term
+    - role
+  field-display-names:
+    title: "Course"
+    term: "Term"
   page-size: 10
 toc: false
 ---
 
-This section records teaching-assistant appointments and course-related materials that are appropriate for public distribution.
+::: {.collection-shell}
+::: {.collection-hero .collection-hero-compact}
+::: {.collection-hero-copy}
+<p class="collection-eyebrow">INSTRUCTION · COURSE SUPPORT</p>
 
-## Publication policy
+# Teaching
 
-Only materials that may be shared publicly will be posted here. Course handouts, textbook exercises, student information, grading records, and internal announcements are excluded unless public distribution is clearly permitted.
+Teaching-assistant appointments and course resources, organized by course and academic term.
+:::
+
+::: {.collection-hero-aside}
+<div class="collection-stat">
+<span class="collection-stat-number">TA</span>
+<span class="collection-stat-label">course support</span>
+</div>
+
+<div class="collection-stat">
+<span class="collection-stat-number">Public</span>
+<span class="collection-stat-label">shareable materials only</span>
+</div>
+:::
+:::
+
+::: {.policy-panel}
+::: {.policy-panel-mark}
+<i class="bi bi-shield-check" aria-hidden="true"></i>
+:::
+
+::: {.policy-panel-copy}
+### Publication policy
+
+Only materials appropriate for public distribution are posted. Student information, grading records, internal announcements, restricted textbook scans, and nonpublic answer keys are excluded.
+:::
+:::
+
+::: {.collection-heading}
+<div>
+<p class="collection-kicker">COURSE RECORDS</p>
+
+## Teaching activities
+</div>
+
+<p>Use the search field to find a course, term, role, or subject area.</p>
+:::
+
+::: {#teaching-listing}
+:::
+:::

@@ -1,33 +1,129 @@
 ---
 title: "Notes"
-description: "Mathematical notes organized by subject and updated over time."
+description: "Long-form mathematical notes organized by subject and revision date."
+page-layout: full
+title-block-style: none
 listing:
+  id: notes-listing
   contents: "**/index.qmd"
-  type: default
+  template: ../includes/listings/notes.ejs.md
   sort: "date-modified desc"
-  fields: [date, title, description, categories, reading-time]
-  categories: true
   sort-ui:
-    - date
+    - date-modified
     - title
   filter-ui:
     - title
     - description
     - categories
+  field-types:
+    date: date
+    date-modified: date
+  field-display-names:
+    date-modified: "Last updated"
+    title: "Title"
+  date-format: "MMM d, yyyy"
   page-size: 12
 toc: false
 ---
 
-The Notes section contains long-form mathematical notes developed from graduate study, seminars, and research reading.
+::: {.collection-shell}
+::: {.collection-hero}
+::: {.collection-hero-copy}
+<p class="collection-eyebrow">MATHEMATICAL WRITING</p>
 
-## Subject areas
+# Notes
 
-- Probability Theory
-- Stochastic Processes
-- Large Deviations
-- Interacting Particle Systems
-- Real Analysis
-- Algebra
-- Research Notes
+Long-form notes developed from graduate coursework, seminars, and research reading. Each note is organized as a durable mathematical document rather than a chronological blog post.
+:::
 
-Use the search and category filters below to locate a note. Notes are ordered by the most recent substantive revision.
+::: {.collection-hero-aside}
+<div class="collection-stat">
+<span class="collection-stat-number">7</span>
+<span class="collection-stat-label">subject areas</span>
+</div>
+
+<div class="collection-stat">
+<span class="collection-stat-number">MathJax</span>
+<span class="collection-stat-label">equations and notation</span>
+</div>
+
+<div class="collection-stat">
+<span class="collection-stat-number">Living</span>
+<span class="collection-stat-label">revision-based documents</span>
+</div>
+:::
+:::
+
+## Browse by subject
+
+::: {.subject-grid}
+::: {.subject-card}
+<span class="subject-index">01</span>
+
+### Probability Theory
+
+Limit theorems, distributions, concentration, and probabilistic methods.
+:::
+
+::: {.subject-card}
+<span class="subject-index">02</span>
+
+### Stochastic Processes
+
+Markov processes, Brownian motion, martingales, and stochastic calculus.
+:::
+
+::: {.subject-card}
+<span class="subject-index">03</span>
+
+### Large Deviations
+
+Rare-event asymptotics, variational principles, and Gibbs measures.
+:::
+
+::: {.subject-card}
+<span class="subject-index">04</span>
+
+### Interacting Particle Systems
+
+Collective stochastic dynamics, metastability, and effective behavior.
+:::
+
+::: {.subject-card}
+<span class="subject-index">05</span>
+
+### Real Analysis
+
+Measure theory, integration, functional analysis, and PDE-oriented analysis.
+:::
+
+::: {.subject-card}
+<span class="subject-index">06</span>
+
+### Algebra
+
+Groups, rings, fields, modules, and algebraic structures.
+:::
+
+::: {.subject-card .subject-card-wide}
+<span class="subject-index">07</span>
+
+### Research Notes
+
+Working documents that connect papers, calculations, and open research questions.
+:::
+:::
+
+::: {.collection-heading}
+<div>
+<p class="collection-kicker">LIBRARY</p>
+
+## All notes
+</div>
+
+<p>Search titles, summaries, and subject tags. The default order follows the most recent substantive revision.</p>
+:::
+
+::: {#notes-listing}
+:::
+:::

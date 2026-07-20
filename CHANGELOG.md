@@ -1,5 +1,18 @@
 # Changelog
 
+## 2026-07-20 — Notes, Teaching, and Seminars redesign
+
+- Replaced the built-in listing appearance with reusable custom listing templates.
+- Added an editorial collection header for Notes, Teaching, and Seminars.
+- Added subject-area cards to the Notes landing page.
+- Added refined note cards with revision date, status, reading time, summary, and subject tags.
+- Added structured teaching cards with institution, role, and term.
+- Added seminar cards with presentation date, status, summary, and subject tags.
+- Redesigned listing search and sort controls.
+- Added responsive behavior for desktop, tablet, and mobile.
+- Added matching light- and dark-mode component styles.
+- Preserved Quarto sorting, filtering, pagination, and draft behavior.
+
 ## 2026-07-20 — Site-wide settings and portability
 
 - Added Open Graph and social-card metadata.

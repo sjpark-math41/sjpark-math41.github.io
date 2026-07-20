@@ -1,38 +1,38 @@
 [
   {
-    "objectID": "teaching/index.html",
-    "href": "teaching/index.html",
+    "objectID": "teaching/index.html#teaching-activities",
+    "href": "teaching/index.html#teaching-activities",
     "title": "Teaching",
-    "section": "",
-    "text": "This section records teaching-assistant appointments and course-related materials that are appropriate for public distribution."
+    "section": "Teaching activities",
+    "text": "Teaching activities"
   },
   {
-    "objectID": "teaching/index.html#publication-policy",
-    "href": "teaching/index.html#publication-policy",
-    "title": "Teaching",
-    "section": "Publication policy",
-    "text": "Publication policy\nOnly materials that may be shared publicly will be posted here. Course handouts, textbook exercises, student information, grading records, and internal announcements are excluded unless public distribution is clearly permitted."
-  },
-  {
-    "objectID": "seminars/index.html",
-    "href": "seminars/index.html",
+    "objectID": "seminars/index.html#seminar-records",
+    "href": "seminars/index.html#seminar-records",
     "title": "Seminars",
-    "section": "",
-    "text": "This section records presentations prepared for seminars, reading groups, and graduate courses.\nEntries may include:\n\nPresentation title and date\nSeminar or course context\nA concise abstract\nSlides or handouts\nRelated mathematical notes\n\nPresentations still under preparation remain drafts and are visible locally during quarto preview, but they are excluded from the published website.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\nNo matching items\n Back to top"
+    "section": "Seminar records",
+    "text": "Seminar records"
   },
   {
     "objectID": "notes/index.html",
     "href": "notes/index.html",
     "title": "Notes",
     "section": "",
-    "text": "The Notes section contains long-form mathematical notes developed from graduate study, seminars, and research reading."
+    "text": "Code"
   },
   {
-    "objectID": "notes/index.html#subject-areas",
-    "href": "notes/index.html#subject-areas",
+    "objectID": "notes/index.html#browse-by-subject",
+    "href": "notes/index.html#browse-by-subject",
     "title": "Notes",
-    "section": "1 Subject areas",
-    "text": "1 Subject areas\n\nProbability Theory\nStochastic Processes\nLarge Deviations\nInteracting Particle Systems\nReal Analysis\nAlgebra\nResearch Notes\n\nUse the search and category filters below to locate a note. Notes are ordered by the most recent substantive revision."
+    "section": "1.1 Browse by subject",
+    "text": "1.1 Browse by subject\n\n\n01\n\n1.1.1 Probability Theory\nLimit theorems, distributions, concentration, and probabilistic methods.\n\n\n\n02\n\n1.1.2 Stochastic Processes\nMarkov processes, Brownian motion, martingales, and stochastic calculus.\n\n\n\n03\n\n1.1.3 Large Deviations\nRare-event asymptotics, variational principles, and Gibbs measures.\n\n\n\n04\n\n1.1.4 Interacting Particle Systems\nCollective stochastic dynamics, metastability, and effective behavior.\n\n\n\n05\n\n1.1.5 Real Analysis\nMeasure theory, integration, functional analysis, and PDE-oriented analysis.\n\n\n\n06\n\n1.1.6 Algebra\nGroups, rings, fields, modules, and algebraic structures.\n\n\n\n07\n\n1.1.7 Research Notes\nWorking documents that connect papers, calculations, and open research questions.\n\n\n\n\n\n\nLIBRARY\n\n\n1.2 All notes\n\n\n\nSearch titles, summaries, and subject tags. The default order follows the most recent substantive revision.\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Last updated - Oldest\n      \n      \n        Last updated - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n  \n    \n      \n        \n          \n            \n            Updated Jul 1, yyyy\n          \n        \n        \n          Site guide\n        \n        \n          1 min\n        \n      \n      \n        \n      \n    \n\n    \n      How This Notes Section Is Organized\n    \n\n    \n      A short guide to the structure and metadata used for mathematical notes.\n    \n\n    \n      \n        \n          Site Guide\n        \n      \n    \n  \n\n\nNo matching items"
+  },
+  {
+    "objectID": "notes/index.html#all-notes",
+    "href": "notes/index.html#all-notes",
+    "title": "Notes",
+    "section": "1.2 All notes",
+    "text": "1.2 All notes"
   },
   {
     "objectID": "index.html",
@@ -222,5 +222,33 @@
     "title": "Calculus and Vector Analysis (2)",
     "section": "Topics",
     "text": "Topics\nThe course includes topics from multivariable and vector calculus, such as parametric surfaces, surface integrals, and the classical integral theorems of vector analysis."
+  },
+  {
+    "objectID": "seminars/2026/brownian-motion-chapter-3/index.html",
+    "href": "seminars/2026/brownian-motion-chapter-3/index.html",
+    "title": "Brownian Motion, Martingales, and Stochastic Calculus: Chapter 3",
+    "section": "",
+    "text": "Status\nScheduled\n\n\nDate\n2026-07-31\n\n\nFormat\nGraduate presentation"
+  },
+  {
+    "objectID": "seminars/2026/brownian-motion-chapter-3/index.html#overview",
+    "href": "seminars/2026/brownian-motion-chapter-3/index.html#overview",
+    "title": "Brownian Motion, Martingales, and Stochastic Calculus: Chapter 3",
+    "section": "Overview",
+    "text": "Overview\nThis presentation is based on Chapter 3 of Brownian Motion, Martingales, and Stochastic Calculus."
+  },
+  {
+    "objectID": "seminars/2026/brownian-motion-chapter-3/index.html#planned-contents",
+    "href": "seminars/2026/brownian-motion-chapter-3/index.html#planned-contents",
+    "title": "Brownian Motion, Martingales, and Stochastic Calculus: Chapter 3",
+    "section": "Planned contents",
+    "text": "Planned contents\nThe detailed outline will be added after the chapter has been fully organized for presentation."
+  },
+  {
+    "objectID": "seminars/2026/brownian-motion-chapter-3/index.html#materials",
+    "href": "seminars/2026/brownian-motion-chapter-3/index.html#materials",
+    "title": "Brownian Motion, Martingales, and Stochastic Calculus: Chapter 3",
+    "section": "Materials",
+    "text": "Materials\nSlides, handouts, and related notes are still in preparation."
   }
 ]

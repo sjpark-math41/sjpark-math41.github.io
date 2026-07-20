@@ -16,14 +16,15 @@
 - Cross-platform Git and editor normalization
 - Public render-target cleanup
 - Repository usage documentation
+- Custom editorial listings for Notes, Teaching, and Seminars
 
 ## Next design pass
 
-1. Redesign the Notes landing page and listing.
-2. Harmonize Teaching and Seminars listings with the revised Notes design.
-3. Review Home-page spacing, typography, and visual hierarchy.
-4. Improve About, Research, and CV presentation.
-5. Perform a dedicated mobile and dark-mode visual audit.
+1. Review Home-page spacing, typography, and visual hierarchy.
+2. Improve About, Research, and CV presentation.
+3. Review individual note and record pages.
+4. Perform a dedicated mobile and dark-mode visual audit.
+5. Adjust the listing design after real content has accumulated.
 
 ## Content priorities
 

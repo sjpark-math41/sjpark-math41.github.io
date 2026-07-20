@@ -1,12 +1,13 @@
 ---
 title: "Seminars"
 description: "Seminar and course presentations, slides, handouts, and related notes."
+page-layout: full
+title-block-style: none
 listing:
+  id: seminar-listing
   contents: "**/index.qmd"
-  type: default
+  template: ../includes/listings/seminars.ejs.md
   sort: "date desc"
-  fields: [date, title, description, categories]
-  categories: true
   sort-ui:
     - date
     - title
@@ -14,18 +15,59 @@ listing:
     - title
     - description
     - categories
+    - status
+  field-types:
+    date: date
+    date-modified: date
+  field-display-names:
+    date: "Presentation date"
+    title: "Title"
+  date-format: "MMM d, yyyy"
   page-size: 10
 toc: false
 ---
 
-This section records presentations prepared for seminars, reading groups, and graduate courses.
+::: {.collection-shell}
+::: {.collection-hero .collection-hero-compact}
+::: {.collection-hero-copy}
+<p class="collection-eyebrow">TALKS · READING GROUPS · COURSE PRESENTATIONS</p>
 
-Entries may include:
+# Seminars
 
-- Presentation title and date
-- Seminar or course context
-- A concise abstract
-- Slides or handouts
-- Related mathematical notes
+Presentation records linking the mathematical topic, event context, supporting materials, and related notes.
+:::
 
-Presentations still under preparation remain drafts and are visible locally during `quarto preview`, but they are excluded from the published website.
+::: {.collection-hero-aside}
+<div class="collection-stat">
+<span class="collection-stat-number">Talks</span>
+<span class="collection-stat-label">scheduled and completed</span>
+</div>
+
+<div class="collection-stat">
+<span class="collection-stat-number">Linked</span>
+<span class="collection-stat-label">slides, handouts, and notes</span>
+</div>
+:::
+:::
+
+::: {.seminar-note}
+<i class="bi bi-eye-slash" aria-hidden="true"></i>
+
+<div>
+**Draft presentations remain private.** They can be reviewed with `quarto preview`, but are excluded from the published website until `draft: false` is set.
+</div>
+:::
+
+::: {.collection-heading}
+<div>
+<p class="collection-kicker">PRESENTATION ARCHIVE</p>
+
+## Seminar records
+</div>
+
+<p>Search by title, mathematical subject, or presentation status.</p>
+:::
+
+::: {#seminar-listing}
+:::
+:::

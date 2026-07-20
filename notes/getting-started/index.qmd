@@ -5,6 +5,7 @@ date: 2026-07-20
 date-modified: 2026-07-20
 categories:
   - Site Guide
+status: "Site guide"
 toc: true
 number-sections: true
 ---
