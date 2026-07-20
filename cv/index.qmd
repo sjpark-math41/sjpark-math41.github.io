@@ -1,0 +1,29 @@
+---
+title: "Curriculum Vitae"
+description: "Academic curriculum vitae."
+toc: true
+---
+
+[Download PDF CV](../assets/files/cv.pdf){.btn .btn-primary .disabled aria-disabled="true"}
+
+The PDF button is currently disabled and will be activated after a CV file is added.
+
+## Education
+
+To be added.
+
+## Research
+
+To be added.
+
+## Presentations
+
+To be added.
+
+## Teaching
+
+To be added.
+
+## Awards and activities
+
+To be added.

@@ -1,0 +1,26 @@
+---
+title: "About"
+description: "Academic background and research interests."
+toc: false
+---
+
+I am a graduate student in mathematics. My main interests lie in probability, stochastic processes, large deviations, and interacting particle systems.
+
+## Research interests
+
+- Probability theory
+- Continuous-time Markov processes
+- Large deviations
+- Interacting particle systems
+- Metastability
+
+## Academic background
+
+This section will contain concise information about education, affiliation, and academic training.
+
+## Contact
+
+- Email: to be added
+- GitHub: [sjpark-math41](https://github.com/sjpark-math41)
+- Google Scholar: to be added
+- ORCID: to be added

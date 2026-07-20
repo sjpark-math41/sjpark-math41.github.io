@@ -1,0 +1,32 @@
+---
+title: "Research"
+description: "Research interests, current projects, publications, and presentations."
+toc: true
+---
+
+## Current research
+
+::: {.research-card .research-card-wide}
+### Nonreversible inclusion processes
+
+Study of metastability, effective dynamics, and hierarchical time scales in nonreversible interacting particle systems.
+
+**Status:** In progress  
+**Topics:** Metastability, trace processes, inclusion processes
+:::
+
+## Research interests
+
+- Metastability for Markov processes
+- Interacting particle systems
+- Large-deviation methods
+- Nonreversible stochastic dynamics
+- Variational and potential-theoretic techniques
+
+## Publications and preprints
+
+Publication metadata will be managed centrally in a later stage so that the same information can be reused on this page and on the CV page.
+
+## Talks and related material
+
+Seminar slides and related notes will be linked here once the Seminars section is populated.

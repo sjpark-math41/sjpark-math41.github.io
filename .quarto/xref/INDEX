@@ -1,5 +1,29 @@
 {
   "index.qmd": {
     "index.html": "d14f3933"
+  },
+  "404.qmd": {
+    "404.html": "e0ef2904"
+  },
+  "about.qmd": {
+    "about.html": "7a8c5fce"
+  },
+  "cv/index.qmd": {
+    "index.html": "fbbe30b8"
+  },
+  "notes/getting-started/index.qmd": {
+    "index.html": "e0bb8c48"
+  },
+  "notes/index.qmd": {
+    "index.html": "e4778fcf"
+  },
+  "research/index.qmd": {
+    "index.html": "a30971dd"
+  },
+  "seminars/index.qmd": {
+    "index.html": "33e447e3"
+  },
+  "teaching/index.qmd": {
+    "index.html": "8300a877"
   }
 }

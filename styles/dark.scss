@@ -1,0 +1,233 @@
+/*-- scss:defaults --*/
+
+$body-bg: #0c1420;
+$body-color: #e9eef5;
+$primary: #8ab9e3;
+$secondary: #a7b4c4;
+$link-color: #8ab9e3;
+
+$font-family-sans-serif:
+  "Pretendard Variable",
+  Pretendard,
+  "Noto Sans KR",
+  "Apple SD Gothic Neo",
+  "Malgun Gothic",
+  system-ui,
+  -apple-system,
+  "Segoe UI",
+  sans-serif;
+
+$headings-font-family:
+  "Source Serif 4",
+  "Noto Serif KR",
+  Georgia,
+  serif;
+
+$font-size-root: 17px;
+$line-height-base: 1.75;
+$border-radius: 0.7rem;
+
+/*-- scss:rules --*/
+
+:root {
+  --academic-surface: #111c2a;
+  --academic-surface-muted: #172536;
+  --academic-border: #2a3a4d;
+  --academic-border-soft: #213043;
+  --academic-text-muted: #a7b4c4;
+  --academic-shadow: 0 12px 34px rgba(0, 0, 0, 0.24);
+}
+
+.navbar {
+  background: rgba(12, 20, 32, 0.94);
+  border-bottom: 1px solid var(--academic-border-soft);
+  backdrop-filter: blur(10px);
+}
+
+.navbar-title {
+  font-family: $headings-font-family;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+.navbar .nav-link {
+  font-size: 0.94rem;
+  font-weight: 520;
+}
+
+.quarto-title h1,
+h1,
+h2,
+h3 {
+  letter-spacing: -0.025em;
+}
+
+h1 {
+  font-weight: 600;
+}
+
+h2 {
+  margin-top: 2.8rem;
+  padding-bottom: 0.45rem;
+  border-bottom: 1px solid var(--academic-border-soft);
+}
+
+main.content {
+  max-width: 780px;
+}
+
+.page-layout-full main.content {
+  max-width: none;
+}
+
+.home-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1.35fr) minmax(280px, 0.65fr);
+  gap: 3rem;
+  align-items: center;
+  max-width: 1180px;
+  margin: 3.5rem auto 5rem;
+  padding: 3rem;
+}
+
+.hero-copy h1 {
+  margin: 0.35rem 0 1rem;
+  font-size: clamp(3rem, 7vw, 5.8rem);
+  line-height: 0.98;
+}
+
+.hero-copy > p:not(.eyebrow) {
+  max-width: 720px;
+  color: var(--academic-text-muted);
+  font-size: 1.12rem;
+}
+
+.eyebrow,
+.hero-panel-label {
+  color: $primary;
+  font-size: 0.76rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+}
+
+.hero-panel {
+  padding: 2rem;
+  border: 1px solid var(--academic-border);
+  border-radius: 1rem;
+  background:
+    linear-gradient(145deg, rgba(138, 185, 227, 0.09), transparent 60%),
+    var(--academic-surface);
+  box-shadow: var(--academic-shadow);
+}
+
+.hero-panel h2 {
+  margin-top: 0.4rem;
+  border: 0;
+  font-size: 1.8rem;
+}
+
+.hero-panel .math.display {
+  overflow-x: auto;
+  padding-bottom: 0.4rem;
+}
+
+.home-hero .btn {
+  margin-top: 0.8rem;
+  margin-right: 0.45rem;
+}
+
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.2rem;
+  margin: 1.5rem 0 4rem;
+}
+
+.research-card {
+  padding: 1.5rem;
+  border: 1px solid var(--academic-border);
+  border-radius: 0.8rem;
+  background: var(--academic-surface);
+  box-shadow: 0 3px 14px rgba(0, 0, 0, 0.12);
+  transition:
+    transform 160ms ease,
+    box-shadow 160ms ease,
+    border-color 160ms ease;
+}
+
+.research-card:hover {
+  transform: translateY(-2px);
+  border-color: rgba(138, 185, 227, 0.55);
+  box-shadow: var(--academic-shadow);
+}
+
+.research-card h3 {
+  margin-top: 0;
+  font-size: 1.35rem;
+}
+
+.research-card-wide {
+  margin: 1.3rem 0 2rem;
+}
+
+.project-list,
+.note-preview {
+  border-top: 1px solid var(--academic-border);
+}
+
+.project-item,
+.note-preview {
+  padding: 1.35rem 0;
+  border-bottom: 1px solid var(--academic-border);
+}
+
+.project-item p,
+.note-preview p {
+  margin-bottom: 0.3rem;
+}
+
+.quarto-listing-default .listing-item {
+  padding-top: 1.25rem;
+  padding-bottom: 1.25rem;
+  border-bottom-color: var(--academic-border);
+}
+
+.page-footer {
+  margin-top: 5rem;
+  border-top: 1px solid var(--academic-border-soft);
+}
+
+.btn {
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+.btn-outline-secondary {
+  color: #c1ccda;
+  border-color: #5b6b7f;
+}
+
+@media (max-width: 900px) {
+  .home-hero {
+    grid-template-columns: 1fr;
+    gap: 1.8rem;
+    margin-top: 1.5rem;
+    padding: 1.4rem;
+  }
+
+  .research-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 576px) {
+  .hero-copy h1 {
+    font-size: 3rem;
+  }
+
+  .home-hero .btn {
+    display: block;
+    width: 100%;
+    margin-right: 0;
+  }
+}

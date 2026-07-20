@@ -1,11 +1,83 @@
 ---
-title: "Sungjun Park"
+page-layout: full
+toc: false
 ---
 
-## Academic Website
+::: {.home-hero}
+::: {.hero-copy}
+<p class="eyebrow">MATHEMATICS · PROBABILITY · STOCHASTIC PROCESSES</p>
 
-This website is being rebuilt with Quarto.
+# Sungjun Park
+
+Graduate student in mathematics working on probability, stochastic processes, large deviations, and interacting particle systems.
+
+[View Research](research/index.qmd){.btn .btn-primary}
+[Browse Notes](notes/index.qmd){.btn .btn-outline-primary}
+[View CV](cv/index.qmd){.btn .btn-outline-secondary}
+:::
+
+::: {.hero-panel}
+<p class="hero-panel-label">CURRENT FOCUS</p>
+
+## Research and mathematical writing
+
+This site will collect research projects, seminar materials, teaching resources, and long-form mathematical notes.
 
 $$
-\mathbb{P}(X \in A)
+\mathbb{P}(X_t \in A), \qquad
+\lim_{N\to\infty}\frac{1}{N}\log \mathbb{P}(Z_N\in B).
 $$
+:::
+:::
+
+## Research areas
+
+::: {.research-grid}
+::: {.research-card}
+### Probability
+
+Limit theorems, concentration phenomena, and probabilistic structures arising in mathematical models.
+:::
+
+::: {.research-card}
+### Stochastic Processes
+
+Continuous-time Markov processes, metastability, and the long-time behavior of interacting systems.
+:::
+
+::: {.research-card}
+### Large Deviations
+
+Variational principles, Gibbs measures, and asymptotic estimates for rare events.
+:::
+:::
+
+## Current projects
+
+::: {.project-list}
+::: {.project-item}
+**Nonreversible inclusion processes**
+
+Metastability and effective dynamics for nonreversible interacting particle systems.
+
+[Project page →](research/index.qmd)
+:::
+
+::: {.project-item}
+**Long-form mathematical notes**
+
+Structured notes developed from graduate coursework, seminars, and research reading.
+
+[Browse notes →](notes/index.qmd)
+:::
+:::
+
+## Recent note
+
+::: {.note-preview}
+**How This Notes Section Is Organized**
+
+A short guide to the metadata and folder conventions used for mathematical notes.
+
+[Read the note →](notes/getting-started/index.qmd)
+:::

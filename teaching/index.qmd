@@ -1,0 +1,24 @@
+---
+title: "Teaching"
+description: "Teaching assistance, course materials, and problem-solving resources."
+toc: true
+---
+
+## Teaching activities
+
+This page will contain teaching-assistant appointments, course information, and selected instructional materials.
+
+## Courses
+
+Course pages will be organized by course and semester, for example:
+
+```text
+teaching/
+└── calculus-ii-2026-summer/
+    ├── index.qmd
+    └── materials/
+```
+
+## Materials
+
+Publicly shareable lecture materials, problem sets, and solutions will be linked from the relevant course page.

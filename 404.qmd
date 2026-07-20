@@ -1,0 +1,8 @@
+---
+title: "Page Not Found"
+toc: false
+---
+
+The page you requested could not be found. It may have been moved or renamed.
+
+[Return to the home page](index.qmd){.btn .btn-primary}

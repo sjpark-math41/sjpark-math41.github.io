@@ -1,16 +1,226 @@
 [
   {
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "This page will contain teaching-assistant appointments, course information, and selected instructional materials."
+  },
+  {
+    "objectID": "teaching/index.html#teaching-activities",
+    "href": "teaching/index.html#teaching-activities",
+    "title": "Teaching",
+    "section": "",
+    "text": "This page will contain teaching-assistant appointments, course information, and selected instructional materials."
+  },
+  {
+    "objectID": "teaching/index.html#courses",
+    "href": "teaching/index.html#courses",
+    "title": "Teaching",
+    "section": "Courses",
+    "text": "Courses\nCourse pages will be organized by course and semester, for example:\nteaching/\n└── calculus-ii-2026-summer/\n    ├── index.qmd\n    └── materials/"
+  },
+  {
+    "objectID": "teaching/index.html#materials",
+    "href": "teaching/index.html#materials",
+    "title": "Teaching",
+    "section": "Materials",
+    "text": "Materials\nPublicly shareable lecture materials, problem sets, and solutions will be linked from the relevant course page."
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "Study of metastability, effective dynamics, and hierarchical time scales in nonreversible interacting particle systems.\nStatus: In progress\nTopics: Metastability, trace processes, inclusion processes"
+  },
+  {
+    "objectID": "research/index.html#current-research",
+    "href": "research/index.html#current-research",
+    "title": "Research",
+    "section": "",
+    "text": "Study of metastability, effective dynamics, and hierarchical time scales in nonreversible interacting particle systems.\nStatus: In progress\nTopics: Metastability, trace processes, inclusion processes"
+  },
+  {
+    "objectID": "research/index.html#research-interests",
+    "href": "research/index.html#research-interests",
+    "title": "Research",
+    "section": "Research interests",
+    "text": "Research interests\n\nMetastability for Markov processes\nInteracting particle systems\nLarge-deviation methods\nNonreversible stochastic dynamics\nVariational and potential-theoretic techniques"
+  },
+  {
+    "objectID": "research/index.html#publications-and-preprints",
+    "href": "research/index.html#publications-and-preprints",
+    "title": "Research",
+    "section": "Publications and preprints",
+    "text": "Publications and preprints\nPublication metadata will be managed centrally in a later stage so that the same information can be reused on this page and on the CV page."
+  },
+  {
+    "objectID": "research/index.html#talks-and-related-material",
+    "href": "research/index.html#talks-and-related-material",
+    "title": "Research",
+    "section": "Talks and related material",
+    "text": "Talks and related material\nSeminar slides and related notes will be linked here once the Seminars section is populated."
+  },
+  {
+    "objectID": "notes/getting-started/index.html",
+    "href": "notes/getting-started/index.html",
+    "title": "How This Notes Section Is Organized",
+    "section": "",
+    "text": "Each mathematical note is stored in its own folder. This keeps the source file, figures, references, and supplementary material together."
+  },
+  {
+    "objectID": "notes/getting-started/index.html#purpose",
+    "href": "notes/getting-started/index.html#purpose",
+    "title": "How This Notes Section Is Organized",
+    "section": "",
+    "text": "Each mathematical note is stored in its own folder. This keeps the source file, figures, references, and supplementary material together."
+  },
+  {
+    "objectID": "notes/getting-started/index.html#recommended-metadata",
+    "href": "notes/getting-started/index.html#recommended-metadata",
+    "title": "How This Notes Section Is Organized",
+    "section": "2 Recommended metadata",
+    "text": "2 Recommended metadata\nA typical note will begin with metadata of the following form:\n---\ntitle: \"Title of the Note\"\ndescription: \"A concise summary.\"\ndate: 2026-07-20\ndate-modified: 2026-07-20\ncategories:\n  - Large Deviations\n  - Gibbs Measures\ntoc: true\nnumber-sections: true\n---"
+  },
+  {
+    "objectID": "notes/getting-started/index.html#mathematics",
+    "href": "notes/getting-started/index.html#mathematics",
+    "title": "How This Notes Section Is Organized",
+    "section": "3 Mathematics",
+    "text": "3 Mathematics\nMathJax renders inline mathematics such as (X_t) and displayed mathematics such as\n\\[\nI(x)=\\sup_{\\theta\\in\\mathbb{R}}\n\\left\\{\\theta x-\\Lambda(\\theta)\\right\\}.\n\\]\nThis guide can be deleted after real notes have been added."
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download PDF CV\nThe PDF button is currently disabled and will be activated after a CV file is added."
+  },
+  {
+    "objectID": "cv/index.html#education",
+    "href": "cv/index.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\nTo be added."
+  },
+  {
+    "objectID": "cv/index.html#research",
+    "href": "cv/index.html#research",
+    "title": "Curriculum Vitae",
+    "section": "Research",
+    "text": "Research\nTo be added."
+  },
+  {
+    "objectID": "cv/index.html#presentations",
+    "href": "cv/index.html#presentations",
+    "title": "Curriculum Vitae",
+    "section": "Presentations",
+    "text": "Presentations\nTo be added."
+  },
+  {
+    "objectID": "cv/index.html#teaching",
+    "href": "cv/index.html#teaching",
+    "title": "Curriculum Vitae",
+    "section": "Teaching",
+    "text": "Teaching\nTo be added."
+  },
+  {
+    "objectID": "cv/index.html#awards-and-activities",
+    "href": "cv/index.html#awards-and-activities",
+    "title": "Curriculum Vitae",
+    "section": "Awards and activities",
+    "text": "Awards and activities\nTo be added."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a graduate student in mathematics. My main interests lie in probability, stochastic processes, large deviations, and interacting particle systems."
+  },
+  {
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "About",
+    "section": "Research interests",
+    "text": "Research interests\n\nProbability theory\nContinuous-time Markov processes\nLarge deviations\nInteracting particle systems\nMetastability"
+  },
+  {
+    "objectID": "about.html#academic-background",
+    "href": "about.html#academic-background",
+    "title": "About",
+    "section": "Academic background",
+    "text": "Academic background\nThis section will contain concise information about education, affiliation, and academic training."
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\n\nEmail: to be added\nGitHub: sjpark-math41\nGoogle Scholar: to be added\nORCID: to be added"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Sungjun Park",
     "section": "",
-    "text": "This website is being rebuilt with Quarto.\n\\[\n\\mathbb{P}(X \\in A)\n\\]"
+    "text": "MATHEMATICS · PROBABILITY · STOCHASTIC PROCESSES\n\n\n\nGraduate student in mathematics working on probability, stochastic processes, large deviations, and interacting particle systems.\nView Research Browse Notes View CV\n\n\n\n\nCURRENT FOCUS\n\n\n\nThis site will collect research projects, seminar materials, teaching resources, and long-form mathematical notes.\n\\[\n\\mathbb{P}(X_t \\in A), \\qquad\n\\lim_{N\\to\\infty}\\frac{1}{N}\\log \\mathbb{P}(Z_N\\in B).\n\\]"
   },
   {
-    "objectID": "index.html#academic-website",
-    "href": "index.html#academic-website",
+    "objectID": "index.html#research-and-mathematical-writing",
+    "href": "index.html#research-and-mathematical-writing",
     "title": "Sungjun Park",
     "section": "",
-    "text": "This website is being rebuilt with Quarto.\n\\[\n\\mathbb{P}(X \\in A)\n\\]"
+    "text": "This site will collect research projects, seminar materials, teaching resources, and long-form mathematical notes.\n\\[\n\\mathbb{P}(X_t \\in A), \\qquad\n\\lim_{N\\to\\infty}\\frac{1}{N}\\log \\mathbb{P}(Z_N\\in B).\n\\]"
+  },
+  {
+    "objectID": "index.html#research-areas",
+    "href": "index.html#research-areas",
+    "title": "Sungjun Park",
+    "section": "Research areas",
+    "text": "Research areas\n\n\nProbability\nLimit theorems, concentration phenomena, and probabilistic structures arising in mathematical models.\n\n\nStochastic Processes\nContinuous-time Markov processes, metastability, and the long-time behavior of interacting systems.\n\n\nLarge Deviations\nVariational principles, Gibbs measures, and asymptotic estimates for rare events."
+  },
+  {
+    "objectID": "index.html#current-projects",
+    "href": "index.html#current-projects",
+    "title": "Sungjun Park",
+    "section": "Current projects",
+    "text": "Current projects\n\n\nNonreversible inclusion processes\nMetastability and effective dynamics for nonreversible interacting particle systems.\nProject page →\n\n\nLong-form mathematical notes\nStructured notes developed from graduate coursework, seminars, and research reading.\nBrowse notes →"
+  },
+  {
+    "objectID": "index.html#recent-note",
+    "href": "index.html#recent-note",
+    "title": "Sungjun Park",
+    "section": "Recent note",
+    "text": "Recent note\n\nHow This Notes Section Is Organized\nA short guide to the metadata and folder conventions used for mathematical notes.\nRead the note →"
+  },
+  {
+    "objectID": "notes/index.html",
+    "href": "notes/index.html",
+    "title": "Notes",
+    "section": "",
+    "text": "The Notes section is designed for long-form mathematical writing. New notes added under this directory will appear automatically in the listing below.\nInitial subject areas will include:\n\nProbability\nStochastic Processes\nLarge Deviations\nInteracting Particle Systems\nReal Analysis\nAlgebra\nResearch Notes\n\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nHow This Notes Section Is Organized\n\n\n\nSite Guide\n\n\n\nA short guide to the structure and metadata used for mathematical notes.\n\n\n\n\n\n2026-07-20\n\n1 min\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "seminars/index.html",
+    "href": "seminars/index.html",
+    "title": "Seminars",
+    "section": "",
+    "text": "Upcoming seminar dates and topics will be listed here."
+  },
+  {
+    "objectID": "seminars/index.html#upcoming-presentations",
+    "href": "seminars/index.html#upcoming-presentations",
+    "title": "Seminars",
+    "section": "",
+    "text": "Upcoming seminar dates and topics will be listed here."
+  },
+  {
+    "objectID": "seminars/index.html#past-presentations",
+    "href": "seminars/index.html#past-presentations",
+    "title": "Seminars",
+    "section": "Past presentations",
+    "text": "Past presentations\nEach presentation will have a separate page containing:\n\nTitle and date\nSeminar or course name\nAbstract\nSlides or handout\nRelated mathematical notes"
   }
 ]

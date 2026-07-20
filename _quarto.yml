@@ -4,12 +4,48 @@ project:
 
 website:
   title: "Sungjun Park"
+  site-url: "https://sjpark-math41.github.io"
+  description: "Academic website of Sungjun Park, a graduate student in mathematics."
+  search: true
   navbar:
+    pinned: true
     left:
       - href: index.qmd
         text: Home
+      - href: about.qmd
+        text: About
+      - href: research/index.qmd
+        text: Research
+      - href: notes/index.qmd
+        text: Notes
+      - href: teaching/index.qmd
+        text: Teaching
+      - href: seminars/index.qmd
+        text: Seminars
+      - href: cv/index.qmd
+        text: CV
+    right:
+      - icon: github
+        href: https://github.com/sjpark-math41
+        aria-label: GitHub
+  page-footer:
+    left: "© 2026 Sungjun Park"
+    right: "Built with Quarto"
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: [cosmo, styles/light.scss]
+      dark: [darkly, styles/dark.scss]
     toc: true
+    toc-depth: 3
+    smooth-scroll: true
+    code-copy: true
+    code-overflow: wrap
+    link-external-newwindow: true
+    html-math-method: mathjax
+    date-format: "YYYY-MM-DD"
+    anchor-sections: true
+
+execute:
+  freeze: auto

@@ -1,0 +1,19 @@
+---
+title: "Seminars"
+description: "Upcoming and past seminar presentations."
+toc: true
+---
+
+## Upcoming presentations
+
+Upcoming seminar dates and topics will be listed here.
+
+## Past presentations
+
+Each presentation will have a separate page containing:
+
+- Title and date
+- Seminar or course name
+- Abstract
+- Slides or handout
+- Related mathematical notes
