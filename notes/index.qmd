@@ -2,25 +2,32 @@
 title: "Notes"
 description: "Mathematical notes organized by subject and updated over time."
 listing:
-  contents: "**/*.qmd"
+  contents: "**/index.qmd"
   type: default
   sort: "date-modified desc"
   fields: [date, title, description, categories, reading-time]
   categories: true
-  sort-ui: [date, title]
-  filter-ui: [title, description, categories]
-  page-size: 10
+  sort-ui:
+    - date
+    - title
+  filter-ui:
+    - title
+    - description
+    - categories
+  page-size: 12
 toc: false
 ---
 
-The Notes section is designed for long-form mathematical writing. New notes added under this directory will appear automatically in the listing below.
+The Notes section contains long-form mathematical notes developed from graduate study, seminars, and research reading.
 
-Initial subject areas will include:
+## Subject areas
 
-- Probability
+- Probability Theory
 - Stochastic Processes
 - Large Deviations
 - Interacting Particle Systems
 - Real Analysis
 - Algebra
 - Research Notes
+
+Use the search and category filters below to locate a note. Notes are ordered by the most recent substantive revision.

@@ -1,0 +1,13 @@
+toc: true
+toc-depth: 3
+number-sections: true
+code-fold: true
+code-tools: true
+code-overflow: wrap
+fig-cap-location: bottom
+tbl-cap-location: top
+citation-location: document
+reference-location: document
+format:
+  html:
+    page-layout: article

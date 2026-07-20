@@ -31,5 +31,14 @@
   },
   "SITE-STATUS.md": {
     "SITE-STATUS.html": "59b8fc38"
+  },
+  "CONTENT-GUIDE.md": {
+    "CONTENT-GUIDE.html": "ec142978"
+  },
+  "ROADMAP.md": {
+    "ROADMAP.html": "b8dedb70"
+  },
+  "templates/note/index.qmd": {
+    "index.html": "0b433040"
   }
 }

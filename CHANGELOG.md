@@ -1,5 +1,15 @@
 # Changelog
 
+## 2026-07-20 — Notes authoring system
+
+- Added common defaults in `notes/_metadata.yml`.
+- Added a reusable long-form mathematical note template.
+- Added standard metadata, date, tag, folder, and draft conventions.
+- Added reusable visual blocks for definitions, theorems, propositions, lemmas, corollaries, examples, remarks, and proofs.
+- Added `CONTENT-GUIDE.md`.
+- Added and updated project status and roadmap documentation.
+- Restricted the Notes listing to note folders whose main document is `index.qmd`.
+
 ## 2026-07-20 — Profile integration
 
 - Added the public academic profile of Sungjun Park.

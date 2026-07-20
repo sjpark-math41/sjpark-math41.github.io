@@ -21,6 +21,15 @@
 - PDF CV: not yet available
 - Profile portrait: actual image pending
 
+## Notes system
+
+- Automatic listing: configured
+- Common note metadata: `notes/_metadata.yml`
+- Reusable template: `templates/note/index.qmd`
+- Authoring rules: `CONTENT-GUIDE.md`
+- Draft workflow: configured through the `draft` metadata field
+- Standard subject taxonomy: defined
+
 ## Research content
 
 The site currently lists research interests only. Formal projects, publications, and collaborations will be added when available.
@@ -28,7 +37,6 @@ The site currently lists research interests only. Formal projects, publications,
 ## Next priorities
 
 1. Replace the temporary profile image with the actual portrait.
-2. Add the first substantive mathematical note.
-3. Create a reusable note template and subject directories.
-4. Add seminar and teaching records.
-5. Prepare a PDF CV when appropriate.
+2. Use the template to add the first substantive note.
+3. Add seminar and teaching records.
+4. Prepare a PDF CV when appropriate.

@@ -1,59 +1,87 @@
 [
   {
-    "objectID": "teaching/index.html",
-    "href": "teaching/index.html",
-    "title": "Teaching",
+    "objectID": "SITE-STATUS.html",
+    "href": "SITE-STATUS.html",
+    "title": "Site Status",
     "section": "",
-    "text": "This page will contain teaching-assistant appointments, course information, and selected instructional materials."
+    "text": "Home\nAbout\nResearch\nNotes\nTeaching\nSeminars\nCV\n\n\n\n\n\nName: Sungjun Park / 박성준\nAffiliation: Department of Mathematics, Yonsei University\nProgram: Integrated M.S.–Ph.D. Program in Mathematics\nEmail and GitHub links: configured\nGoogle Scholar: not yet available\nORCID: not yet available\nPDF CV: not yet available\nProfile portrait: actual image pending\n\n\n\n\n\nAutomatic listing: configured\nCommon note metadata: notes/_metadata.yml\nReusable template: templates/note/index.qmd\nAuthoring rules: CONTENT-GUIDE.md\nDraft workflow: configured through the draft metadata field\nStandard subject taxonomy: defined\n\n\n\n\nThe site currently lists research interests only. Formal projects, publications, and collaborations will be added when available.\n\n\n\n\nReplace the temporary profile image with the actual portrait.\nUse the template to add the first substantive note.\nAdd seminar and teaching records.\nPrepare a PDF CV when appropriate."
   },
   {
-    "objectID": "teaching/index.html#teaching-activities",
-    "href": "teaching/index.html#teaching-activities",
-    "title": "Teaching",
+    "objectID": "SITE-STATUS.html#current-structure",
+    "href": "SITE-STATUS.html#current-structure",
+    "title": "Site Status",
     "section": "",
-    "text": "This page will contain teaching-assistant appointments, course information, and selected instructional materials."
+    "text": "Home\nAbout\nResearch\nNotes\nTeaching\nSeminars\nCV"
   },
   {
-    "objectID": "teaching/index.html#courses",
-    "href": "teaching/index.html#courses",
-    "title": "Teaching",
-    "section": "Courses",
-    "text": "Courses\nCourse pages will be organized by course and semester, for example:\nteaching/\n└── calculus-ii-2026-summer/\n    ├── index.qmd\n    └── materials/"
-  },
-  {
-    "objectID": "teaching/index.html#materials",
-    "href": "teaching/index.html#materials",
-    "title": "Teaching",
-    "section": "Materials",
-    "text": "Materials\nPublicly shareable lecture materials, problem sets, and solutions will be linked from the relevant course page."
-  },
-  {
-    "objectID": "seminars/index.html",
-    "href": "seminars/index.html",
-    "title": "Seminars",
+    "objectID": "SITE-STATUS.html#profile",
+    "href": "SITE-STATUS.html#profile",
+    "title": "Site Status",
     "section": "",
-    "text": "Upcoming seminar dates and topics will be listed here."
+    "text": "Name: Sungjun Park / 박성준\nAffiliation: Department of Mathematics, Yonsei University\nProgram: Integrated M.S.–Ph.D. Program in Mathematics\nEmail and GitHub links: configured\nGoogle Scholar: not yet available\nORCID: not yet available\nPDF CV: not yet available\nProfile portrait: actual image pending"
   },
   {
-    "objectID": "seminars/index.html#upcoming-presentations",
-    "href": "seminars/index.html#upcoming-presentations",
-    "title": "Seminars",
+    "objectID": "SITE-STATUS.html#notes-system",
+    "href": "SITE-STATUS.html#notes-system",
+    "title": "Site Status",
     "section": "",
-    "text": "Upcoming seminar dates and topics will be listed here."
+    "text": "Automatic listing: configured\nCommon note metadata: notes/_metadata.yml\nReusable template: templates/note/index.qmd\nAuthoring rules: CONTENT-GUIDE.md\nDraft workflow: configured through the draft metadata field\nStandard subject taxonomy: defined"
   },
   {
-    "objectID": "seminars/index.html#past-presentations",
-    "href": "seminars/index.html#past-presentations",
-    "title": "Seminars",
-    "section": "Past presentations",
-    "text": "Past presentations\nEach presentation will have a separate page containing:\n\nTitle and date\nSeminar or course name\nAbstract\nSlides or handout\nRelated mathematical notes"
+    "objectID": "SITE-STATUS.html#research-content",
+    "href": "SITE-STATUS.html#research-content",
+    "title": "Site Status",
+    "section": "",
+    "text": "The site currently lists research interests only. Formal projects, publications, and collaborations will be added when available."
+  },
+  {
+    "objectID": "SITE-STATUS.html#next-priorities",
+    "href": "SITE-STATUS.html#next-priorities",
+    "title": "Site Status",
+    "section": "",
+    "text": "Replace the temporary profile image with the actual portrait.\nUse the template to add the first substantive note.\nAdd seminar and teaching records.\nPrepare a PDF CV when appropriate."
+  },
+  {
+    "objectID": "ROADMAP.html",
+    "href": "ROADMAP.html",
+    "title": "Roadmap",
+    "section": "",
+    "text": "Quarto website foundation\nGitHub Actions deployment to GitHub Pages\nResponsive light and dark themes\nHome, About, Research, Notes, Teaching, Seminars, and CV pages\nPublic profile, education, affiliation, email, and GitHub information\nCentral profile variables\nNotes listing and reusable note template\n\n\n\n\n\nReplace the temporary profile image with the actual portrait.\nPublish the first substantive mathematical note.\nAdd the first seminar record.\nAdd current or past teaching-assistant activity.\nImprove Open Graph and social preview metadata.\nPrepare a PDF CV when the academic record warrants it.\n\n\n\n\n\nBibliography conventions for research notes\nReusable seminar and teaching templates\nPublication data model\nOptional domain name\nAutomated link validation"
+  },
+  {
+    "objectID": "ROADMAP.html#completed",
+    "href": "ROADMAP.html#completed",
+    "title": "Roadmap",
+    "section": "",
+    "text": "Quarto website foundation\nGitHub Actions deployment to GitHub Pages\nResponsive light and dark themes\nHome, About, Research, Notes, Teaching, Seminars, and CV pages\nPublic profile, education, affiliation, email, and GitHub information\nCentral profile variables\nNotes listing and reusable note template"
+  },
+  {
+    "objectID": "ROADMAP.html#next",
+    "href": "ROADMAP.html#next",
+    "title": "Roadmap",
+    "section": "",
+    "text": "Replace the temporary profile image with the actual portrait.\nPublish the first substantive mathematical note.\nAdd the first seminar record.\nAdd current or past teaching-assistant activity.\nImprove Open Graph and social preview metadata.\nPrepare a PDF CV when the academic record warrants it."
+  },
+  {
+    "objectID": "ROADMAP.html#later",
+    "href": "ROADMAP.html#later",
+    "title": "Roadmap",
+    "section": "",
+    "text": "Bibliography conventions for research notes\nReusable seminar and teaching templates\nPublication data model\nOptional domain name\nAutomated link validation"
   },
   {
     "objectID": "notes/index.html",
     "href": "notes/index.html",
     "title": "Notes",
     "section": "",
-    "text": "The Notes section is designed for long-form mathematical writing. New notes added under this directory will appear automatically in the listing below.\nInitial subject areas will include:\n\nProbability\nStochastic Processes\nLarge Deviations\nInteracting Particle Systems\nReal Analysis\nAlgebra\nResearch Notes\n\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nHow This Notes Section Is Organized\n\n\n\nSite Guide\n\n\n\nA short guide to the structure and metadata used for mathematical notes.\n\n\n\n\n\n2026-07-20\n\n1 min\n\n\n\n\nNo matching items"
+    "text": "The Notes section contains long-form mathematical notes developed from graduate study, seminars, and research reading."
+  },
+  {
+    "objectID": "notes/index.html#subject-areas",
+    "href": "notes/index.html#subject-areas",
+    "title": "Notes",
+    "section": "1 Subject areas",
+    "text": "1 Subject areas\n\nProbability Theory\nStochastic Processes\nLarge Deviations\nInteracting Particle Systems\nReal Analysis\nAlgebra\nResearch Notes\n\nUse the search and category filters below to locate a note. Notes are ordered by the most recent substantive revision."
   },
   {
     "objectID": "index.html",
@@ -91,25 +119,81 @@
     "text": "Recent note\n\nHow This Notes Section Is Organized\nA short guide to the metadata and folder conventions used for mathematical notes.\nRead the note →"
   },
   {
-    "objectID": "CHANGELOG.html",
-    "href": "CHANGELOG.html",
-    "title": "Changelog",
+    "objectID": "CONTENT-GUIDE.html",
+    "href": "CONTENT-GUIDE.html",
+    "title": "Content Guide",
     "section": "",
-    "text": "Added the public academic profile of Sungjun Park.\nAdded Korean and English name display.\nAdded Yonsei University affiliation and public email.\nAdded research interests and education history.\nReplaced the empty project section with a transparent research-in-development statement.\nAdded centralized reusable values in _variables.yml.\nRefactored duplicated light/dark layout rules into styles/_shared.scss.\nAdded a temporary profile placeholder pending the actual portrait file.\n\n\n\n\n\nRebuilt the website as a Quarto project.\nAdded Home, About, Research, Notes, Teaching, Seminars, and CV.\nAdded light and dark themes.\nAdded GitHub Pages deployment through GitHub Actions."
+    "text": "This file records the minimum rules for adding and maintaining site content.\n\n\nUse lowercase English folder names with hyphens.\ngood:\nlarge-deviations\nthermodynamic-limit\ncontinuous-time-markov-chains\n\navoid:\nLarge Deviations\n새 노트\nnote 1\nThe public title may contain spaces, capitalization, Korean, and mathematical notation. Only the file and folder names follow the English slug rule.\n\n\n\n\n\nCopy:\ntemplates/note/\nto a destination such as:\nnotes/large-deviations/thermodynamic-limit/\nThe final source file must be:\nnotes/large-deviations/thermodynamic-limit/index.qmd\n\n\n\nAt the top of index.qmd, edit:\ntitle:\ndescription:\ndate:\ndate-modified:\ncategories:\nstatus:\ndraft:\nUse draft: true while the note is not ready to appear publicly. Change it to draft: false when publishing.\n\n\n\nRun:\nquarto preview\nCheck the table of contents, equations, links, light mode, dark mode, and narrow mobile width.\n\n\n\nIn GitHub Desktop:\nFetch/Pull → Commit → Push\n\n\n\n\nUse these category names consistently:\n\nProbability Theory\nStochastic Processes\nLarge Deviations\nInteracting Particle Systems\nReal Analysis\nAlgebra\nResearch Notes\nSite Guide\n\nA note may have one primary subject and several narrower topic tags.\nExample:\ncategories:\n  - Large Deviations\n  - Gibbs Measures\n  - Thermodynamic Limit\n\n\n\n\ndate: first public or substantive creation date\ndate-modified: most recent meaningful content revision\nDo not update date-modified for a typo-only edit\n\nUse the ISO format:\nYYYY-MM-DD\n\n\n\nUse inline mathematics with:\n\\(X_t\\)\nUse displayed mathematics with:\n$$\nI(x)=\\sup_{\\theta\\in\\mathbb{R}}\n\\{\\theta x-\\Lambda(\\theta)\\}.\n$$\nUse ordinary headings in hierarchical order:\n## Section\n### Subsection\n#### Small subdivision\nDo not skip heading levels for visual effect.\n\n\n\nUse the reusable blocks included in the note template:\n::: {.definition}\n### Definition\n\n...\n:::\nAvailable classes:\n\ndefinition\ntheorem\nproposition\nlemma\ncorollary\nremark\nexample\nproof-box\nnote-status\n\nThese provide visual consistency but do not create automatic theorem numbering. Ordinary numbered section headings remain the primary navigation system.\n\n\n\nStore note-specific files next to the note:\nnotes/subject/note-slug/\n├── index.qmd\n├── images/\n└── files/\nUse descriptive image names and always supply alt text.\n![Description of the mathematical diagram](images/diagram-name.svg)\n\n\n\nUse relative project links.\n[Related note](../other-note/index.qmd)\nAfter moving or renaming a note, check all inbound links before pushing.\n\n\n\nAt the beginning of work:\nGitHub Desktop → Fetch origin → Pull origin\nAt the end of work:\nSave → Commit → Push origin\nDo not edit the same note independently on both computers before syncing.\n\n\n\n\nProfile and education: _variables.yml\nGlobal navigation and site metadata: _quarto.yml\nShared visual styling: styles/\nNote-wide defaults: notes/_metadata.yml\n\nChange the central source rather than copying the same information into several pages."
   },
   {
-    "objectID": "CHANGELOG.html#profile-integration",
-    "href": "CHANGELOG.html#profile-integration",
-    "title": "Changelog",
+    "objectID": "CONTENT-GUIDE.html#general-naming-rules",
+    "href": "CONTENT-GUIDE.html#general-naming-rules",
+    "title": "Content Guide",
     "section": "",
-    "text": "Added the public academic profile of Sungjun Park.\nAdded Korean and English name display.\nAdded Yonsei University affiliation and public email.\nAdded research interests and education history.\nReplaced the empty project section with a transparent research-in-development statement.\nAdded centralized reusable values in _variables.yml.\nRefactored duplicated light/dark layout rules into styles/_shared.scss.\nAdded a temporary profile placeholder pending the actual portrait file."
+    "text": "Use lowercase English folder names with hyphens.\ngood:\nlarge-deviations\nthermodynamic-limit\ncontinuous-time-markov-chains\n\navoid:\nLarge Deviations\n새 노트\nnote 1\nThe public title may contain spaces, capitalization, Korean, and mathematical notation. Only the file and folder names follow the English slug rule."
   },
   {
-    "objectID": "CHANGELOG.html#initial-rebuild",
-    "href": "CHANGELOG.html#initial-rebuild",
-    "title": "Changelog",
+    "objectID": "CONTENT-GUIDE.html#adding-a-mathematical-note",
+    "href": "CONTENT-GUIDE.html#adding-a-mathematical-note",
+    "title": "Content Guide",
     "section": "",
-    "text": "Rebuilt the website as a Quarto project.\nAdded Home, About, Research, Notes, Teaching, Seminars, and CV.\nAdded light and dark themes.\nAdded GitHub Pages deployment through GitHub Actions."
+    "text": "Copy:\ntemplates/note/\nto a destination such as:\nnotes/large-deviations/thermodynamic-limit/\nThe final source file must be:\nnotes/large-deviations/thermodynamic-limit/index.qmd\n\n\n\nAt the top of index.qmd, edit:\ntitle:\ndescription:\ndate:\ndate-modified:\ncategories:\nstatus:\ndraft:\nUse draft: true while the note is not ready to appear publicly. Change it to draft: false when publishing.\n\n\n\nRun:\nquarto preview\nCheck the table of contents, equations, links, light mode, dark mode, and narrow mobile width.\n\n\n\nIn GitHub Desktop:\nFetch/Pull → Commit → Push"
+  },
+  {
+    "objectID": "CONTENT-GUIDE.html#standard-subject-names",
+    "href": "CONTENT-GUIDE.html#standard-subject-names",
+    "title": "Content Guide",
+    "section": "",
+    "text": "Use these category names consistently:\n\nProbability Theory\nStochastic Processes\nLarge Deviations\nInteracting Particle Systems\nReal Analysis\nAlgebra\nResearch Notes\nSite Guide\n\nA note may have one primary subject and several narrower topic tags.\nExample:\ncategories:\n  - Large Deviations\n  - Gibbs Measures\n  - Thermodynamic Limit"
+  },
+  {
+    "objectID": "CONTENT-GUIDE.html#date-policy",
+    "href": "CONTENT-GUIDE.html#date-policy",
+    "title": "Content Guide",
+    "section": "",
+    "text": "date: first public or substantive creation date\ndate-modified: most recent meaningful content revision\nDo not update date-modified for a typo-only edit\n\nUse the ISO format:\nYYYY-MM-DD"
+  },
+  {
+    "objectID": "CONTENT-GUIDE.html#mathematical-writing",
+    "href": "CONTENT-GUIDE.html#mathematical-writing",
+    "title": "Content Guide",
+    "section": "",
+    "text": "Use inline mathematics with:\n\\(X_t\\)\nUse displayed mathematics with:\n$$\nI(x)=\\sup_{\\theta\\in\\mathbb{R}}\n\\{\\theta x-\\Lambda(\\theta)\\}.\n$$\nUse ordinary headings in hierarchical order:\n## Section\n### Subsection\n#### Small subdivision\nDo not skip heading levels for visual effect."
+  },
+  {
+    "objectID": "CONTENT-GUIDE.html#definitions-theorems-and-remarks",
+    "href": "CONTENT-GUIDE.html#definitions-theorems-and-remarks",
+    "title": "Content Guide",
+    "section": "",
+    "text": "Use the reusable blocks included in the note template:\n::: {.definition}\n### Definition\n\n...\n:::\nAvailable classes:\n\ndefinition\ntheorem\nproposition\nlemma\ncorollary\nremark\nexample\nproof-box\nnote-status\n\nThese provide visual consistency but do not create automatic theorem numbering. Ordinary numbered section headings remain the primary navigation system."
+  },
+  {
+    "objectID": "CONTENT-GUIDE.html#images-and-files",
+    "href": "CONTENT-GUIDE.html#images-and-files",
+    "title": "Content Guide",
+    "section": "",
+    "text": "Store note-specific files next to the note:\nnotes/subject/note-slug/\n├── index.qmd\n├── images/\n└── files/\nUse descriptive image names and always supply alt text.\n![Description of the mathematical diagram](images/diagram-name.svg)"
+  },
+  {
+    "objectID": "CONTENT-GUIDE.html#links",
+    "href": "CONTENT-GUIDE.html#links",
+    "title": "Content Guide",
+    "section": "",
+    "text": "Use relative project links.\n[Related note](../other-note/index.qmd)\nAfter moving or renaming a note, check all inbound links before pushing."
+  },
+  {
+    "objectID": "CONTENT-GUIDE.html#working-across-windows-and-macos",
+    "href": "CONTENT-GUIDE.html#working-across-windows-and-macos",
+    "title": "Content Guide",
+    "section": "",
+    "text": "At the beginning of work:\nGitHub Desktop → Fetch origin → Pull origin\nAt the end of work:\nSave → Commit → Push origin\nDo not edit the same note independently on both computers before syncing."
+  },
+  {
+    "objectID": "CONTENT-GUIDE.html#content-that-should-not-be-duplicated",
+    "href": "CONTENT-GUIDE.html#content-that-should-not-be-duplicated",
+    "title": "Content Guide",
+    "section": "",
+    "text": "Profile and education: _variables.yml\nGlobal navigation and site metadata: _quarto.yml\nShared visual styling: styles/\nNote-wide defaults: notes/_metadata.yml\n\nChange the central source rather than copying the same information into several pages."
   },
   {
     "objectID": "about.html",
@@ -145,6 +229,34 @@
     "title": "About",
     "section": "Contact",
     "text": "Contact\n\nEmail: sungjun.park@yonsei.ac.kr\nGitHub: sjpark-math41\n\nGoogle Scholar and ORCID links will be added when available."
+  },
+  {
+    "objectID": "CHANGELOG.html",
+    "href": "CHANGELOG.html",
+    "title": "Changelog",
+    "section": "",
+    "text": "Added common defaults in notes/_metadata.yml.\nAdded a reusable long-form mathematical note template.\nAdded standard metadata, date, tag, folder, and draft conventions.\nAdded reusable visual blocks for definitions, theorems, propositions, lemmas, corollaries, examples, remarks, and proofs.\nAdded CONTENT-GUIDE.md.\nAdded and updated project status and roadmap documentation.\nRestricted the Notes listing to note folders whose main document is index.qmd.\n\n\n\n\n\nAdded the public academic profile of Sungjun Park.\nAdded Korean and English name display.\nAdded Yonsei University affiliation and public email.\nAdded research interests and education history.\nReplaced the empty project section with a transparent research-in-development statement.\nAdded centralized reusable values in _variables.yml.\nRefactored duplicated light/dark layout rules into styles/_shared.scss.\nAdded a temporary profile placeholder pending the actual portrait file.\n\n\n\n\n\nRebuilt the website as a Quarto project.\nAdded Home, About, Research, Notes, Teaching, Seminars, and CV.\nAdded light and dark themes.\nAdded GitHub Pages deployment through GitHub Actions."
+  },
+  {
+    "objectID": "CHANGELOG.html#notes-authoring-system",
+    "href": "CHANGELOG.html#notes-authoring-system",
+    "title": "Changelog",
+    "section": "",
+    "text": "Added common defaults in notes/_metadata.yml.\nAdded a reusable long-form mathematical note template.\nAdded standard metadata, date, tag, folder, and draft conventions.\nAdded reusable visual blocks for definitions, theorems, propositions, lemmas, corollaries, examples, remarks, and proofs.\nAdded CONTENT-GUIDE.md.\nAdded and updated project status and roadmap documentation.\nRestricted the Notes listing to note folders whose main document is index.qmd."
+  },
+  {
+    "objectID": "CHANGELOG.html#profile-integration",
+    "href": "CHANGELOG.html#profile-integration",
+    "title": "Changelog",
+    "section": "",
+    "text": "Added the public academic profile of Sungjun Park.\nAdded Korean and English name display.\nAdded Yonsei University affiliation and public email.\nAdded research interests and education history.\nReplaced the empty project section with a transparent research-in-development statement.\nAdded centralized reusable values in _variables.yml.\nRefactored duplicated light/dark layout rules into styles/_shared.scss.\nAdded a temporary profile placeholder pending the actual portrait file."
+  },
+  {
+    "objectID": "CHANGELOG.html#initial-rebuild",
+    "href": "CHANGELOG.html#initial-rebuild",
+    "title": "Changelog",
+    "section": "",
+    "text": "Rebuilt the website as a Quarto project.\nAdded Home, About, Research, Notes, Teaching, Seminars, and CV.\nAdded light and dark themes.\nAdded GitHub Pages deployment through GitHub Actions."
   },
   {
     "objectID": "cv/index.html",
@@ -238,38 +350,52 @@
     "text": "Future contents\nThis section is designed to accommodate:\n\nCurrent and completed research projects\nPreprints and publications\nCollaborations\nResearch talks and seminar presentations\nLinks to related mathematical notes\n\nUntil those records are available, the Notes and Seminars sections will document the academic work developed alongside my graduate study."
   },
   {
-    "objectID": "SITE-STATUS.html",
-    "href": "SITE-STATUS.html",
-    "title": "Site Status",
+    "objectID": "seminars/index.html",
+    "href": "seminars/index.html",
+    "title": "Seminars",
     "section": "",
-    "text": "Home\nAbout\nResearch\nNotes\nTeaching\nSeminars\nCV\n\n\n\n\n\nName: Sungjun Park / 박성준\nAffiliation: Department of Mathematics, Yonsei University\nProgram: Integrated M.S.–Ph.D. Program in Mathematics\nEmail and GitHub links: configured\nGoogle Scholar: not yet available\nORCID: not yet available\nPDF CV: not yet available\nProfile portrait: actual image pending\n\n\n\n\nThe site currently lists research interests only. Formal projects, publications, and collaborations will be added when available.\n\n\n\n\nReplace the temporary profile image with the actual portrait.\nAdd the first substantive mathematical note.\nCreate a reusable note template and subject directories.\nAdd seminar and teaching records.\nPrepare a PDF CV when appropriate."
+    "text": "Upcoming seminar dates and topics will be listed here."
   },
   {
-    "objectID": "SITE-STATUS.html#current-structure",
-    "href": "SITE-STATUS.html#current-structure",
-    "title": "Site Status",
+    "objectID": "seminars/index.html#upcoming-presentations",
+    "href": "seminars/index.html#upcoming-presentations",
+    "title": "Seminars",
     "section": "",
-    "text": "Home\nAbout\nResearch\nNotes\nTeaching\nSeminars\nCV"
+    "text": "Upcoming seminar dates and topics will be listed here."
   },
   {
-    "objectID": "SITE-STATUS.html#profile",
-    "href": "SITE-STATUS.html#profile",
-    "title": "Site Status",
-    "section": "",
-    "text": "Name: Sungjun Park / 박성준\nAffiliation: Department of Mathematics, Yonsei University\nProgram: Integrated M.S.–Ph.D. Program in Mathematics\nEmail and GitHub links: configured\nGoogle Scholar: not yet available\nORCID: not yet available\nPDF CV: not yet available\nProfile portrait: actual image pending"
+    "objectID": "seminars/index.html#past-presentations",
+    "href": "seminars/index.html#past-presentations",
+    "title": "Seminars",
+    "section": "Past presentations",
+    "text": "Past presentations\nEach presentation will have a separate page containing:\n\nTitle and date\nSeminar or course name\nAbstract\nSlides or handout\nRelated mathematical notes"
   },
   {
-    "objectID": "SITE-STATUS.html#research-content",
-    "href": "SITE-STATUS.html#research-content",
-    "title": "Site Status",
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Teaching",
     "section": "",
-    "text": "The site currently lists research interests only. Formal projects, publications, and collaborations will be added when available."
+    "text": "This page will contain teaching-assistant appointments, course information, and selected instructional materials."
   },
   {
-    "objectID": "SITE-STATUS.html#next-priorities",
-    "href": "SITE-STATUS.html#next-priorities",
-    "title": "Site Status",
+    "objectID": "teaching/index.html#teaching-activities",
+    "href": "teaching/index.html#teaching-activities",
+    "title": "Teaching",
     "section": "",
-    "text": "Replace the temporary profile image with the actual portrait.\nAdd the first substantive mathematical note.\nCreate a reusable note template and subject directories.\nAdd seminar and teaching records.\nPrepare a PDF CV when appropriate."
+    "text": "This page will contain teaching-assistant appointments, course information, and selected instructional materials."
+  },
+  {
+    "objectID": "teaching/index.html#courses",
+    "href": "teaching/index.html#courses",
+    "title": "Teaching",
+    "section": "Courses",
+    "text": "Courses\nCourse pages will be organized by course and semester, for example:\nteaching/\n└── calculus-ii-2026-summer/\n    ├── index.qmd\n    └── materials/"
+  },
+  {
+    "objectID": "teaching/index.html#materials",
+    "href": "teaching/index.html#materials",
+    "title": "Teaching",
+    "section": "Materials",
+    "text": "Materials\nPublicly shareable lecture materials, problem sets, and solutions will be linked from the relevant course page."
   }
 ]

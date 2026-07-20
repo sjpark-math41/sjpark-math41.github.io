@@ -1,0 +1,72 @@
+---
+title: "Title of the Note"
+description: "Write a concise one- or two-sentence summary."
+date: 2026-07-20
+date-modified: 2026-07-20
+categories:
+  - Probability Theory
+status: "Working note"
+draft: true
+toc: true
+toc-depth: 3
+number-sections: true
+---
+
+::: {.note-status}
+**Status:** Working note  
+**Last substantive revision:** 2026-07-20
+:::
+
+## Overview
+
+State the purpose of the note and the main question it addresses.
+
+## Prerequisites
+
+List only the background genuinely needed to read the note.
+
+## Main definitions
+
+::: {.definition}
+### Definition
+
+Write the definition here.
+:::
+
+Explain why the definition is needed and give an example when appropriate.
+
+## Main result
+
+::: {.theorem}
+### Theorem
+
+State the theorem precisely.
+:::
+
+### Interpretation
+
+Explain the mathematical meaning before giving the proof.
+
+### Proof strategy
+
+Describe the main idea and the logical structure of the argument.
+
+### Proof
+
+Write the proof here. \(\square\)
+
+## Example
+
+Include a concrete calculation or model example.
+
+## Remarks
+
+::: {.remark}
+### Remark
+
+Record an important qualification, limitation, or connection.
+:::
+
+## References
+
+Add references only when the note actually uses them.

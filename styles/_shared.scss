@@ -284,3 +284,85 @@ main.content {
     margin-right: 0;
   }
 }
+/* Long-form mathematical notes */
+
+.note-status {
+  margin: 0 0 2rem;
+  padding: 0.9rem 1.1rem;
+  border: 1px solid var(--academic-border);
+  border-left: 4px solid var(--academic-primary);
+  border-radius: 0.45rem;
+  background: var(--academic-surface-muted);
+  color: var(--academic-text-muted);
+}
+
+.definition,
+.theorem,
+.proposition,
+.lemma,
+.corollary,
+.remark,
+.example,
+.proof-box {
+  margin: 1.5rem 0;
+  padding: 1.15rem 1.25rem;
+  border: 1px solid var(--academic-border);
+  border-radius: 0.55rem;
+  background: var(--academic-surface);
+}
+
+.definition,
+.theorem,
+.proposition,
+.lemma,
+.corollary {
+  border-left: 4px solid var(--academic-primary);
+}
+
+.remark,
+.example {
+  border-left: 4px solid var(--academic-primary-soft);
+  background: var(--academic-surface-muted);
+}
+
+.proof-box {
+  border-left: 4px solid var(--academic-text-muted);
+}
+
+.definition > h3:first-child,
+.theorem > h3:first-child,
+.proposition > h3:first-child,
+.lemma > h3:first-child,
+.corollary > h3:first-child,
+.remark > h3:first-child,
+.example > h3:first-child,
+.proof-box > h3:first-child {
+  margin-top: 0;
+  margin-bottom: 0.65rem;
+  font-size: 1.08rem;
+}
+
+.definition > :last-child,
+.theorem > :last-child,
+.proposition > :last-child,
+.lemma > :last-child,
+.corollary > :last-child,
+.remark > :last-child,
+.example > :last-child,
+.proof-box > :last-child {
+  margin-bottom: 0;
+}
+
+@media print {
+  .definition,
+  .theorem,
+  .proposition,
+  .lemma,
+  .corollary,
+  .remark,
+  .example,
+  .proof-box {
+    break-inside: avoid;
+    box-shadow: none;
+  }
+}
