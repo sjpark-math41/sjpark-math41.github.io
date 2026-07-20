@@ -1,74 +1,118 @@
 ---
 page-layout: full
 toc: false
+description: "Academic website of Sungjun Park, a graduate student in mathematics at Yonsei University."
 ---
 
 ::: {.home-hero}
 ::: {.hero-copy}
 <p class="eyebrow">MATHEMATICS · PROBABILITY · STOCHASTIC PROCESSES</p>
 
-# Sungjun Park
+# {{< var profile.name_en >}}
 
-Graduate student in mathematics working on probability, stochastic processes, large deviations, and interacting particle systems.
+<p class="hero-name-ko">{{< var profile.name_ko >}}</p>
+<p class="hero-role">{{< var profile.title >}}</p>
+<p class="hero-affiliation">{{< var profile.affiliation >}}</p>
 
-[View Research](research/index.qmd){.btn .btn-primary}
+<p class="hero-intro">{{< var profile.intro_en >}}</p>
+<p class="hero-intro-ko" lang="ko">{{< var profile.intro_ko >}}</p>
+
+[About Me](about.qmd){.btn .btn-primary}
 [Browse Notes](notes/index.qmd){.btn .btn-outline-primary}
-[View CV](cv/index.qmd){.btn .btn-outline-secondary}
+[Contact](mailto:sungjun.park@yonsei.ac.kr){.btn .btn-outline-secondary}
 :::
 
-::: {.hero-panel}
-<p class="hero-panel-label">CURRENT FOCUS</p>
+::: {.hero-profile}
+![Temporary profile placeholder for Sungjun Park](assets/images/profile/profile-placeholder.svg){.profile-photo}
 
-## Research and mathematical writing
-
-This site will collect research projects, seminar materials, teaching resources, and long-form mathematical notes.
-
-$$
-\mathbb{P}(X_t \in A), \qquad
-\lim_{N\to\infty}\frac{1}{N}\log \mathbb{P}(Z_N\in B).
-$$
+<div class="profile-card-copy">
+<p class="profile-card-name">{{< var profile.name_en >}} · {{< var profile.name_ko >}}</p>
+<p>{{< var profile.role >}}</p>
+<p>{{< var profile.department >}}<br>{{< var profile.institution >}}</p>
+</div>
 :::
 :::
 
-## Research areas
+## Research interests
 
-::: {.research-grid}
+::: {.research-grid .research-grid-four}
 ::: {.research-card}
-### Probability
+### Probability Theory
 
-Limit theorems, concentration phenomena, and probabilistic structures arising in mathematical models.
+Probabilistic structures, asymptotic behavior, and mathematical methods for random systems.
 :::
 
 ::: {.research-card}
 ### Stochastic Processes
 
-Continuous-time Markov processes, metastability, and the long-time behavior of interacting systems.
+Continuous-time stochastic models and the evolution of random systems over time.
 :::
 
 ::: {.research-card}
-### Large Deviations
+### Interacting Particle Systems
 
-Variational principles, Gibbs measures, and asymptotic estimates for rare events.
+Large systems of interacting random particles and their collective behavior.
+:::
+
+::: {.research-card}
+### Metastability
+
+Rare transitions, multiple time scales, and effective dynamics in stochastic systems.
 :::
 :::
 
-## Current projects
+## Academic profile
 
-::: {.project-list}
-::: {.project-item}
-**Nonreversible inclusion processes**
+::: {.profile-facts}
+::: {.profile-fact}
+<span class="fact-label">Current program</span>
 
-Metastability and effective dynamics for nonreversible interacting particle systems.
-
-[Project page →](research/index.qmd)
+**{{< var education.graduate_program >}}**  
+{{< var education.graduate_institution >}}
 :::
 
-::: {.project-item}
-**Long-form mathematical notes**
+::: {.profile-fact}
+<span class="fact-label">Education</span>
 
-Structured notes developed from graduate coursework, seminars, and research reading.
+**{{< var education.bachelor_degree >}}**  
+{{< var education.bachelor_additional >}}, {{< var education.bachelor_institution >}}
+:::
 
-[Browse notes →](notes/index.qmd)
+::: {.profile-fact}
+<span class="fact-label">Contact</span>
+
+{{< var profile.email_link >}}  
+{{< var profile.github_link >}}
+:::
+:::
+
+## About this site
+
+This website will grow with my graduate study. It is intended as a long-term home for mathematical notes, seminar materials, teaching resources, and future research work.
+
+::: {.site-paths}
+::: {.site-path}
+### Notes
+
+Long-form mathematical notes organized by subject and revision date.
+
+[Browse Notes →](notes/index.qmd)
+:::
+
+::: {.site-path}
+### Seminars
+
+Presentation records, slides, handouts, and related notes.
+
+[View Seminars →](seminars/index.qmd)
+:::
+
+::: {.site-path}
+### Teaching
+
+Teaching-assistant activities and publicly shareable course materials.
+
+[View Teaching →](teaching/index.qmd)
 :::
 :::
 

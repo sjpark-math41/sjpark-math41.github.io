@@ -28,39 +28,158 @@
     "text": "Materials\nPublicly shareable lecture materials, problem sets, and solutions will be linked from the relevant course page."
   },
   {
-    "objectID": "research/index.html",
-    "href": "research/index.html",
-    "title": "Research",
+    "objectID": "seminars/index.html",
+    "href": "seminars/index.html",
+    "title": "Seminars",
     "section": "",
-    "text": "Study of metastability, effective dynamics, and hierarchical time scales in nonreversible interacting particle systems.\nStatus: In progress\nTopics: Metastability, trace processes, inclusion processes"
+    "text": "Upcoming seminar dates and topics will be listed here."
   },
   {
-    "objectID": "research/index.html#current-research",
-    "href": "research/index.html#current-research",
-    "title": "Research",
+    "objectID": "seminars/index.html#upcoming-presentations",
+    "href": "seminars/index.html#upcoming-presentations",
+    "title": "Seminars",
     "section": "",
-    "text": "Study of metastability, effective dynamics, and hierarchical time scales in nonreversible interacting particle systems.\nStatus: In progress\nTopics: Metastability, trace processes, inclusion processes"
+    "text": "Upcoming seminar dates and topics will be listed here."
   },
   {
-    "objectID": "research/index.html#research-interests",
-    "href": "research/index.html#research-interests",
-    "title": "Research",
+    "objectID": "seminars/index.html#past-presentations",
+    "href": "seminars/index.html#past-presentations",
+    "title": "Seminars",
+    "section": "Past presentations",
+    "text": "Past presentations\nEach presentation will have a separate page containing:\n\nTitle and date\nSeminar or course name\nAbstract\nSlides or handout\nRelated mathematical notes"
+  },
+  {
+    "objectID": "notes/index.html",
+    "href": "notes/index.html",
+    "title": "Notes",
+    "section": "",
+    "text": "The Notes section is designed for long-form mathematical writing. New notes added under this directory will appear automatically in the listing below.\nInitial subject areas will include:\n\nProbability\nStochastic Processes\nLarge Deviations\nInteracting Particle Systems\nReal Analysis\nAlgebra\nResearch Notes\n\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nHow This Notes Section Is Organized\n\n\n\nSite Guide\n\n\n\nA short guide to the structure and metadata used for mathematical notes.\n\n\n\n\n\n2026-07-20\n\n1 min\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sungjun Park",
+    "section": "",
+    "text": "MATHEMATICS · PROBABILITY · STOCHASTIC PROCESSES\n\n\n\n\n박성준\n\n\nIntegrated M.S.–Ph.D. Student in Mathematics\n\n\nDepartment of Mathematics, Yonsei University\n\n\nI am a graduate student in mathematics at Yonsei University, with a primary interest in probability theory.\n\n\n대한민국 연세대학교에서 수학, 특히 확률론을 공부하고 있는 대학원생입니다.\n\nAbout Me Browse Notes Contact\n\n\n\n\n\n\nTemporary profile placeholder for Sungjun Park\n\n\n\n\nSungjun Park · 박성준\n\n\nGraduate Student in Mathematics\n\n\nDepartment of MathematicsYonsei University"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Sungjun Park",
     "section": "Research interests",
-    "text": "Research interests\n\nMetastability for Markov processes\nInteracting particle systems\nLarge-deviation methods\nNonreversible stochastic dynamics\nVariational and potential-theoretic techniques"
+    "text": "Research interests\n\n\nProbability Theory\nProbabilistic structures, asymptotic behavior, and mathematical methods for random systems.\n\n\nStochastic Processes\nContinuous-time stochastic models and the evolution of random systems over time.\n\n\nInteracting Particle Systems\nLarge systems of interacting random particles and their collective behavior.\n\n\nMetastability\nRare transitions, multiple time scales, and effective dynamics in stochastic systems."
   },
   {
-    "objectID": "research/index.html#publications-and-preprints",
-    "href": "research/index.html#publications-and-preprints",
-    "title": "Research",
-    "section": "Publications and preprints",
-    "text": "Publications and preprints\nPublication metadata will be managed centrally in a later stage so that the same information can be reused on this page and on the CV page."
+    "objectID": "index.html#academic-profile",
+    "href": "index.html#academic-profile",
+    "title": "Sungjun Park",
+    "section": "Academic profile",
+    "text": "Academic profile\n\n\nCurrent program\nIntegrated M.S.–Ph.D. Program in Mathematics\nYonsei University\n\n\nEducation\nB.S. in Mathematics\nInterdisciplinary Major in Cognitive Science, Yonsei University\n\n\nContact\nsungjun.park@yonsei.ac.kr\nsjpark-math41"
   },
   {
-    "objectID": "research/index.html#talks-and-related-material",
-    "href": "research/index.html#talks-and-related-material",
-    "title": "Research",
-    "section": "Talks and related material",
-    "text": "Talks and related material\nSeminar slides and related notes will be linked here once the Seminars section is populated."
+    "objectID": "index.html#about-this-site",
+    "href": "index.html#about-this-site",
+    "title": "Sungjun Park",
+    "section": "About this site",
+    "text": "About this site\nThis website will grow with my graduate study. It is intended as a long-term home for mathematical notes, seminar materials, teaching resources, and future research work.\n\n\nNotes\nLong-form mathematical notes organized by subject and revision date.\nBrowse Notes →\n\n\nSeminars\nPresentation records, slides, handouts, and related notes.\nView Seminars →\n\n\nTeaching\nTeaching-assistant activities and publicly shareable course materials.\nView Teaching →"
+  },
+  {
+    "objectID": "index.html#recent-note",
+    "href": "index.html#recent-note",
+    "title": "Sungjun Park",
+    "section": "Recent note",
+    "text": "Recent note\n\nHow This Notes Section Is Organized\nA short guide to the metadata and folder conventions used for mathematical notes.\nRead the note →"
+  },
+  {
+    "objectID": "CHANGELOG.html",
+    "href": "CHANGELOG.html",
+    "title": "Changelog",
+    "section": "",
+    "text": "Added the public academic profile of Sungjun Park.\nAdded Korean and English name display.\nAdded Yonsei University affiliation and public email.\nAdded research interests and education history.\nReplaced the empty project section with a transparent research-in-development statement.\nAdded centralized reusable values in _variables.yml.\nRefactored duplicated light/dark layout rules into styles/_shared.scss.\nAdded a temporary profile placeholder pending the actual portrait file.\n\n\n\n\n\nRebuilt the website as a Quarto project.\nAdded Home, About, Research, Notes, Teaching, Seminars, and CV.\nAdded light and dark themes.\nAdded GitHub Pages deployment through GitHub Actions."
+  },
+  {
+    "objectID": "CHANGELOG.html#profile-integration",
+    "href": "CHANGELOG.html#profile-integration",
+    "title": "Changelog",
+    "section": "",
+    "text": "Added the public academic profile of Sungjun Park.\nAdded Korean and English name display.\nAdded Yonsei University affiliation and public email.\nAdded research interests and education history.\nReplaced the empty project section with a transparent research-in-development statement.\nAdded centralized reusable values in _variables.yml.\nRefactored duplicated light/dark layout rules into styles/_shared.scss.\nAdded a temporary profile placeholder pending the actual portrait file."
+  },
+  {
+    "objectID": "CHANGELOG.html#initial-rebuild",
+    "href": "CHANGELOG.html#initial-rebuild",
+    "title": "Changelog",
+    "section": "",
+    "text": "Rebuilt the website as a Quarto project.\nAdded Home, About, Research, Notes, Teaching, Seminars, and CV.\nAdded light and dark themes.\nAdded GitHub Pages deployment through GitHub Actions."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Sungjun Park (박성준) is an Integrated M.S.–Ph.D. Student in Mathematics in the Department of Mathematics at Yonsei University.\nI am a graduate student in mathematics at Yonsei University, with a primary interest in probability theory.\n대한민국 연세대학교에서 수학, 특히 확률론을 공부하고 있는 대학원생입니다."
+  },
+  {
+    "objectID": "about.html#profile",
+    "href": "about.html#profile",
+    "title": "About",
+    "section": "",
+    "text": "Sungjun Park (박성준) is an Integrated M.S.–Ph.D. Student in Mathematics in the Department of Mathematics at Yonsei University.\nI am a graduate student in mathematics at Yonsei University, with a primary interest in probability theory.\n대한민국 연세대학교에서 수학, 특히 확률론을 공부하고 있는 대학원생입니다."
+  },
+  {
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "About",
+    "section": "Research interests",
+    "text": "Research interests\n\nProbability Theory\nStochastic Processes\nInteracting Particle Systems\nMetastability\n\nThese interests describe my present academic direction. More specific research themes and projects will be added as my graduate work develops."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\n\nGraduate study\nIntegrated M.S.–Ph.D. Program in Mathematics\nYonsei University · Present\n\n\nUndergraduate study\nB.S. in Mathematics\nInterdisciplinary Major in Cognitive Science\nYonsei University · 2019–2025"
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\n\nEmail: sungjun.park@yonsei.ac.kr\nGitHub: sjpark-math41\n\nGoogle Scholar and ORCID links will be added when available."
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "A downloadable PDF CV will be added when a formal version is prepared."
+  },
+  {
+    "objectID": "cv/index.html#contact",
+    "href": "cv/index.html#contact",
+    "title": "Curriculum Vitae",
+    "section": "Contact",
+    "text": "Contact\nSungjun Park (박성준)\nDepartment of Mathematics, Yonsei University\nsungjun.park@yonsei.ac.kr\nsjpark-math41"
+  },
+  {
+    "objectID": "cv/index.html#education",
+    "href": "cv/index.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\n\nYonsei University\nIntegrated M.S.–Ph.D. Program in Mathematics\nPresent\n\n\nYonsei University\nB.S. in Mathematics\nInterdisciplinary Major in Cognitive Science\n2019–2025"
+  },
+  {
+    "objectID": "cv/index.html#research-interests",
+    "href": "cv/index.html#research-interests",
+    "title": "Curriculum Vitae",
+    "section": "Research interests",
+    "text": "Research interests\n\nProbability Theory\nStochastic Processes\nInteracting Particle Systems\nMetastability"
+  },
+  {
+    "objectID": "cv/index.html#research-presentations-and-teaching",
+    "href": "cv/index.html#research-presentations-and-teaching",
+    "title": "Curriculum Vitae",
+    "section": "Research, presentations, and teaching",
+    "text": "Research, presentations, and teaching\nThese sections will be added as the corresponding academic record develops."
   },
   {
     "objectID": "notes/getting-started/index.html",
@@ -91,136 +210,66 @@
     "text": "3 Mathematics\nMathJax renders inline mathematics such as (X_t) and displayed mathematics such as\n\\[\nI(x)=\\sup_{\\theta\\in\\mathbb{R}}\n\\left\\{\\theta x-\\Lambda(\\theta)\\right\\}.\n\\]\nThis guide can be deleted after real notes have been added."
   },
   {
-    "objectID": "cv/index.html",
-    "href": "cv/index.html",
-    "title": "Curriculum Vitae",
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
     "section": "",
-    "text": "Download PDF CV\nThe PDF button is currently disabled and will be activated after a CV file is added."
+    "text": "My current interests are centered on probability theory and stochastic processes, with particular attention to interacting particle systems and metastability.\n\n\nI am currently at an early stage of graduate study. This page records my main research directions rather than presenting a formal list of projects. Research projects, preprints, collaborations, and talks will be added as they develop."
   },
   {
-    "objectID": "cv/index.html#education",
-    "href": "cv/index.html#education",
-    "title": "Curriculum Vitae",
-    "section": "Education",
-    "text": "Education\nTo be added."
-  },
-  {
-    "objectID": "cv/index.html#research",
-    "href": "cv/index.html#research",
-    "title": "Curriculum Vitae",
-    "section": "Research",
-    "text": "Research\nTo be added."
-  },
-  {
-    "objectID": "cv/index.html#presentations",
-    "href": "cv/index.html#presentations",
-    "title": "Curriculum Vitae",
-    "section": "Presentations",
-    "text": "Presentations\nTo be added."
-  },
-  {
-    "objectID": "cv/index.html#teaching",
-    "href": "cv/index.html#teaching",
-    "title": "Curriculum Vitae",
-    "section": "Teaching",
-    "text": "Teaching\nTo be added."
-  },
-  {
-    "objectID": "cv/index.html#awards-and-activities",
-    "href": "cv/index.html#awards-and-activities",
-    "title": "Curriculum Vitae",
-    "section": "Awards and activities",
-    "text": "Awards and activities\nTo be added."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "research/index.html#current-direction",
+    "href": "research/index.html#current-direction",
+    "title": "Research",
     "section": "",
-    "text": "I am a graduate student in mathematics. My main interests lie in probability, stochastic processes, large deviations, and interacting particle systems."
+    "text": "My current interests are centered on probability theory and stochastic processes, with particular attention to interacting particle systems and metastability.\n\n\nI am currently at an early stage of graduate study. This page records my main research directions rather than presenting a formal list of projects. Research projects, preprints, collaborations, and talks will be added as they develop."
   },
   {
-    "objectID": "about.html#research-interests",
-    "href": "about.html#research-interests",
-    "title": "About",
-    "section": "Research interests",
-    "text": "Research interests\n\nProbability theory\nContinuous-time Markov processes\nLarge deviations\nInteracting particle systems\nMetastability"
+    "objectID": "research/index.html#areas-of-interest",
+    "href": "research/index.html#areas-of-interest",
+    "title": "Research",
+    "section": "Areas of interest",
+    "text": "Areas of interest\n\n\nProbability Theory\nProbabilistic structures, asymptotic methods, and the behavior of random systems.\n\n\nStochastic Processes\nContinuous-time stochastic dynamics and long-time behavior.\n\n\nInteracting Particle Systems\nCollective behavior arising from local interactions among random particles.\n\n\nMetastability\nRare transitions, effective dynamics, and hierarchical time scales."
   },
   {
-    "objectID": "about.html#academic-background",
-    "href": "about.html#academic-background",
-    "title": "About",
-    "section": "Academic background",
-    "text": "Academic background\nThis section will contain concise information about education, affiliation, and academic training."
+    "objectID": "research/index.html#future-contents",
+    "href": "research/index.html#future-contents",
+    "title": "Research",
+    "section": "Future contents",
+    "text": "Future contents\nThis section is designed to accommodate:\n\nCurrent and completed research projects\nPreprints and publications\nCollaborations\nResearch talks and seminar presentations\nLinks to related mathematical notes\n\nUntil those records are available, the Notes and Seminars sections will document the academic work developed alongside my graduate study."
   },
   {
-    "objectID": "about.html#contact",
-    "href": "about.html#contact",
-    "title": "About",
-    "section": "Contact",
-    "text": "Contact\n\nEmail: to be added\nGitHub: sjpark-math41\nGoogle Scholar: to be added\nORCID: to be added"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Sungjun Park",
+    "objectID": "SITE-STATUS.html",
+    "href": "SITE-STATUS.html",
+    "title": "Site Status",
     "section": "",
-    "text": "MATHEMATICS · PROBABILITY · STOCHASTIC PROCESSES\n\n\n\nGraduate student in mathematics working on probability, stochastic processes, large deviations, and interacting particle systems.\nView Research Browse Notes View CV\n\n\n\n\nCURRENT FOCUS\n\n\n\nThis site will collect research projects, seminar materials, teaching resources, and long-form mathematical notes.\n\\[\n\\mathbb{P}(X_t \\in A), \\qquad\n\\lim_{N\\to\\infty}\\frac{1}{N}\\log \\mathbb{P}(Z_N\\in B).\n\\]"
+    "text": "Home\nAbout\nResearch\nNotes\nTeaching\nSeminars\nCV\n\n\n\n\n\nName: Sungjun Park / 박성준\nAffiliation: Department of Mathematics, Yonsei University\nProgram: Integrated M.S.–Ph.D. Program in Mathematics\nEmail and GitHub links: configured\nGoogle Scholar: not yet available\nORCID: not yet available\nPDF CV: not yet available\nProfile portrait: actual image pending\n\n\n\n\nThe site currently lists research interests only. Formal projects, publications, and collaborations will be added when available.\n\n\n\n\nReplace the temporary profile image with the actual portrait.\nAdd the first substantive mathematical note.\nCreate a reusable note template and subject directories.\nAdd seminar and teaching records.\nPrepare a PDF CV when appropriate."
   },
   {
-    "objectID": "index.html#research-and-mathematical-writing",
-    "href": "index.html#research-and-mathematical-writing",
-    "title": "Sungjun Park",
+    "objectID": "SITE-STATUS.html#current-structure",
+    "href": "SITE-STATUS.html#current-structure",
+    "title": "Site Status",
     "section": "",
-    "text": "This site will collect research projects, seminar materials, teaching resources, and long-form mathematical notes.\n\\[\n\\mathbb{P}(X_t \\in A), \\qquad\n\\lim_{N\\to\\infty}\\frac{1}{N}\\log \\mathbb{P}(Z_N\\in B).\n\\]"
+    "text": "Home\nAbout\nResearch\nNotes\nTeaching\nSeminars\nCV"
   },
   {
-    "objectID": "index.html#research-areas",
-    "href": "index.html#research-areas",
-    "title": "Sungjun Park",
-    "section": "Research areas",
-    "text": "Research areas\n\n\nProbability\nLimit theorems, concentration phenomena, and probabilistic structures arising in mathematical models.\n\n\nStochastic Processes\nContinuous-time Markov processes, metastability, and the long-time behavior of interacting systems.\n\n\nLarge Deviations\nVariational principles, Gibbs measures, and asymptotic estimates for rare events."
-  },
-  {
-    "objectID": "index.html#current-projects",
-    "href": "index.html#current-projects",
-    "title": "Sungjun Park",
-    "section": "Current projects",
-    "text": "Current projects\n\n\nNonreversible inclusion processes\nMetastability and effective dynamics for nonreversible interacting particle systems.\nProject page →\n\n\nLong-form mathematical notes\nStructured notes developed from graduate coursework, seminars, and research reading.\nBrowse notes →"
-  },
-  {
-    "objectID": "index.html#recent-note",
-    "href": "index.html#recent-note",
-    "title": "Sungjun Park",
-    "section": "Recent note",
-    "text": "Recent note\n\nHow This Notes Section Is Organized\nA short guide to the metadata and folder conventions used for mathematical notes.\nRead the note →"
-  },
-  {
-    "objectID": "notes/index.html",
-    "href": "notes/index.html",
-    "title": "Notes",
+    "objectID": "SITE-STATUS.html#profile",
+    "href": "SITE-STATUS.html#profile",
+    "title": "Site Status",
     "section": "",
-    "text": "The Notes section is designed for long-form mathematical writing. New notes added under this directory will appear automatically in the listing below.\nInitial subject areas will include:\n\nProbability\nStochastic Processes\nLarge Deviations\nInteracting Particle Systems\nReal Analysis\nAlgebra\nResearch Notes\n\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nHow This Notes Section Is Organized\n\n\n\nSite Guide\n\n\n\nA short guide to the structure and metadata used for mathematical notes.\n\n\n\n\n\n2026-07-20\n\n1 min\n\n\n\n\nNo matching items"
+    "text": "Name: Sungjun Park / 박성준\nAffiliation: Department of Mathematics, Yonsei University\nProgram: Integrated M.S.–Ph.D. Program in Mathematics\nEmail and GitHub links: configured\nGoogle Scholar: not yet available\nORCID: not yet available\nPDF CV: not yet available\nProfile portrait: actual image pending"
   },
   {
-    "objectID": "seminars/index.html",
-    "href": "seminars/index.html",
-    "title": "Seminars",
+    "objectID": "SITE-STATUS.html#research-content",
+    "href": "SITE-STATUS.html#research-content",
+    "title": "Site Status",
     "section": "",
-    "text": "Upcoming seminar dates and topics will be listed here."
+    "text": "The site currently lists research interests only. Formal projects, publications, and collaborations will be added when available."
   },
   {
-    "objectID": "seminars/index.html#upcoming-presentations",
-    "href": "seminars/index.html#upcoming-presentations",
-    "title": "Seminars",
+    "objectID": "SITE-STATUS.html#next-priorities",
+    "href": "SITE-STATUS.html#next-priorities",
+    "title": "Site Status",
     "section": "",
-    "text": "Upcoming seminar dates and topics will be listed here."
-  },
-  {
-    "objectID": "seminars/index.html#past-presentations",
-    "href": "seminars/index.html#past-presentations",
-    "title": "Seminars",
-    "section": "Past presentations",
-    "text": "Past presentations\nEach presentation will have a separate page containing:\n\nTitle and date\nSeminar or course name\nAbstract\nSlides or handout\nRelated mathematical notes"
+    "text": "Replace the temporary profile image with the actual portrait.\nAdd the first substantive mathematical note.\nCreate a reusable note template and subject directories.\nAdd seminar and teaching records.\nPrepare a PDF CV when appropriate."
   }
 ]

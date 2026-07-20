@@ -5,7 +5,7 @@ project:
 website:
   title: "Sungjun Park"
   site-url: "https://sjpark-math41.github.io"
-  description: "Academic website of Sungjun Park, a graduate student in mathematics."
+  description: "Academic website of Sungjun Park, a graduate student in mathematics at Yonsei University."
   search: true
   navbar:
     pinned: true
@@ -25,12 +25,15 @@ website:
       - href: cv/index.qmd
         text: CV
     right:
+      - icon: envelope
+        href: mailto:sungjun.park@yonsei.ac.kr
+        aria-label: Email
       - icon: github
         href: https://github.com/sjpark-math41
         aria-label: GitHub
   page-footer:
-    left: "© 2026 Sungjun Park"
-    right: "Built with Quarto"
+    left: "© 2026 Sungjun Park · 박성준"
+    right: "Department of Mathematics, Yonsei University"
 
 format:
   html:

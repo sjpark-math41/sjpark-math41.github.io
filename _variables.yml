@@ -1,0 +1,29 @@
+profile:
+  name_en: "Sungjun Park"
+  name_ko: "박성준"
+  role: "Graduate Student in Mathematics"
+  title: "Integrated M.S.–Ph.D. Student in Mathematics"
+  department: "Department of Mathematics"
+  institution: "Yonsei University"
+  affiliation: "Department of Mathematics, Yonsei University"
+  email: "sungjun.park@yonsei.ac.kr"
+  email_link: "[sungjun.park@yonsei.ac.kr](mailto:sungjun.park@yonsei.ac.kr)"
+  github_label: "sjpark-math41"
+  github_link: "[sjpark-math41](https://github.com/sjpark-math41)"
+  intro_en: "I am a graduate student in mathematics at Yonsei University, with a primary interest in probability theory."
+  intro_ko: "대한민국 연세대학교에서 수학, 특히 확률론을 공부하고 있는 대학원생입니다."
+
+education:
+  graduate_program: "Integrated M.S.–Ph.D. Program in Mathematics"
+  graduate_institution: "Yonsei University"
+  graduate_period: "Present"
+  bachelor_degree: "B.S. in Mathematics"
+  bachelor_additional: "Interdisciplinary Major in Cognitive Science"
+  bachelor_institution: "Yonsei University"
+  bachelor_period: "2019–2025"
+
+research:
+  interest_1: "Probability Theory"
+  interest_2: "Stochastic Processes"
+  interest_3: "Interacting Particle Systems"
+  interest_4: "Metastability"

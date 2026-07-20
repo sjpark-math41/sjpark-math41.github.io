@@ -1,26 +1,42 @@
 ---
 title: "About"
-description: "Academic background and research interests."
-toc: false
+description: "Academic background, research interests, and contact information for Sungjun Park."
+toc: true
 ---
 
-I am a graduate student in mathematics. My main interests lie in probability, stochastic processes, large deviations, and interacting particle systems.
+## Profile
+
+**{{< var profile.name_en >}} ({{< var profile.name_ko >}})** is an {{< var profile.title >}} in the {{< var profile.department >}} at {{< var profile.institution >}}.
+
+{{< var profile.intro_en >}}
+
+<span lang="ko">{{< var profile.intro_ko >}}</span>
 
 ## Research interests
 
-- Probability theory
-- Continuous-time Markov processes
-- Large deviations
-- Interacting particle systems
-- Metastability
+- {{< var research.interest_1 >}}
+- {{< var research.interest_2 >}}
+- {{< var research.interest_3 >}}
+- {{< var research.interest_4 >}}
 
-## Academic background
+These interests describe my present academic direction. More specific research themes and projects will be added as my graduate work develops.
 
-This section will contain concise information about education, affiliation, and academic training.
+## Education
+
+### Graduate study
+
+**{{< var education.graduate_program >}}**  
+{{< var education.graduate_institution >}} · {{< var education.graduate_period >}}
+
+### Undergraduate study
+
+**{{< var education.bachelor_degree >}}**  
+{{< var education.bachelor_additional >}}  
+{{< var education.bachelor_institution >}} · {{< var education.bachelor_period >}}
 
 ## Contact
 
-- Email: to be added
-- GitHub: [sjpark-math41](https://github.com/sjpark-math41)
-- Google Scholar: to be added
-- ORCID: to be added
+- Email: {{< var profile.email_link >}}
+- GitHub: {{< var profile.github_link >}}
+
+Google Scholar and ORCID links will be added when available.

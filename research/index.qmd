@@ -1,32 +1,55 @@
 ---
 title: "Research"
-description: "Research interests, current projects, publications, and presentations."
+description: "Research interests and developing academic work."
 toc: true
 ---
 
-## Current research
+## Current direction
 
-::: {.research-card .research-card-wide}
-### Nonreversible inclusion processes
+My current interests are centered on probability theory and stochastic processes, with particular attention to interacting particle systems and metastability.
 
-Study of metastability, effective dynamics, and hierarchical time scales in nonreversible interacting particle systems.
+::: {.research-status}
+### Research record in development
 
-**Status:** In progress  
-**Topics:** Metastability, trace processes, inclusion processes
+I am currently at an early stage of graduate study. This page records my main research directions rather than presenting a formal list of projects. Research projects, preprints, collaborations, and talks will be added as they develop.
 :::
 
-## Research interests
+## Areas of interest
 
-- Metastability for Markov processes
-- Interacting particle systems
-- Large-deviation methods
-- Nonreversible stochastic dynamics
-- Variational and potential-theoretic techniques
+::: {.research-grid .research-grid-four}
+::: {.research-card}
+### {{< var research.interest_1 >}}
 
-## Publications and preprints
+Probabilistic structures, asymptotic methods, and the behavior of random systems.
+:::
 
-Publication metadata will be managed centrally in a later stage so that the same information can be reused on this page and on the CV page.
+::: {.research-card}
+### {{< var research.interest_2 >}}
 
-## Talks and related material
+Continuous-time stochastic dynamics and long-time behavior.
+:::
 
-Seminar slides and related notes will be linked here once the Seminars section is populated.
+::: {.research-card}
+### {{< var research.interest_3 >}}
+
+Collective behavior arising from local interactions among random particles.
+:::
+
+::: {.research-card}
+### {{< var research.interest_4 >}}
+
+Rare transitions, effective dynamics, and hierarchical time scales.
+:::
+:::
+
+## Future contents
+
+This section is designed to accommodate:
+
+- Current and completed research projects
+- Preprints and publications
+- Collaborations
+- Research talks and seminar presentations
+- Links to related mathematical notes
+
+Until those records are available, the Notes and Seminars sections will document the academic work developed alongside my graduate study.

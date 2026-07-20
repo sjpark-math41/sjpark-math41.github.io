@@ -25,5 +25,11 @@
   },
   "teaching/index.qmd": {
     "index.html": "8300a877"
+  },
+  "CHANGELOG.md": {
+    "CHANGELOG.html": "bf067fce"
+  },
+  "SITE-STATUS.md": {
+    "SITE-STATUS.html": "59b8fc38"
   }
 }

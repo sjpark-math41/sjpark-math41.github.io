@@ -1,29 +1,38 @@
 ---
 title: "Curriculum Vitae"
-description: "Academic curriculum vitae."
+description: "Web curriculum vitae of Sungjun Park."
 toc: true
 ---
 
-[Download PDF CV](../assets/files/cv.pdf){.btn .btn-primary .disabled aria-disabled="true"}
+A downloadable PDF CV will be added when a formal version is prepared.
 
-The PDF button is currently disabled and will be activated after a CV file is added.
+## Contact
+
+**{{< var profile.name_en >}} ({{< var profile.name_ko >}})**  
+{{< var profile.affiliation >}}  
+{{< var profile.email_link >}}  
+{{< var profile.github_link >}}
 
 ## Education
 
-To be added.
+### {{< var education.graduate_institution >}}
 
-## Research
+**{{< var education.graduate_program >}}**  
+{{< var education.graduate_period >}}
 
-To be added.
+### {{< var education.bachelor_institution >}}
 
-## Presentations
+**{{< var education.bachelor_degree >}}**  
+{{< var education.bachelor_additional >}}  
+{{< var education.bachelor_period >}}
 
-To be added.
+## Research interests
 
-## Teaching
+- {{< var research.interest_1 >}}
+- {{< var research.interest_2 >}}
+- {{< var research.interest_3 >}}
+- {{< var research.interest_4 >}}
 
-To be added.
+## Research, presentations, and teaching
 
-## Awards and activities
-
-To be added.
+These sections will be added as the corresponding academic record develops.
