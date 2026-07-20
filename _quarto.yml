@@ -1,14 +1,35 @@
 project:
   type: website
   output-dir: _site
+  render:
+    - "*.qmd"
+    - "!templates/"
+  resources:
+    - robots.txt
+
+lang: en
 
 website:
   title: "Sungjun Park"
   site-url: "https://sjpark-math41.github.io"
   description: "Academic website of Sungjun Park, a graduate student in mathematics at Yonsei University."
-  search: true
+  favicon: assets/images/favicon.svg
+  image: assets/images/social/og-default.png
+  image-alt: "Sungjun Park — Mathematics, Probability, and Stochastic Processes"
+  open-graph:
+    locale: en_US
+    site-name: "Sungjun Park"
+  twitter-card: true
+  back-to-top-navigation: true
+  bread-crumbs: true
+  search:
+    location: navbar
+    type: overlay
+    limit: 15
+    copy-button: true
   navbar:
     pinned: true
+    collapse-below: lg
     left:
       - href: index.qmd
         text: Home
@@ -45,6 +66,7 @@ format:
     smooth-scroll: true
     code-copy: true
     code-overflow: wrap
+    link-external-icon: true
     link-external-newwindow: true
     html-math-method: mathjax
     date-format: "YYYY-MM-DD"

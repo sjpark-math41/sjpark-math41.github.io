@@ -1,5 +1,18 @@
 # Changelog
 
+## 2026-07-20 — Site-wide settings and portability
+
+- Added Open Graph and social-card metadata.
+- Added a default social preview image and favicon.
+- Added `robots.txt` with the public sitemap location.
+- Added back-to-top navigation and nested-page breadcrumbs.
+- Refined site search configuration.
+- Added external-link indicators.
+- Restricted Quarto rendering to public `.qmd` content and excluded `templates/`.
+- Prevented repository management Markdown files from becoming hidden website pages.
+- Added `.editorconfig` and `.gitattributes` for consistent Windows/macOS editing.
+- Added a practical repository `README.md`.
+
 ## 2026-07-20 — Teaching and seminars system
 
 - Added automatic listings for Teaching and Seminars.

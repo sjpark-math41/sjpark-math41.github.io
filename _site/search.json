@@ -1,290 +1,38 @@
 [
   {
-    "objectID": "teaching/calculus-and-vector-analysis-2-2026-summer/index.html",
-    "href": "teaching/calculus-and-vector-analysis-2-2026-summer/index.html",
-    "title": "Calculus and Vector Analysis (2)",
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Teaching",
     "section": "",
-    "text": "Role\nTeaching Assistant\n\n\nInstitution\nYonsei University\n\n\nTerm\nSummer 2026"
+    "text": "This section records teaching-assistant appointments and course-related materials that are appropriate for public distribution."
   },
   {
-    "objectID": "teaching/calculus-and-vector-analysis-2-2026-summer/index.html#overview",
-    "href": "teaching/calculus-and-vector-analysis-2-2026-summer/index.html#overview",
-    "title": "Calculus and Vector Analysis (2)",
-    "section": "Overview",
-    "text": "Overview\nTeaching-assistant activity for Calculus and Vector Analysis (2) during the 2026 summer term at Yonsei University.\nThe work includes supporting problem-solving sessions and preparing instructional materials for the course."
-  },
-  {
-    "objectID": "teaching/calculus-and-vector-analysis-2-2026-summer/index.html#public-materials",
-    "href": "teaching/calculus-and-vector-analysis-2-2026-summer/index.html#public-materials",
-    "title": "Calculus and Vector Analysis (2)",
-    "section": "Public materials",
-    "text": "Public materials\nNo course materials are currently published on this page.\nMaterials will be added only after confirming that they are appropriate for public distribution and do not reproduce restricted textbook content or disclose student information."
-  },
-  {
-    "objectID": "teaching/calculus-and-vector-analysis-2-2026-summer/index.html#topics",
-    "href": "teaching/calculus-and-vector-analysis-2-2026-summer/index.html#topics",
-    "title": "Calculus and Vector Analysis (2)",
-    "section": "Topics",
-    "text": "Topics\nThe course includes topics from multivariable and vector calculus, such as parametric surfaces, surface integrals, and the classical integral theorems of vector analysis."
+    "objectID": "teaching/index.html#publication-policy",
+    "href": "teaching/index.html#publication-policy",
+    "title": "Teaching",
+    "section": "Publication policy",
+    "text": "Publication policy\nOnly materials that may be shared publicly will be posted here. Course handouts, textbook exercises, student information, grading records, and internal announcements are excluded unless public distribution is clearly permitted."
   },
   {
     "objectID": "seminars/index.html",
     "href": "seminars/index.html",
     "title": "Seminars",
     "section": "",
-    "text": "This section records presentations prepared for seminars, reading groups, and graduate courses.\nEntries may include:\n\nPresentation title and date\nSeminar or course context\nA concise abstract\nSlides or handouts\nRelated mathematical notes\n\nPresentations still under preparation remain drafts and are visible locally during quarto preview, but they are excluded from the published website.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\nNo matching items"
+    "text": "This section records presentations prepared for seminars, reading groups, and graduate courses.\nEntries may include:\n\nPresentation title and date\nSeminar or course context\nA concise abstract\nSlides or handouts\nRelated mathematical notes\n\nPresentations still under preparation remain drafts and are visible locally during quarto preview, but they are excluded from the published website.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\nNo matching items\n Back to top"
   },
   {
-    "objectID": "research/index.html",
-    "href": "research/index.html",
-    "title": "Research",
+    "objectID": "notes/index.html",
+    "href": "notes/index.html",
+    "title": "Notes",
     "section": "",
-    "text": "My current interests are centered on probability theory and stochastic processes, with particular attention to interacting particle systems and metastability.\n\n\nI am currently at an early stage of graduate study. This page records my main research directions rather than presenting a formal list of projects. Research projects, preprints, collaborations, and talks will be added as they develop."
+    "text": "The Notes section contains long-form mathematical notes developed from graduate study, seminars, and research reading."
   },
   {
-    "objectID": "research/index.html#current-direction",
-    "href": "research/index.html#current-direction",
-    "title": "Research",
-    "section": "",
-    "text": "My current interests are centered on probability theory and stochastic processes, with particular attention to interacting particle systems and metastability.\n\n\nI am currently at an early stage of graduate study. This page records my main research directions rather than presenting a formal list of projects. Research projects, preprints, collaborations, and talks will be added as they develop."
-  },
-  {
-    "objectID": "research/index.html#areas-of-interest",
-    "href": "research/index.html#areas-of-interest",
-    "title": "Research",
-    "section": "Areas of interest",
-    "text": "Areas of interest\n\n\nProbability Theory\nProbabilistic structures, asymptotic methods, and the behavior of random systems.\n\n\nStochastic Processes\nContinuous-time stochastic dynamics and long-time behavior.\n\n\nInteracting Particle Systems\nCollective behavior arising from local interactions among random particles.\n\n\nMetastability\nRare transitions, effective dynamics, and hierarchical time scales."
-  },
-  {
-    "objectID": "research/index.html#future-contents",
-    "href": "research/index.html#future-contents",
-    "title": "Research",
-    "section": "Future contents",
-    "text": "Future contents\nThis section is designed to accommodate:\n\nCurrent and completed research projects\nPreprints and publications\nCollaborations\nResearch talks and seminar presentations\nLinks to related mathematical notes\n\nUntil those records are available, the Notes and Seminars sections will document the academic work developed alongside my graduate study."
-  },
-  {
-    "objectID": "notes/getting-started/index.html",
-    "href": "notes/getting-started/index.html",
-    "title": "How This Notes Section Is Organized",
-    "section": "",
-    "text": "Each mathematical note is stored in its own folder. This keeps the source file, figures, references, and supplementary material together."
-  },
-  {
-    "objectID": "notes/getting-started/index.html#purpose",
-    "href": "notes/getting-started/index.html#purpose",
-    "title": "How This Notes Section Is Organized",
-    "section": "",
-    "text": "Each mathematical note is stored in its own folder. This keeps the source file, figures, references, and supplementary material together."
-  },
-  {
-    "objectID": "notes/getting-started/index.html#recommended-metadata",
-    "href": "notes/getting-started/index.html#recommended-metadata",
-    "title": "How This Notes Section Is Organized",
-    "section": "2 Recommended metadata",
-    "text": "2 Recommended metadata\nA typical note will begin with metadata of the following form:\n---\ntitle: \"Title of the Note\"\ndescription: \"A concise summary.\"\ndate: 2026-07-20\ndate-modified: 2026-07-20\ncategories:\n  - Large Deviations\n  - Gibbs Measures\ntoc: true\nnumber-sections: true\n---"
-  },
-  {
-    "objectID": "notes/getting-started/index.html#mathematics",
-    "href": "notes/getting-started/index.html#mathematics",
-    "title": "How This Notes Section Is Organized",
-    "section": "3 Mathematics",
-    "text": "3 Mathematics\nMathJax renders inline mathematics such as (X_t) and displayed mathematics such as\n\\[\nI(x)=\\sup_{\\theta\\in\\mathbb{R}}\n\\left\\{\\theta x-\\Lambda(\\theta)\\right\\}.\n\\]\nThis guide can be deleted after real notes have been added."
-  },
-  {
-    "objectID": "cv/index.html",
-    "href": "cv/index.html",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "A downloadable PDF CV will be added when a formal version is prepared."
-  },
-  {
-    "objectID": "cv/index.html#contact",
-    "href": "cv/index.html#contact",
-    "title": "Curriculum Vitae",
-    "section": "Contact",
-    "text": "Contact\nSungjun Park (박성준)\nDepartment of Mathematics, Yonsei University\nsungjun.park@yonsei.ac.kr\nsjpark-math41"
-  },
-  {
-    "objectID": "cv/index.html#education",
-    "href": "cv/index.html#education",
-    "title": "Curriculum Vitae",
-    "section": "Education",
-    "text": "Education\n\nYonsei University\nIntegrated M.S.–Ph.D. Program in Mathematics\nPresent\n\n\nYonsei University\nB.S. in Mathematics\nInterdisciplinary Major in Cognitive Science\n2019–2025"
-  },
-  {
-    "objectID": "cv/index.html#research-interests",
-    "href": "cv/index.html#research-interests",
-    "title": "Curriculum Vitae",
-    "section": "Research interests",
-    "text": "Research interests\n\nProbability Theory\nStochastic Processes\nInteracting Particle Systems\nMetastability"
-  },
-  {
-    "objectID": "cv/index.html#research-presentations-and-teaching",
-    "href": "cv/index.html#research-presentations-and-teaching",
-    "title": "Curriculum Vitae",
-    "section": "Research, presentations, and teaching",
-    "text": "Research, presentations, and teaching\nThese sections will be added as the corresponding academic record develops."
-  },
-  {
-    "objectID": "CHANGELOG.html",
-    "href": "CHANGELOG.html",
-    "title": "Changelog",
-    "section": "",
-    "text": "Added automatic listings for Teaching and Seminars.\nAdded shared directory metadata for teaching and seminar pages.\nAdded reusable templates for course records and seminar presentations.\nAdded a public Summer 2026 teaching-assistant record for Calculus and Vector Analysis (2).\nAdded draft seminar records for Large Deviations Chapter 8 and Brownian Motion Chapter 3.\nAdded a conservative public-materials policy for teaching content.\nUpdated the content guide, roadmap, and site status.\n\n\n\n\n\nAdded common defaults in notes/_metadata.yml.\nAdded a reusable long-form mathematical note template.\nAdded standard metadata, date, tag, folder, and draft conventions.\nAdded reusable visual blocks for definitions, theorems, propositions, lemmas, corollaries, examples, remarks, and proofs.\nAdded CONTENT-GUIDE.md.\nAdded and updated project status and roadmap documentation.\nRestricted the Notes listing to note folders whose main document is index.qmd.\n\n\n\n\n\nAdded the public academic profile of Sungjun Park.\nAdded Korean and English name display.\nAdded Yonsei University affiliation and public email.\nAdded research interests and education history.\nReplaced the empty project section with a transparent research-in-development statement.\nAdded centralized reusable values in _variables.yml.\nRefactored duplicated light/dark layout rules into styles/_shared.scss.\nAdded a temporary profile placeholder pending the actual portrait file.\n\n\n\n\n\nRebuilt the website as a Quarto project.\nAdded Home, About, Research, Notes, Teaching, Seminars, and CV.\nAdded light and dark themes.\nAdded GitHub Pages deployment through GitHub Actions."
-  },
-  {
-    "objectID": "CHANGELOG.html#teaching-and-seminars-system",
-    "href": "CHANGELOG.html#teaching-and-seminars-system",
-    "title": "Changelog",
-    "section": "",
-    "text": "Added automatic listings for Teaching and Seminars.\nAdded shared directory metadata for teaching and seminar pages.\nAdded reusable templates for course records and seminar presentations.\nAdded a public Summer 2026 teaching-assistant record for Calculus and Vector Analysis (2).\nAdded draft seminar records for Large Deviations Chapter 8 and Brownian Motion Chapter 3.\nAdded a conservative public-materials policy for teaching content.\nUpdated the content guide, roadmap, and site status."
-  },
-  {
-    "objectID": "CHANGELOG.html#notes-authoring-system",
-    "href": "CHANGELOG.html#notes-authoring-system",
-    "title": "Changelog",
-    "section": "",
-    "text": "Added common defaults in notes/_metadata.yml.\nAdded a reusable long-form mathematical note template.\nAdded standard metadata, date, tag, folder, and draft conventions.\nAdded reusable visual blocks for definitions, theorems, propositions, lemmas, corollaries, examples, remarks, and proofs.\nAdded CONTENT-GUIDE.md.\nAdded and updated project status and roadmap documentation.\nRestricted the Notes listing to note folders whose main document is index.qmd."
-  },
-  {
-    "objectID": "CHANGELOG.html#profile-integration",
-    "href": "CHANGELOG.html#profile-integration",
-    "title": "Changelog",
-    "section": "",
-    "text": "Added the public academic profile of Sungjun Park.\nAdded Korean and English name display.\nAdded Yonsei University affiliation and public email.\nAdded research interests and education history.\nReplaced the empty project section with a transparent research-in-development statement.\nAdded centralized reusable values in _variables.yml.\nRefactored duplicated light/dark layout rules into styles/_shared.scss.\nAdded a temporary profile placeholder pending the actual portrait file."
-  },
-  {
-    "objectID": "CHANGELOG.html#initial-rebuild",
-    "href": "CHANGELOG.html#initial-rebuild",
-    "title": "Changelog",
-    "section": "",
-    "text": "Rebuilt the website as a Quarto project.\nAdded Home, About, Research, Notes, Teaching, Seminars, and CV.\nAdded light and dark themes.\nAdded GitHub Pages deployment through GitHub Actions."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Sungjun Park (박성준) is an Integrated M.S.–Ph.D. Student in Mathematics in the Department of Mathematics at Yonsei University.\nI am a graduate student in mathematics at Yonsei University, with a primary interest in probability theory.\n대한민국 연세대학교에서 수학, 특히 확률론을 공부하고 있는 대학원생입니다."
-  },
-  {
-    "objectID": "about.html#profile",
-    "href": "about.html#profile",
-    "title": "About",
-    "section": "",
-    "text": "Sungjun Park (박성준) is an Integrated M.S.–Ph.D. Student in Mathematics in the Department of Mathematics at Yonsei University.\nI am a graduate student in mathematics at Yonsei University, with a primary interest in probability theory.\n대한민국 연세대학교에서 수학, 특히 확률론을 공부하고 있는 대학원생입니다."
-  },
-  {
-    "objectID": "about.html#research-interests",
-    "href": "about.html#research-interests",
-    "title": "About",
-    "section": "Research interests",
-    "text": "Research interests\n\nProbability Theory\nStochastic Processes\nInteracting Particle Systems\nMetastability\n\nThese interests describe my present academic direction. More specific research themes and projects will be added as my graduate work develops."
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "About",
-    "section": "Education",
-    "text": "Education\n\nGraduate study\nIntegrated M.S.–Ph.D. Program in Mathematics\nYonsei University · Present\n\n\nUndergraduate study\nB.S. in Mathematics\nInterdisciplinary Major in Cognitive Science\nYonsei University · 2019–2025"
-  },
-  {
-    "objectID": "about.html#contact",
-    "href": "about.html#contact",
-    "title": "About",
-    "section": "Contact",
-    "text": "Contact\n\nEmail: sungjun.park@yonsei.ac.kr\nGitHub: sjpark-math41\n\nGoogle Scholar and ORCID links will be added when available."
-  },
-  {
-    "objectID": "CONTENT-GUIDE.html",
-    "href": "CONTENT-GUIDE.html",
-    "title": "Content Guide",
-    "section": "",
-    "text": "This file records the minimum rules for adding and maintaining site content.\n\n\nUse lowercase English folder names with hyphens.\ngood:\nlarge-deviations\nthermodynamic-limit\ncontinuous-time-markov-chains\n\navoid:\nLarge Deviations\n새 노트\nnote 1\nThe public title may contain spaces, capitalization, Korean, and mathematical notation. Only the file and folder names follow the English slug rule.\n\n\n\n\n\nCopy:\ntemplates/note/\nto a destination such as:\nnotes/large-deviations/thermodynamic-limit/\nThe final source file must be:\nnotes/large-deviations/thermodynamic-limit/index.qmd\n\n\n\nAt the top of index.qmd, edit:\ntitle:\ndescription:\ndate:\ndate-modified:\ncategories:\nstatus:\ndraft:\nUse draft: true while the note is not ready to appear publicly. Change it to draft: false when publishing.\n\n\n\nRun:\nquarto preview\nCheck the table of contents, equations, links, light mode, dark mode, and narrow mobile width.\n\n\n\nIn GitHub Desktop:\nFetch/Pull → Commit → Push\n\n\n\n\nCopy:\ntemplates/teaching-course/\nto:\nteaching/&lt;course-slug&gt;-&lt;year&gt;-&lt;term&gt;/\nRecord the institution, term, role, overview, responsibilities, and only publicly distributable materials.\nDo not publish:\n\nStudent names, email addresses, grades, or submissions\nInternal announcements\nRestricted textbook scans or substantial exercise collections\nAnswer keys not intended for public release\n\n\n\n\nCopy:\ntemplates/seminar/\nto:\nseminars/&lt;year&gt;/&lt;presentation-slug&gt;/\nUse the presentation date in ISO format and keep draft: true while materials are under preparation.\nAfter the presentation:\n\nUpdate status from Scheduled to Completed.\nUpdate date-modified.\nAdd slides, handouts, or related notes.\nChange draft to false when the page is ready to publish.\n\n\n\n\nUse these category names consistently:\n\nProbability Theory\nStochastic Processes\nLarge Deviations\nInteracting Particle Systems\nReal Analysis\nAlgebra\nResearch Notes\nSite Guide\n\nA note may have one primary subject and several narrower topic tags.\nExample:\ncategories:\n  - Large Deviations\n  - Gibbs Measures\n  - Thermodynamic Limit\n\n\n\n\ndate: first public or substantive creation date, or the scheduled presentation date\ndate-modified: most recent meaningful content revision\nDo not update date-modified for a typo-only edit\n\nUse the ISO format:\nYYYY-MM-DD\n\n\n\nUse inline mathematics with:\n\\(X_t\\)\nUse displayed mathematics with:\n$$\nI(x)=\\sup_{\\theta\\in\\mathbb{R}}\n\\{\\theta x-\\Lambda(\\theta)\\}.\n$$\nUse ordinary headings in hierarchical order:\n## Section\n### Subsection\n#### Small subdivision\nDo not skip heading levels for visual effect.\n\n\n\nUse the reusable blocks included in the note template:\n::: {.definition}\n### Definition\n\n...\n:::\nAvailable classes:\n\ndefinition\ntheorem\nproposition\nlemma\ncorollary\nremark\nexample\nproof-box\nnote-status\n\nThese provide visual consistency but do not create automatic theorem numbering. Ordinary numbered section headings remain the primary navigation system.\n\n\n\nStore item-specific files next to the source page:\nnotes/subject/note-slug/\n├── index.qmd\n├── images/\n└── files/\nThe same convention applies to teaching and seminar records.\nUse descriptive image names and always supply alt text.\n![Description of the mathematical diagram](images/diagram-name.svg)\n\n\n\nUse relative project links.\n[Related note](../other-note/index.qmd)\nAfter moving or renaming a page, check all inbound links before pushing.\n\n\n\nAt the beginning of work:\nGitHub Desktop → Fetch origin → Pull origin\nAt the end of work:\nSave → Commit → Push origin\nDo not edit the same page independently on both computers before syncing.\n\n\n\n\nProfile and education: _variables.yml\nGlobal navigation and site metadata: _quarto.yml\nShared visual styling: styles/\nNote-wide defaults: notes/_metadata.yml\nTeaching-wide defaults: teaching/_metadata.yml\nSeminar-wide defaults: seminars/_metadata.yml\n\nChange the central source rather than copying the same information into several pages."
-  },
-  {
-    "objectID": "CONTENT-GUIDE.html#general-naming-rules",
-    "href": "CONTENT-GUIDE.html#general-naming-rules",
-    "title": "Content Guide",
-    "section": "",
-    "text": "Use lowercase English folder names with hyphens.\ngood:\nlarge-deviations\nthermodynamic-limit\ncontinuous-time-markov-chains\n\navoid:\nLarge Deviations\n새 노트\nnote 1\nThe public title may contain spaces, capitalization, Korean, and mathematical notation. Only the file and folder names follow the English slug rule."
-  },
-  {
-    "objectID": "CONTENT-GUIDE.html#adding-a-mathematical-note",
-    "href": "CONTENT-GUIDE.html#adding-a-mathematical-note",
-    "title": "Content Guide",
-    "section": "",
-    "text": "Copy:\ntemplates/note/\nto a destination such as:\nnotes/large-deviations/thermodynamic-limit/\nThe final source file must be:\nnotes/large-deviations/thermodynamic-limit/index.qmd\n\n\n\nAt the top of index.qmd, edit:\ntitle:\ndescription:\ndate:\ndate-modified:\ncategories:\nstatus:\ndraft:\nUse draft: true while the note is not ready to appear publicly. Change it to draft: false when publishing.\n\n\n\nRun:\nquarto preview\nCheck the table of contents, equations, links, light mode, dark mode, and narrow mobile width.\n\n\n\nIn GitHub Desktop:\nFetch/Pull → Commit → Push"
-  },
-  {
-    "objectID": "CONTENT-GUIDE.html#adding-a-teaching-record",
-    "href": "CONTENT-GUIDE.html#adding-a-teaching-record",
-    "title": "Content Guide",
-    "section": "",
-    "text": "Copy:\ntemplates/teaching-course/\nto:\nteaching/&lt;course-slug&gt;-&lt;year&gt;-&lt;term&gt;/\nRecord the institution, term, role, overview, responsibilities, and only publicly distributable materials.\nDo not publish:\n\nStudent names, email addresses, grades, or submissions\nInternal announcements\nRestricted textbook scans or substantial exercise collections\nAnswer keys not intended for public release"
-  },
-  {
-    "objectID": "CONTENT-GUIDE.html#adding-a-seminar-record",
-    "href": "CONTENT-GUIDE.html#adding-a-seminar-record",
-    "title": "Content Guide",
-    "section": "",
-    "text": "Copy:\ntemplates/seminar/\nto:\nseminars/&lt;year&gt;/&lt;presentation-slug&gt;/\nUse the presentation date in ISO format and keep draft: true while materials are under preparation.\nAfter the presentation:\n\nUpdate status from Scheduled to Completed.\nUpdate date-modified.\nAdd slides, handouts, or related notes.\nChange draft to false when the page is ready to publish."
-  },
-  {
-    "objectID": "CONTENT-GUIDE.html#standard-subject-names",
-    "href": "CONTENT-GUIDE.html#standard-subject-names",
-    "title": "Content Guide",
-    "section": "",
-    "text": "Use these category names consistently:\n\nProbability Theory\nStochastic Processes\nLarge Deviations\nInteracting Particle Systems\nReal Analysis\nAlgebra\nResearch Notes\nSite Guide\n\nA note may have one primary subject and several narrower topic tags.\nExample:\ncategories:\n  - Large Deviations\n  - Gibbs Measures\n  - Thermodynamic Limit"
-  },
-  {
-    "objectID": "CONTENT-GUIDE.html#date-policy",
-    "href": "CONTENT-GUIDE.html#date-policy",
-    "title": "Content Guide",
-    "section": "",
-    "text": "date: first public or substantive creation date, or the scheduled presentation date\ndate-modified: most recent meaningful content revision\nDo not update date-modified for a typo-only edit\n\nUse the ISO format:\nYYYY-MM-DD"
-  },
-  {
-    "objectID": "CONTENT-GUIDE.html#mathematical-writing",
-    "href": "CONTENT-GUIDE.html#mathematical-writing",
-    "title": "Content Guide",
-    "section": "",
-    "text": "Use inline mathematics with:\n\\(X_t\\)\nUse displayed mathematics with:\n$$\nI(x)=\\sup_{\\theta\\in\\mathbb{R}}\n\\{\\theta x-\\Lambda(\\theta)\\}.\n$$\nUse ordinary headings in hierarchical order:\n## Section\n### Subsection\n#### Small subdivision\nDo not skip heading levels for visual effect."
-  },
-  {
-    "objectID": "CONTENT-GUIDE.html#definitions-theorems-and-remarks",
-    "href": "CONTENT-GUIDE.html#definitions-theorems-and-remarks",
-    "title": "Content Guide",
-    "section": "",
-    "text": "Use the reusable blocks included in the note template:\n::: {.definition}\n### Definition\n\n...\n:::\nAvailable classes:\n\ndefinition\ntheorem\nproposition\nlemma\ncorollary\nremark\nexample\nproof-box\nnote-status\n\nThese provide visual consistency but do not create automatic theorem numbering. Ordinary numbered section headings remain the primary navigation system."
-  },
-  {
-    "objectID": "CONTENT-GUIDE.html#images-and-files",
-    "href": "CONTENT-GUIDE.html#images-and-files",
-    "title": "Content Guide",
-    "section": "",
-    "text": "Store item-specific files next to the source page:\nnotes/subject/note-slug/\n├── index.qmd\n├── images/\n└── files/\nThe same convention applies to teaching and seminar records.\nUse descriptive image names and always supply alt text.\n![Description of the mathematical diagram](images/diagram-name.svg)"
-  },
-  {
-    "objectID": "CONTENT-GUIDE.html#links",
-    "href": "CONTENT-GUIDE.html#links",
-    "title": "Content Guide",
-    "section": "",
-    "text": "Use relative project links.\n[Related note](../other-note/index.qmd)\nAfter moving or renaming a page, check all inbound links before pushing."
-  },
-  {
-    "objectID": "CONTENT-GUIDE.html#working-across-windows-and-macos",
-    "href": "CONTENT-GUIDE.html#working-across-windows-and-macos",
-    "title": "Content Guide",
-    "section": "",
-    "text": "At the beginning of work:\nGitHub Desktop → Fetch origin → Pull origin\nAt the end of work:\nSave → Commit → Push origin\nDo not edit the same page independently on both computers before syncing."
-  },
-  {
-    "objectID": "CONTENT-GUIDE.html#content-that-should-not-be-duplicated",
-    "href": "CONTENT-GUIDE.html#content-that-should-not-be-duplicated",
-    "title": "Content Guide",
-    "section": "",
-    "text": "Profile and education: _variables.yml\nGlobal navigation and site metadata: _quarto.yml\nShared visual styling: styles/\nNote-wide defaults: notes/_metadata.yml\nTeaching-wide defaults: teaching/_metadata.yml\nSeminar-wide defaults: seminars/_metadata.yml\n\nChange the central source rather than copying the same information into several pages."
+    "objectID": "notes/index.html#subject-areas",
+    "href": "notes/index.html#subject-areas",
+    "title": "Notes",
+    "section": "1 Subject areas",
+    "text": "1 Subject areas\n\nProbability Theory\nStochastic Processes\nLarge Deviations\nInteracting Particle Systems\nReal Analysis\nAlgebra\nResearch Notes\n\nUse the search and category filters below to locate a note. Notes are ordered by the most recent substantive revision."
   },
   {
     "objectID": "index.html",
@@ -322,115 +70,157 @@
     "text": "Recent note\n\nHow This Notes Section Is Organized\nA short guide to the metadata and folder conventions used for mathematical notes.\nRead the note →"
   },
   {
-    "objectID": "notes/index.html",
-    "href": "notes/index.html",
-    "title": "Notes",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "The Notes section contains long-form mathematical notes developed from graduate study, seminars, and research reading."
+    "text": "Sungjun Park (박성준) is an Integrated M.S.–Ph.D. Student in Mathematics in the Department of Mathematics at Yonsei University.\nI am a graduate student in mathematics at Yonsei University, with a primary interest in probability theory.\n대한민국 연세대학교에서 수학, 특히 확률론을 공부하고 있는 대학원생입니다."
   },
   {
-    "objectID": "notes/index.html#subject-areas",
-    "href": "notes/index.html#subject-areas",
-    "title": "Notes",
-    "section": "1 Subject areas",
-    "text": "1 Subject areas\n\nProbability Theory\nStochastic Processes\nLarge Deviations\nInteracting Particle Systems\nReal Analysis\nAlgebra\nResearch Notes\n\nUse the search and category filters below to locate a note. Notes are ordered by the most recent substantive revision."
-  },
-  {
-    "objectID": "ROADMAP.html",
-    "href": "ROADMAP.html",
-    "title": "Roadmap",
+    "objectID": "about.html#profile",
+    "href": "about.html#profile",
+    "title": "About",
     "section": "",
-    "text": "Quarto website foundation\nGitHub Actions deployment to GitHub Pages\nResponsive light and dark themes\nHome, About, Research, Notes, Teaching, Seminars, and CV pages\nPublic profile, education, affiliation, email, and GitHub information\nCentral profile variables\nNotes listing and reusable note template\nTeaching listing and reusable course template\nSeminars listing and reusable presentation template\nInitial teaching record for Summer 2026\n\n\n\n\n\nReplace the temporary profile image with the actual portrait.\nPublish the first substantive mathematical note.\nReview and publish seminar drafts after confirming their details.\nAdd publicly shareable teaching materials when appropriate.\nImprove Open Graph and social preview metadata.\nRedesign the Notes listing after the content system is complete.\nPrepare a PDF CV when the academic record warrants it.\n\n\n\n\n\nBibliography conventions for research notes\nPublication data model\nOptional domain name\nAutomated link validation"
+    "text": "Sungjun Park (박성준) is an Integrated M.S.–Ph.D. Student in Mathematics in the Department of Mathematics at Yonsei University.\nI am a graduate student in mathematics at Yonsei University, with a primary interest in probability theory.\n대한민국 연세대학교에서 수학, 특히 확률론을 공부하고 있는 대학원생입니다."
   },
   {
-    "objectID": "ROADMAP.html#completed",
-    "href": "ROADMAP.html#completed",
-    "title": "Roadmap",
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "About",
+    "section": "Research interests",
+    "text": "Research interests\n\nProbability Theory\nStochastic Processes\nInteracting Particle Systems\nMetastability\n\nThese interests describe my present academic direction. More specific research themes and projects will be added as my graduate work develops."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\n\nGraduate study\nIntegrated M.S.–Ph.D. Program in Mathematics\nYonsei University · Present\n\n\nUndergraduate study\nB.S. in Mathematics\nInterdisciplinary Major in Cognitive Science\nYonsei University · 2019–2025"
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\n\nEmail: sungjun.park@yonsei.ac.kr\nGitHub: sjpark-math41\n\nGoogle Scholar and ORCID links will be added when available."
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum Vitae",
     "section": "",
-    "text": "Quarto website foundation\nGitHub Actions deployment to GitHub Pages\nResponsive light and dark themes\nHome, About, Research, Notes, Teaching, Seminars, and CV pages\nPublic profile, education, affiliation, email, and GitHub information\nCentral profile variables\nNotes listing and reusable note template\nTeaching listing and reusable course template\nSeminars listing and reusable presentation template\nInitial teaching record for Summer 2026"
+    "text": "A downloadable PDF CV will be added when a formal version is prepared."
   },
   {
-    "objectID": "ROADMAP.html#next",
-    "href": "ROADMAP.html#next",
-    "title": "Roadmap",
+    "objectID": "cv/index.html#contact",
+    "href": "cv/index.html#contact",
+    "title": "Curriculum Vitae",
+    "section": "Contact",
+    "text": "Contact\nSungjun Park (박성준)\nDepartment of Mathematics, Yonsei University\nsungjun.park@yonsei.ac.kr\nsjpark-math41"
+  },
+  {
+    "objectID": "cv/index.html#education",
+    "href": "cv/index.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\n\nYonsei University\nIntegrated M.S.–Ph.D. Program in Mathematics\nPresent\n\n\nYonsei University\nB.S. in Mathematics\nInterdisciplinary Major in Cognitive Science\n2019–2025"
+  },
+  {
+    "objectID": "cv/index.html#research-interests",
+    "href": "cv/index.html#research-interests",
+    "title": "Curriculum Vitae",
+    "section": "Research interests",
+    "text": "Research interests\n\nProbability Theory\nStochastic Processes\nInteracting Particle Systems\nMetastability"
+  },
+  {
+    "objectID": "cv/index.html#research-presentations-and-teaching",
+    "href": "cv/index.html#research-presentations-and-teaching",
+    "title": "Curriculum Vitae",
+    "section": "Research, presentations, and teaching",
+    "text": "Research, presentations, and teaching\nThese sections will be added as the corresponding academic record develops."
+  },
+  {
+    "objectID": "notes/getting-started/index.html",
+    "href": "notes/getting-started/index.html",
+    "title": "How This Notes Section Is Organized",
     "section": "",
-    "text": "Replace the temporary profile image with the actual portrait.\nPublish the first substantive mathematical note.\nReview and publish seminar drafts after confirming their details.\nAdd publicly shareable teaching materials when appropriate.\nImprove Open Graph and social preview metadata.\nRedesign the Notes listing after the content system is complete.\nPrepare a PDF CV when the academic record warrants it."
+    "text": "Each mathematical note is stored in its own folder. This keeps the source file, figures, references, and supplementary material together."
   },
   {
-    "objectID": "ROADMAP.html#later",
-    "href": "ROADMAP.html#later",
-    "title": "Roadmap",
+    "objectID": "notes/getting-started/index.html#purpose",
+    "href": "notes/getting-started/index.html#purpose",
+    "title": "How This Notes Section Is Organized",
     "section": "",
-    "text": "Bibliography conventions for research notes\nPublication data model\nOptional domain name\nAutomated link validation"
+    "text": "Each mathematical note is stored in its own folder. This keeps the source file, figures, references, and supplementary material together."
   },
   {
-    "objectID": "SITE-STATUS.html",
-    "href": "SITE-STATUS.html",
-    "title": "Site Status",
+    "objectID": "notes/getting-started/index.html#recommended-metadata",
+    "href": "notes/getting-started/index.html#recommended-metadata",
+    "title": "How This Notes Section Is Organized",
+    "section": "2 Recommended metadata",
+    "text": "2 Recommended metadata\nA typical note will begin with metadata of the following form:\n---\ntitle: \"Title of the Note\"\ndescription: \"A concise summary.\"\ndate: 2026-07-20\ndate-modified: 2026-07-20\ncategories:\n  - Large Deviations\n  - Gibbs Measures\ntoc: true\nnumber-sections: true\n---"
+  },
+  {
+    "objectID": "notes/getting-started/index.html#mathematics",
+    "href": "notes/getting-started/index.html#mathematics",
+    "title": "How This Notes Section Is Organized",
+    "section": "3 Mathematics",
+    "text": "3 Mathematics\nMathJax renders inline mathematics such as (X_t) and displayed mathematics such as\n\\[\nI(x)=\\sup_{\\theta\\in\\mathbb{R}}\n\\left\\{\\theta x-\\Lambda(\\theta)\\right\\}.\n\\]\nThis guide can be deleted after real notes have been added."
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
     "section": "",
-    "text": "Home\nAbout\nResearch\nNotes\nTeaching\nSeminars\nCV\n\n\n\n\n\nName: Sungjun Park / 박성준\nAffiliation: Department of Mathematics, Yonsei University\nProgram: Integrated M.S.–Ph.D. Program in Mathematics\nEmail and GitHub links: configured\nGoogle Scholar: not yet available\nORCID: not yet available\nPDF CV: not yet available\nProfile portrait: actual image pending\n\n\n\n\n\nAutomatic listing: configured\nCommon note metadata: notes/_metadata.yml\nReusable template: templates/note/index.qmd\nDraft workflow: configured\nStandard subject taxonomy: defined\nListing redesign: deferred until the remaining content systems are complete\n\n\n\n\n\nAutomatic listing: configured\nCommon metadata: teaching/_metadata.yml\nReusable template: templates/teaching-course/index.qmd\nSummer 2026 teaching-assistant record: added\nPublic materials: none currently posted\n\n\n\n\n\nAutomatic listing: configured\nCommon metadata: seminars/_metadata.yml\nReusable template: templates/seminar/index.qmd\nLarge Deviations Chapter 8 entry: draft\nBrownian Motion Chapter 3 entry: draft\n\n\n\n\nThe site currently lists research interests only. Formal projects, publications, and collaborations will be added when available.\n\n\n\n\nReplace the temporary profile image with the actual portrait.\nConfirm the seminar draft details before publishing.\nAdd the first substantive mathematical note.\nAdd publicly shareable teaching materials when appropriate.\nPrepare a PDF CV when appropriate."
+    "text": "My current interests are centered on probability theory and stochastic processes, with particular attention to interacting particle systems and metastability.\n\n\nI am currently at an early stage of graduate study. This page records my main research directions rather than presenting a formal list of projects. Research projects, preprints, collaborations, and talks will be added as they develop."
   },
   {
-    "objectID": "SITE-STATUS.html#current-structure",
-    "href": "SITE-STATUS.html#current-structure",
-    "title": "Site Status",
+    "objectID": "research/index.html#current-direction",
+    "href": "research/index.html#current-direction",
+    "title": "Research",
     "section": "",
-    "text": "Home\nAbout\nResearch\nNotes\nTeaching\nSeminars\nCV"
+    "text": "My current interests are centered on probability theory and stochastic processes, with particular attention to interacting particle systems and metastability.\n\n\nI am currently at an early stage of graduate study. This page records my main research directions rather than presenting a formal list of projects. Research projects, preprints, collaborations, and talks will be added as they develop."
   },
   {
-    "objectID": "SITE-STATUS.html#profile",
-    "href": "SITE-STATUS.html#profile",
-    "title": "Site Status",
+    "objectID": "research/index.html#areas-of-interest",
+    "href": "research/index.html#areas-of-interest",
+    "title": "Research",
+    "section": "Areas of interest",
+    "text": "Areas of interest\n\n\nProbability Theory\nProbabilistic structures, asymptotic methods, and the behavior of random systems.\n\n\nStochastic Processes\nContinuous-time stochastic dynamics and long-time behavior.\n\n\nInteracting Particle Systems\nCollective behavior arising from local interactions among random particles.\n\n\nMetastability\nRare transitions, effective dynamics, and hierarchical time scales."
+  },
+  {
+    "objectID": "research/index.html#future-contents",
+    "href": "research/index.html#future-contents",
+    "title": "Research",
+    "section": "Future contents",
+    "text": "Future contents\nThis section is designed to accommodate:\n\nCurrent and completed research projects\nPreprints and publications\nCollaborations\nResearch talks and seminar presentations\nLinks to related mathematical notes\n\nUntil those records are available, the Notes and Seminars sections will document the academic work developed alongside my graduate study."
+  },
+  {
+    "objectID": "teaching/calculus-and-vector-analysis-2-2026-summer/index.html",
+    "href": "teaching/calculus-and-vector-analysis-2-2026-summer/index.html",
+    "title": "Calculus and Vector Analysis (2)",
     "section": "",
-    "text": "Name: Sungjun Park / 박성준\nAffiliation: Department of Mathematics, Yonsei University\nProgram: Integrated M.S.–Ph.D. Program in Mathematics\nEmail and GitHub links: configured\nGoogle Scholar: not yet available\nORCID: not yet available\nPDF CV: not yet available\nProfile portrait: actual image pending"
+    "text": "Role\nTeaching Assistant\n\n\nInstitution\nYonsei University\n\n\nTerm\nSummer 2026"
   },
   {
-    "objectID": "SITE-STATUS.html#notes-system",
-    "href": "SITE-STATUS.html#notes-system",
-    "title": "Site Status",
-    "section": "",
-    "text": "Automatic listing: configured\nCommon note metadata: notes/_metadata.yml\nReusable template: templates/note/index.qmd\nDraft workflow: configured\nStandard subject taxonomy: defined\nListing redesign: deferred until the remaining content systems are complete"
+    "objectID": "teaching/calculus-and-vector-analysis-2-2026-summer/index.html#overview",
+    "href": "teaching/calculus-and-vector-analysis-2-2026-summer/index.html#overview",
+    "title": "Calculus and Vector Analysis (2)",
+    "section": "Overview",
+    "text": "Overview\nTeaching-assistant activity for Calculus and Vector Analysis (2) during the 2026 summer term at Yonsei University.\nThe work includes supporting problem-solving sessions and preparing instructional materials for the course."
   },
   {
-    "objectID": "SITE-STATUS.html#teaching-system",
-    "href": "SITE-STATUS.html#teaching-system",
-    "title": "Site Status",
-    "section": "",
-    "text": "Automatic listing: configured\nCommon metadata: teaching/_metadata.yml\nReusable template: templates/teaching-course/index.qmd\nSummer 2026 teaching-assistant record: added\nPublic materials: none currently posted"
+    "objectID": "teaching/calculus-and-vector-analysis-2-2026-summer/index.html#public-materials",
+    "href": "teaching/calculus-and-vector-analysis-2-2026-summer/index.html#public-materials",
+    "title": "Calculus and Vector Analysis (2)",
+    "section": "Public materials",
+    "text": "Public materials\nNo course materials are currently published on this page.\nMaterials will be added only after confirming that they are appropriate for public distribution and do not reproduce restricted textbook content or disclose student information."
   },
   {
-    "objectID": "SITE-STATUS.html#seminars-system",
-    "href": "SITE-STATUS.html#seminars-system",
-    "title": "Site Status",
-    "section": "",
-    "text": "Automatic listing: configured\nCommon metadata: seminars/_metadata.yml\nReusable template: templates/seminar/index.qmd\nLarge Deviations Chapter 8 entry: draft\nBrownian Motion Chapter 3 entry: draft"
-  },
-  {
-    "objectID": "SITE-STATUS.html#research-content",
-    "href": "SITE-STATUS.html#research-content",
-    "title": "Site Status",
-    "section": "",
-    "text": "The site currently lists research interests only. Formal projects, publications, and collaborations will be added when available."
-  },
-  {
-    "objectID": "SITE-STATUS.html#next-priorities",
-    "href": "SITE-STATUS.html#next-priorities",
-    "title": "Site Status",
-    "section": "",
-    "text": "Replace the temporary profile image with the actual portrait.\nConfirm the seminar draft details before publishing.\nAdd the first substantive mathematical note.\nAdd publicly shareable teaching materials when appropriate.\nPrepare a PDF CV when appropriate."
-  },
-  {
-    "objectID": "teaching/index.html",
-    "href": "teaching/index.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "This section records teaching-assistant appointments and course-related materials that are appropriate for public distribution."
-  },
-  {
-    "objectID": "teaching/index.html#publication-policy",
-    "href": "teaching/index.html#publication-policy",
-    "title": "Teaching",
-    "section": "Publication policy",
-    "text": "Publication policy\nOnly materials that may be shared publicly will be posted here. Course handouts, textbook exercises, student information, grading records, and internal announcements are excluded unless public distribution is clearly permitted."
+    "objectID": "teaching/calculus-and-vector-analysis-2-2026-summer/index.html#topics",
+    "href": "teaching/calculus-and-vector-analysis-2-2026-summer/index.html#topics",
+    "title": "Calculus and Vector Analysis (2)",
+    "section": "Topics",
+    "text": "Topics\nThe course includes topics from multivariable and vector calculus, such as parametric surfaces, surface integrals, and the classical integral theorems of vector analysis."
   }
 ]

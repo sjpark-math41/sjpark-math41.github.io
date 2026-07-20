@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Sungjun Park academic website favicon</title>
+  <rect width="64" height="64" rx="13" fill="#173b63"/>
+  <path d="M9 48 C19 28, 29 53, 39 34 S54 23, 58 31" fill="none" stroke="#8ab9e3" stroke-width="2.5" opacity="0.7"/>
+  <text x="32" y="40" text-anchor="middle" fill="#ffffff"
+        font-family="Georgia, 'Times New Roman', serif" font-size="28" font-weight="700">SP</text>
+</svg>

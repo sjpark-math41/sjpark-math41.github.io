@@ -10,6 +10,22 @@
 - Seminars
 - CV
 
+## Global settings
+
+- GitHub Pages deployment: configured
+- Site search: configured
+- Light and dark themes: configured
+- MathJax: configured
+- Open Graph metadata: configured
+- Social preview image: configured
+- Favicon: configured
+- Sitemap reference: configured
+- Back-to-top navigation: configured
+- Breadcrumbs: configured
+- Windows/macOS line-ending normalization: configured
+- Public render targets: restricted to `.qmd` content
+- Templates: excluded from rendering
+
 ## Profile
 
 - Name: Sungjun Park / 박성준
@@ -28,7 +44,7 @@
 - Reusable template: `templates/note/index.qmd`
 - Draft workflow: configured
 - Standard subject taxonomy: defined
-- Listing redesign: deferred until the remaining content systems are complete
+- Listing redesign: next design priority
 
 ## Teaching system
 
@@ -52,8 +68,8 @@ The site currently lists research interests only. Formal projects, publications,
 
 ## Next priorities
 
-1. Replace the temporary profile image with the actual portrait.
-2. Confirm the seminar draft details before publishing.
-3. Add the first substantive mathematical note.
-4. Add publicly shareable teaching materials when appropriate.
+1. Redesign Notes, Teaching, and Seminars listings.
+2. Conduct a full site design review.
+3. Replace the temporary profile image.
+4. Add the first substantive mathematical note.
 5. Prepare a PDF CV when appropriate.
