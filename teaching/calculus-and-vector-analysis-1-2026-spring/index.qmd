@@ -1,15 +1,14 @@
 ---
-title: "Calculus and Vector Analysis (2)"
-description: "Teaching-assistant appointments for Calculus and Vector Analysis (2) at Yonsei University."
+title: "Calculus and Vector Analysis (1)"
+description: "Teaching-assistant appointment for Calculus and Vector Analysis (1) at Yonsei University."
 categories:
   - Teaching Assistant
   - Calculus
-  - Summer 2026
-  - Fall 2025
+  - Spring 2026
 institution: "Yonsei University"
-term: "Summer 2026 · Fall 2025"
+term: "Spring 2026"
 role: "Teaching Assistant"
-date: 2026-06-01
+date: 2026-03-01
 toc: true
 ---
 
@@ -27,9 +26,9 @@ toc: true
 </div>
 
 <div>
-<span class="record-label">Terms</span>
+<span class="record-label">Term</span>
 
-**Summer 2026 · Fall 2025**
+**Spring 2026**
 </div>
 :::
 
