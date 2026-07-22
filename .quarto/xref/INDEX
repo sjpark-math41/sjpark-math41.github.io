@@ -1,71 +1,47 @@
 {
-  "index.qmd": {
-    "index.html": "d14f3933"
-  },
   "404.qmd": {
-    "404.html": "e0ef2904"
+    "404.html": "37bdee36"
   },
   "about.qmd": {
-    "about.html": "7a8c5fce"
+    "about.html": "8211ac2a"
   },
   "cv/index.qmd": {
-    "index.html": "fbbe30b8"
+    "index.html": "81be31f2"
   },
-  "notes/getting-started/index.qmd": {
-    "index.html": "e0bb8c48"
-  },
-  "notes/index.qmd": {
-    "index.html": "e4778fcf"
-  },
-  "research/index.qmd": {
-    "index.html": "a30971dd"
-  },
-  "seminars/index.qmd": {
-    "index.html": "33e447e3"
-  },
-  "teaching/index.qmd": {
-    "index.html": "8300a877"
-  },
-  "CHANGELOG.md": {
-    "CHANGELOG.html": "bf067fce"
-  },
-  "SITE-STATUS.md": {
-    "SITE-STATUS.html": "59b8fc38"
-  },
-  "CONTENT-GUIDE.md": {
-    "CONTENT-GUIDE.html": "ec142978"
-  },
-  "ROADMAP.md": {
-    "ROADMAP.html": "b8dedb70"
-  },
-  "templates/note/index.qmd": {
-    "index.html": "0b433040"
-  },
-  "seminars/2026/brownian-motion-chapter-3/index.qmd": {
-    "index.html": "510c19dc"
-  },
-  "seminars/2026/large-deviations-chapter-8/index.qmd": {
-    "index.html": "2547a1d1"
-  },
-  "teaching/calculus-and-vector-analysis-2-2026-summer/index.qmd": {
-    "index.html": "27c0d238"
-  },
-  "templates/seminar/index.qmd": {
-    "index.html": "d33edcef"
-  },
-  "templates/teaching-course/index.qmd": {
-    "index.html": "42bb1d8f"
+  "index.qmd": {
+    "index.html": "45b92604"
   },
   "notes/filtrations-and-martingales/index.qmd": {
-    "index.html": "33ed3dca"
+    "index.html": "f20d1faf"
   },
   "notes/filtrations-and-martingales/section-1-1/filtrations-right-continuity-completeness.qmd": {
-    "filtrations-right-continuity-completeness.html": "a1939e41"
+    "filtrations-right-continuity-completeness.html": "80c3e520"
+  },
+  "notes/index.qmd": {
+    "index.html": "32f6882d"
+  },
+  "research/index.qmd": {
+    "index.html": "4aede2ea"
+  },
+  "seminars/2026/brownian-motion-chapter-3/index.qmd": {
+    "index.html": "487f7eaf"
+  },
+  "seminars/2026/large-deviations-chapter-8/index.qmd": {
+    "index.html": "7483dbb1"
+  },
+  "seminars/index.qmd": {
+    "index.html": "6bfa55f6"
   },
   "teaching/calculus-and-vector-analysis-1-2026-spring/index.qmd": {
-    "index.html": "acad1576"
+    "index.html": "732d536b"
+  },
+  "teaching/calculus-and-vector-analysis-2-2026-summer/index.qmd": {
+    "index.html": "60aa320f"
+  },
+  "teaching/index.qmd": {
+    "index.html": "8320b377"
   },
   "teaching/probability-2026-spring/index.qmd": {
-    "index.html": "64f7e51c"
+    "index.html": "c53fec4b"
   }
 }

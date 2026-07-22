@@ -1,199 +1,17 @@
 [
   {
-    "objectID": "teaching/index.html#teaching-activities",
-    "href": "teaching/index.html#teaching-activities",
-    "title": "Teaching",
-    "section": "Teaching activities",
-    "text": "Teaching activities"
-  },
-  {
-    "objectID": "seminars/index.html#seminar-records",
-    "href": "seminars/index.html#seminar-records",
-    "title": "Seminars",
-    "section": "Seminar records",
-    "text": "Seminar records"
-  },
-  {
-    "objectID": "notes/index.html",
-    "href": "notes/index.html",
-    "title": "Notes",
+    "objectID": "teaching/probability-2026-spring/index.html",
+    "href": "teaching/probability-2026-spring/index.html",
+    "title": "Probability",
     "section": "",
-    "text": "Code"
+    "text": "Role\nGrading Assistant\n\n\nInstitution\nYonsei University\n\n\nTerm\nSpring 2026"
   },
   {
-    "objectID": "notes/index.html#browse-by-subject",
-    "href": "notes/index.html#browse-by-subject",
-    "title": "Notes",
-    "section": "1.1 Browse by subject",
-    "text": "1.1 Browse by subject\n\n\n01\n\n1.1.1 Probability Theory\nLimit theorems, distributions, concentration, and probabilistic methods.\n\n\n\n02\n\n1.1.2 Stochastic Processes\nMarkov processes, Brownian motion, martingales, and stochastic calculus.\n\n\n\n03\n\n1.1.3 Large Deviations\nRare-event asymptotics, variational principles, and Gibbs measures.\n\n\n\n04\n\n1.1.4 Interacting Particle Systems\nCollective stochastic dynamics, metastability, and effective behavior.\n\n\n\n05\n\n1.1.5 Real Analysis\nMeasure theory, integration, functional analysis, and PDE-oriented analysis.\n\n\n\n06\n\n1.1.6 Algebra\nGroups, rings, fields, modules, and algebraic structures.\n\n\n\n07\n\n1.1.7 Research Notes\nWorking documents that connect papers, calculations, and open research questions.\n\n\n\n\n\n\nLIBRARY\n\n\n1.2 All notes\n\n\n\nSearch titles, summaries, and subject tags. The default order follows the most recent substantive revision.\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Last updated - Oldest\n      \n      \n        Last updated - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n  \n    \n      \n        \n          \n            \n            Updated Jul 1, yyyy\n          \n        \n        \n          Site guide\n        \n        \n          1 min\n        \n      \n      \n        \n      \n    \n\n    \n      How This Notes Section Is Organized\n    \n\n    \n      A short guide to the structure and metadata used for mathematical notes.\n    \n\n    \n      \n        \n          Site Guide\n        \n      \n    \n  \n\n\nNo matching items"
-  },
-  {
-    "objectID": "notes/index.html#all-notes",
-    "href": "notes/index.html#all-notes",
-    "title": "Notes",
-    "section": "1.2 All notes",
-    "text": "1.2 All notes"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Sungjun Park",
-    "section": "",
-    "text": "MATHEMATICS · PROBABILITY · STOCHASTIC PROCESSES\n\n\n\n\n박성준\n\n\nIntegrated M.S.–Ph.D. Student in Mathematics\n\n\nDepartment of Mathematics, Yonsei University\n\n\nI am a graduate student in mathematics at Yonsei University, with a primary interest in probability theory.\n\n\n대한민국 연세대학교에서 수학, 특히 확률론을 공부하고 있는 대학원생입니다.\n\nAbout Me Browse Notes Contact\n\n\n\n\n\n\nTemporary profile placeholder for Sungjun Park\n\n\n\n\nSungjun Park · 박성준\n\n\nGraduate Student in Mathematics\n\n\nDepartment of MathematicsYonsei University"
-  },
-  {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
-    "title": "Sungjun Park",
-    "section": "Research interests",
-    "text": "Research interests\n\n\nProbability Theory\nProbabilistic structures, asymptotic behavior, and mathematical methods for random systems.\n\n\nStochastic Processes\nContinuous-time stochastic models and the evolution of random systems over time.\n\n\nInteracting Particle Systems\nLarge systems of interacting random particles and their collective behavior.\n\n\nMetastability\nRare transitions, multiple time scales, and effective dynamics in stochastic systems."
-  },
-  {
-    "objectID": "index.html#academic-profile",
-    "href": "index.html#academic-profile",
-    "title": "Sungjun Park",
-    "section": "Academic profile",
-    "text": "Academic profile\n\n\nCurrent program\nIntegrated M.S.–Ph.D. Program in Mathematics\nYonsei University\n\n\nEducation\nB.S. in Mathematics\nInterdisciplinary Major in Cognitive Science, Yonsei University\n\n\nContact\nsungjun.park@yonsei.ac.kr\nsjpark-math41"
-  },
-  {
-    "objectID": "index.html#about-this-site",
-    "href": "index.html#about-this-site",
-    "title": "Sungjun Park",
-    "section": "About this site",
-    "text": "About this site\nThis website will grow with my graduate study. It is intended as a long-term home for mathematical notes, seminar materials, teaching resources, and future research work.\n\n\nNotes\nLong-form mathematical notes organized by subject and revision date.\nBrowse Notes →\n\n\nSeminars\nPresentation records, slides, handouts, and related notes.\nView Seminars →\n\n\nTeaching\nTeaching-assistant activities and publicly shareable course materials.\nView Teaching →"
-  },
-  {
-    "objectID": "index.html#recent-note",
-    "href": "index.html#recent-note",
-    "title": "Sungjun Park",
-    "section": "Recent note",
-    "text": "Recent note\n\nHow This Notes Section Is Organized\nA short guide to the metadata and folder conventions used for mathematical notes.\nRead the note →"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Sungjun Park (박성준) is an Integrated M.S.–Ph.D. Student in Mathematics in the Department of Mathematics at Yonsei University.\nI am a graduate student in mathematics at Yonsei University, with a primary interest in probability theory.\n대한민국 연세대학교에서 수학, 특히 확률론을 공부하고 있는 대학원생입니다."
-  },
-  {
-    "objectID": "about.html#profile",
-    "href": "about.html#profile",
-    "title": "About",
-    "section": "",
-    "text": "Sungjun Park (박성준) is an Integrated M.S.–Ph.D. Student in Mathematics in the Department of Mathematics at Yonsei University.\nI am a graduate student in mathematics at Yonsei University, with a primary interest in probability theory.\n대한민국 연세대학교에서 수학, 특히 확률론을 공부하고 있는 대학원생입니다."
-  },
-  {
-    "objectID": "about.html#research-interests",
-    "href": "about.html#research-interests",
-    "title": "About",
-    "section": "Research interests",
-    "text": "Research interests\n\nProbability Theory\nStochastic Processes\nInteracting Particle Systems\nMetastability\n\nThese interests describe my present academic direction. More specific research themes and projects will be added as my graduate work develops."
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "About",
-    "section": "Education",
-    "text": "Education\n\nGraduate study\nIntegrated M.S.–Ph.D. Program in Mathematics\nYonsei University · Present\n\n\nUndergraduate study\nB.S. in Mathematics\nInterdisciplinary Major in Cognitive Science\nYonsei University · 2019–2025"
-  },
-  {
-    "objectID": "about.html#contact",
-    "href": "about.html#contact",
-    "title": "About",
-    "section": "Contact",
-    "text": "Contact\n\nEmail: sungjun.park@yonsei.ac.kr\nGitHub: sjpark-math41\n\nGoogle Scholar and ORCID links will be added when available."
-  },
-  {
-    "objectID": "cv/index.html",
-    "href": "cv/index.html",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "A downloadable PDF CV will be added when a formal version is prepared."
-  },
-  {
-    "objectID": "cv/index.html#contact",
-    "href": "cv/index.html#contact",
-    "title": "Curriculum Vitae",
-    "section": "Contact",
-    "text": "Contact\nSungjun Park (박성준)\nDepartment of Mathematics, Yonsei University\nsungjun.park@yonsei.ac.kr\nsjpark-math41"
-  },
-  {
-    "objectID": "cv/index.html#education",
-    "href": "cv/index.html#education",
-    "title": "Curriculum Vitae",
-    "section": "Education",
-    "text": "Education\n\nYonsei University\nIntegrated M.S.–Ph.D. Program in Mathematics\nPresent\n\n\nYonsei University\nB.S. in Mathematics\nInterdisciplinary Major in Cognitive Science\n2019–2025"
-  },
-  {
-    "objectID": "cv/index.html#research-interests",
-    "href": "cv/index.html#research-interests",
-    "title": "Curriculum Vitae",
-    "section": "Research interests",
-    "text": "Research interests\n\nProbability Theory\nStochastic Processes\nInteracting Particle Systems\nMetastability"
-  },
-  {
-    "objectID": "cv/index.html#research-presentations-and-teaching",
-    "href": "cv/index.html#research-presentations-and-teaching",
-    "title": "Curriculum Vitae",
-    "section": "Research, presentations, and teaching",
-    "text": "Research, presentations, and teaching\nThese sections will be added as the corresponding academic record develops."
-  },
-  {
-    "objectID": "notes/getting-started/index.html",
-    "href": "notes/getting-started/index.html",
-    "title": "How This Notes Section Is Organized",
-    "section": "",
-    "text": "Each mathematical note is stored in its own folder. This keeps the source file, figures, references, and supplementary material together."
-  },
-  {
-    "objectID": "notes/getting-started/index.html#purpose",
-    "href": "notes/getting-started/index.html#purpose",
-    "title": "How This Notes Section Is Organized",
-    "section": "",
-    "text": "Each mathematical note is stored in its own folder. This keeps the source file, figures, references, and supplementary material together."
-  },
-  {
-    "objectID": "notes/getting-started/index.html#recommended-metadata",
-    "href": "notes/getting-started/index.html#recommended-metadata",
-    "title": "How This Notes Section Is Organized",
-    "section": "2 Recommended metadata",
-    "text": "2 Recommended metadata\nA typical note will begin with metadata of the following form:\n---\ntitle: \"Title of the Note\"\ndescription: \"A concise summary.\"\ndate: 2026-07-20\ndate-modified: 2026-07-20\ncategories:\n  - Large Deviations\n  - Gibbs Measures\ntoc: true\nnumber-sections: true\n---"
-  },
-  {
-    "objectID": "notes/getting-started/index.html#mathematics",
-    "href": "notes/getting-started/index.html#mathematics",
-    "title": "How This Notes Section Is Organized",
-    "section": "3 Mathematics",
-    "text": "3 Mathematics\nMathJax renders inline mathematics such as (X_t) and displayed mathematics such as\n\\[\nI(x)=\\sup_{\\theta\\in\\mathbb{R}}\n\\left\\{\\theta x-\\Lambda(\\theta)\\right\\}.\n\\]\nThis guide can be deleted after real notes have been added."
-  },
-  {
-    "objectID": "research/index.html",
-    "href": "research/index.html",
-    "title": "Research",
-    "section": "",
-    "text": "My current interests are centered on probability theory and stochastic processes, with particular attention to interacting particle systems and metastability.\n\n\nI am currently at an early stage of graduate study. This page records my main research directions rather than presenting a formal list of projects. Research projects, preprints, collaborations, and talks will be added as they develop."
-  },
-  {
-    "objectID": "research/index.html#current-direction",
-    "href": "research/index.html#current-direction",
-    "title": "Research",
-    "section": "",
-    "text": "My current interests are centered on probability theory and stochastic processes, with particular attention to interacting particle systems and metastability.\n\n\nI am currently at an early stage of graduate study. This page records my main research directions rather than presenting a formal list of projects. Research projects, preprints, collaborations, and talks will be added as they develop."
-  },
-  {
-    "objectID": "research/index.html#areas-of-interest",
-    "href": "research/index.html#areas-of-interest",
-    "title": "Research",
-    "section": "Areas of interest",
-    "text": "Areas of interest\n\n\nProbability Theory\nProbabilistic structures, asymptotic methods, and the behavior of random systems.\n\n\nStochastic Processes\nContinuous-time stochastic dynamics and long-time behavior.\n\n\nInteracting Particle Systems\nCollective behavior arising from local interactions among random particles.\n\n\nMetastability\nRare transitions, effective dynamics, and hierarchical time scales."
-  },
-  {
-    "objectID": "research/index.html#future-contents",
-    "href": "research/index.html#future-contents",
-    "title": "Research",
-    "section": "Future contents",
-    "text": "Future contents\nThis section is designed to accommodate:\n\nCurrent and completed research projects\nPreprints and publications\nCollaborations\nResearch talks and seminar presentations\nLinks to related mathematical notes\n\nUntil those records are available, the Notes and Seminars sections will document the academic work developed alongside my graduate study."
+    "objectID": "teaching/probability-2026-spring/index.html#overview",
+    "href": "teaching/probability-2026-spring/index.html#overview",
+    "title": "Probability",
+    "section": "Overview",
+    "text": "Overview\nAssisted with the grading of coursework and examinations."
   },
   {
     "objectID": "teaching/calculus-and-vector-analysis-2-2026-summer/index.html",
@@ -210,46 +28,18 @@
     "text": "Overview\nConducted problem-solving sessions and responded to students’ questions regarding exercises and course material."
   },
   {
-    "objectID": "teaching/calculus-and-vector-analysis-2-2026-summer/index.html#public-materials",
-    "href": "teaching/calculus-and-vector-analysis-2-2026-summer/index.html#public-materials",
-    "title": "Calculus and Vector Analysis (2)",
-    "section": "Public materials",
-    "text": "Public materials\nNo course materials are currently published on this page.\nMaterials will be added only after confirming that they are appropriate for public distribution and do not reproduce restricted textbook content or disclose student information."
+    "objectID": "seminars/index.html#seminar-records",
+    "href": "seminars/index.html#seminar-records",
+    "title": "Seminars",
+    "section": "Seminar records",
+    "text": "Seminar records"
   },
   {
-    "objectID": "teaching/calculus-and-vector-analysis-2-2026-summer/index.html#topics",
-    "href": "teaching/calculus-and-vector-analysis-2-2026-summer/index.html#topics",
-    "title": "Calculus and Vector Analysis (2)",
-    "section": "Topics",
-    "text": "Topics\nThe course includes topics from multivariable and vector calculus, such as parametric surfaces, surface integrals, and the classical integral theorems of vector analysis."
-  },
-  {
-    "objectID": "seminars/2026/brownian-motion-chapter-3/index.html",
-    "href": "seminars/2026/brownian-motion-chapter-3/index.html",
-    "title": "Brownian Motion, Martingales, and Stochastic Calculus: Chapter 3",
+    "objectID": "notes/index.html",
+    "href": "notes/index.html",
+    "title": "Notes",
     "section": "",
-    "text": "Status\nScheduled\n\n\nDate\n2026-07-31\n\n\nFormat\nGraduate presentation"
-  },
-  {
-    "objectID": "seminars/2026/brownian-motion-chapter-3/index.html#overview",
-    "href": "seminars/2026/brownian-motion-chapter-3/index.html#overview",
-    "title": "Brownian Motion, Martingales, and Stochastic Calculus: Chapter 3",
-    "section": "Overview",
-    "text": "Overview\nThis presentation is based on Chapter 3 of Brownian Motion, Martingales, and Stochastic Calculus."
-  },
-  {
-    "objectID": "seminars/2026/brownian-motion-chapter-3/index.html#planned-contents",
-    "href": "seminars/2026/brownian-motion-chapter-3/index.html#planned-contents",
-    "title": "Brownian Motion, Martingales, and Stochastic Calculus: Chapter 3",
-    "section": "Planned contents",
-    "text": "Planned contents\nThe detailed outline will be added after the chapter has been fully organized for presentation."
-  },
-  {
-    "objectID": "seminars/2026/brownian-motion-chapter-3/index.html#materials",
-    "href": "seminars/2026/brownian-motion-chapter-3/index.html#materials",
-    "title": "Brownian Motion, Martingales, and Stochastic Calculus: Chapter 3",
-    "section": "Materials",
-    "text": "Materials\nSlides, handouts, and related notes are still in preparation."
+    "text": "Code"
   },
   {
     "objectID": "notes/index.html#browse-the-notes",
@@ -292,6 +82,111 @@
     "title": "Filtrations and Martingales",
     "section": "Filtrations and Processes",
     "text": "Filtrations and Processes"
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "A downloadable PDF CV will be added when a formal version is prepared."
+  },
+  {
+    "objectID": "cv/index.html#contact",
+    "href": "cv/index.html#contact",
+    "title": "Curriculum Vitae",
+    "section": "Contact",
+    "text": "Contact\nSungjun Park (박성준)\nDepartment of Mathematics, Yonsei University\nsungjun.park@yonsei.ac.kr\nsjpark-math41"
+  },
+  {
+    "objectID": "cv/index.html#education",
+    "href": "cv/index.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\n\nYonsei University\nIntegrated M.S.–Ph.D. Program in Mathematics\nPresent\n\n\nYonsei University\nB.S. in Mathematics\nInterdisciplinary Major in Cognitive Science\n2019–2025"
+  },
+  {
+    "objectID": "cv/index.html#research-interests",
+    "href": "cv/index.html#research-interests",
+    "title": "Curriculum Vitae",
+    "section": "Research interests",
+    "text": "Research interests\n\nProbability Theory\nStochastic Processes\nInteracting Particle Systems\nMetastability"
+  },
+  {
+    "objectID": "cv/index.html#research-presentations-and-teaching",
+    "href": "cv/index.html#research-presentations-and-teaching",
+    "title": "Curriculum Vitae",
+    "section": "Research, presentations, and teaching",
+    "text": "Research, presentations, and teaching\nThese sections will be added as the corresponding academic record develops."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Sungjun Park (박성준) is an Integrated M.S.–Ph.D. Student in Mathematics in the Department of Mathematics at Yonsei University.\nI am a graduate student in mathematics at Yonsei University, with a primary interest in probability theory.\n대한민국 연세대학교에서 수학, 특히 확률론을 공부하고 있는 대학원생입니다."
+  },
+  {
+    "objectID": "about.html#profile",
+    "href": "about.html#profile",
+    "title": "About",
+    "section": "",
+    "text": "Sungjun Park (박성준) is an Integrated M.S.–Ph.D. Student in Mathematics in the Department of Mathematics at Yonsei University.\nI am a graduate student in mathematics at Yonsei University, with a primary interest in probability theory.\n대한민국 연세대학교에서 수학, 특히 확률론을 공부하고 있는 대학원생입니다."
+  },
+  {
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "About",
+    "section": "Research interests",
+    "text": "Research interests\n\nProbability Theory\nStochastic Processes\nInteracting Particle Systems\nMetastability\n\nThese interests describe my present academic direction. More specific research themes and projects will be added as my graduate work develops."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\n\nGraduate study\nIntegrated M.S.–Ph.D. Program in Mathematics\nYonsei University · Present\n\n\nUndergraduate study\nB.S. in Mathematics\nInterdisciplinary Major in Cognitive Science\nYonsei University · 2019–2025"
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\n\nEmail: sungjun.park@yonsei.ac.kr\nGitHub: sjpark-math41\n\nGoogle Scholar and ORCID links will be added when available."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sungjun Park",
+    "section": "",
+    "text": "MATHEMATICS · PROBABILITY · STOCHASTIC PROCESSES\n\n\n\n\n박성준\n\n\nIntegrated M.S.–Ph.D. Student in Mathematics\n\n\nDepartment of Mathematics, Yonsei University\n\n\nI am a graduate student in mathematics at Yonsei University, with a primary interest in probability theory.\n\n\n대한민국 연세대학교에서 수학, 특히 확률론을 공부하고 있는 대학원생입니다.\n\nAbout Me Browse Notes Contact\n\n\n\n\n\n\nSungjun Park · 박성준\n\n\nGraduate Student in Mathematics\n\n\nDepartment of MathematicsYonsei University"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Sungjun Park",
+    "section": "Research interests",
+    "text": "Research interests\n\n\nProbability Theory\nProbabilistic structures, asymptotic behavior, and mathematical methods for random systems.\n\n\nStochastic Processes\nContinuous-time stochastic models and the evolution of random systems over time.\n\n\nInteracting Particle Systems\nLarge systems of interacting random particles and their collective behavior.\n\n\nMetastability\nRare transitions, multiple time scales, and effective dynamics in stochastic systems."
+  },
+  {
+    "objectID": "index.html#academic-profile",
+    "href": "index.html#academic-profile",
+    "title": "Sungjun Park",
+    "section": "Academic profile",
+    "text": "Academic profile\n\n\nCurrent program\nIntegrated M.S.–Ph.D. Program in Mathematics\nYonsei University\n\n\nEducation\nB.S. in Mathematics\nInterdisciplinary Major in Cognitive Science, Yonsei University\n\n\nContact\nsungjun.park@yonsei.ac.kr\nsjpark-math41"
+  },
+  {
+    "objectID": "index.html#about-this-site",
+    "href": "index.html#about-this-site",
+    "title": "Sungjun Park",
+    "section": "About this site",
+    "text": "About this site\nThis website will grow with my graduate study. It is intended as a long-term home for mathematical notes, seminar materials, teaching resources, and future research work.\n\n\nNotes\nLong-form mathematical notes organized by subject and revision date.\nBrowse Notes →\n\n\nSeminars\nPresentation records, slides, handouts, and related notes.\nView Seminars →\n\n\nTeaching\nTeaching-assistant activities and publicly shareable course materials.\nView Teaching →"
+  },
+  {
+    "objectID": "index.html#recent-note",
+    "href": "index.html#recent-note",
+    "title": "Sungjun Park",
+    "section": "Recent note",
+    "text": "Recent note\n\nFiltrations, Right-Continuity, and Completeness\nAn introductory study note on filtrations, canonical filtrations, right-continuity, and completeness.\nRead the note →"
   },
   {
     "objectID": "notes/filtrations-and-martingales/section-1-1/filtrations-right-continuity-completeness.html",
@@ -343,18 +238,32 @@
     "text": "1.6 Key takeaways\n\nA filtration \\((\\mathcal F_t)\\) records information accumulated over time.\nThe canonical filtration \\((\\mathcal F_t^X)\\) is the smallest filtration generated by observing a process \\(X\\).\nRight-continuity includes information available at every time immediately after \\(t\\).\nCompleteness includes all subsets of measurable null sets from the beginning.\nCompletion stabilizes almost-sure modifications without changing probability identities.\n\n\nSource note. This learning unit was developed primarily from Chapter 1, Section 1.1 of Brownian Motion, Martingales, and Stochastic Calculus, with additional explanatory examples and expanded arguments.\n\n\n\nCHAPTER\n← Filtrations and Martingales\n\n\nNEXT UNIT\nMeasurable, Adapted, and Progressive Processes\nComing next"
   },
   {
-    "objectID": "teaching/probability-2026-spring/index.html",
-    "href": "teaching/probability-2026-spring/index.html",
-    "title": "Probability",
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
     "section": "",
-    "text": "Role\nGrading Assistant\n\n\nInstitution\nYonsei University\n\n\nTerm\nSpring 2026"
+    "text": "My current interests are centered on probability theory and stochastic processes, with particular attention to interacting particle systems and metastability.\n\n\nI am currently at an early stage of graduate study. This page records my main research directions rather than presenting a formal list of projects. Research projects, preprints, collaborations, and talks will be added as they develop."
   },
   {
-    "objectID": "teaching/probability-2026-spring/index.html#overview",
-    "href": "teaching/probability-2026-spring/index.html#overview",
-    "title": "Probability",
-    "section": "Overview",
-    "text": "Overview\nAssisted with the grading of coursework and examinations."
+    "objectID": "research/index.html#current-direction",
+    "href": "research/index.html#current-direction",
+    "title": "Research",
+    "section": "",
+    "text": "My current interests are centered on probability theory and stochastic processes, with particular attention to interacting particle systems and metastability.\n\n\nI am currently at an early stage of graduate study. This page records my main research directions rather than presenting a formal list of projects. Research projects, preprints, collaborations, and talks will be added as they develop."
+  },
+  {
+    "objectID": "research/index.html#areas-of-interest",
+    "href": "research/index.html#areas-of-interest",
+    "title": "Research",
+    "section": "Areas of interest",
+    "text": "Areas of interest\n\n\nProbability Theory\nProbabilistic structures, asymptotic methods, and the behavior of random systems.\n\n\nStochastic Processes\nContinuous-time stochastic dynamics and long-time behavior.\n\n\nInteracting Particle Systems\nCollective behavior arising from local interactions among random particles.\n\n\nMetastability\nRare transitions, effective dynamics, and hierarchical time scales."
+  },
+  {
+    "objectID": "research/index.html#future-contents",
+    "href": "research/index.html#future-contents",
+    "title": "Research",
+    "section": "Future contents",
+    "text": "Future contents\nThis section is designed to accommodate:\n\nCurrent and completed research projects\nPreprints and publications\nCollaborations\nResearch talks and seminar presentations\nLinks to related mathematical notes\n\nUntil those records are available, the Notes and Seminars sections will document the academic work developed alongside my graduate study."
   },
   {
     "objectID": "teaching/calculus-and-vector-analysis-1-2026-spring/index.html",
@@ -369,5 +278,12 @@
     "title": "Calculus and Vector Analysis (1)",
     "section": "Overview",
     "text": "Overview\nConducted problem-solving sessions and responded to students’ questions regarding exercises and course material."
+  },
+  {
+    "objectID": "teaching/index.html#teaching-activities",
+    "href": "teaching/index.html#teaching-activities",
+    "title": "Teaching",
+    "section": "Teaching activities",
+    "text": "Teaching activities"
   }
 ]

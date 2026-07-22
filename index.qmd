@@ -23,7 +23,7 @@ description: "Academic website of Sungjun Park, a graduate student in mathematic
 :::
 
 ::: {.hero-profile}
-![Temporary profile placeholder for Sungjun Park](assets/images/profile/profile-placeholder.svg){.profile-photo}
+![](assets/images/profile/sungjun-park-profile.webp){.profile-photo}
 
 <div class="profile-card-copy">
 <p class="profile-card-name">{{< var profile.name_en >}} · {{< var profile.name_ko >}}</p>
@@ -119,9 +119,9 @@ Teaching-assistant activities and publicly shareable course materials.
 ## Recent note
 
 ::: {.note-preview}
-**How This Notes Section Is Organized**
+**Filtrations, Right-Continuity, and Completeness**
 
-A short guide to the metadata and folder conventions used for mathematical notes.
+An introductory study note on filtrations, canonical filtrations, right-continuity, and completeness.
 
-[Read the note →](notes/getting-started/index.qmd)
+[Read the note →](notes/filtrations-and-martingales/section-1-1/filtrations-right-continuity-completeness.qmd)
 :::
