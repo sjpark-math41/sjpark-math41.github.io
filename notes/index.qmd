@@ -1,129 +1,109 @@
 ---
 title: "Notes"
-description: "Long-form mathematical notes organized by subject and revision date."
+description: "Mathematical notes organized by chapter, section, and learning unit."
 page-layout: full
 title-block-style: none
-listing:
-  id: notes-listing
-  contents: "**/index.qmd"
-  template: ../includes/listings/notes.ejs.md
-  sort: "date-modified desc"
-  sort-ui:
-    - date-modified
-    - title
-  filter-ui:
-    - title
-    - description
-    - categories
-  field-types:
-    date: date
-    date-modified: date
-  field-display-names:
-    date-modified: "Last updated"
-    title: "Title"
-  date-format: "MMM d, yyyy"
-  page-size: 12
 toc: false
+number-sections: false
 ---
 
 ::: {.collection-shell}
+
 ::: {.collection-hero}
+
 ::: {.collection-hero-copy}
-<p class="collection-eyebrow">MATHEMATICAL WRITING</p>
+<p class="collection-eyebrow">CHAPTER NOTES</p>
 
 # Notes
 
-Long-form notes developed from graduate coursework, seminars, and research reading. Each note is organized as a durable mathematical document rather than a chronological blog post.
+Mathematical notes developed while reading graduate texts and research papers. The main organizational unit is a mathematical chapter rather than a particular book, so each chapter can grow as additional references and examples are incorporated.
 :::
 
 ::: {.collection-hero-aside}
+
 <div class="collection-stat">
-<span class="collection-stat-number">7</span>
-<span class="collection-stat-label">subject areas</span>
+<span class="collection-stat-number">1</span>
+<span class="collection-stat-label">active chapter</span>
 </div>
 
 <div class="collection-stat">
-<span class="collection-stat-number">MathJax</span>
-<span class="collection-stat-label">equations and notation</span>
+<span class="collection-stat-number">1</span>
+<span class="collection-stat-label">published learning unit</span>
 </div>
 
 <div class="collection-stat">
 <span class="collection-stat-number">Living</span>
-<span class="collection-stat-label">revision-based documents</span>
+<span class="collection-stat-label">notes revised over time</span>
 </div>
-:::
-:::
 
-## Browse by subject
-
-::: {.subject-grid}
-::: {.subject-card}
-<span class="subject-index">01</span>
-
-### Probability Theory
-
-Limit theorems, distributions, concentration, and probabilistic methods.
 :::
 
-::: {.subject-card}
-<span class="subject-index">02</span>
-
-### Stochastic Processes
-
-Markov processes, Brownian motion, martingales, and stochastic calculus.
-:::
-
-::: {.subject-card}
-<span class="subject-index">03</span>
-
-### Large Deviations
-
-Rare-event asymptotics, variational principles, and Gibbs measures.
-:::
-
-::: {.subject-card}
-<span class="subject-index">04</span>
-
-### Interacting Particle Systems
-
-Collective stochastic dynamics, metastability, and effective behavior.
-:::
-
-::: {.subject-card}
-<span class="subject-index">05</span>
-
-### Real Analysis
-
-Measure theory, integration, functional analysis, and PDE-oriented analysis.
-:::
-
-::: {.subject-card}
-<span class="subject-index">06</span>
-
-### Algebra
-
-Groups, rings, fields, modules, and algebraic structures.
-:::
-
-::: {.subject-card .subject-card-wide}
-<span class="subject-index">07</span>
-
-### Research Notes
-
-Working documents that connect papers, calculations, and open research questions.
-:::
 :::
 
 ::: {.collection-heading}
-<div>
-<p class="collection-kicker">LIBRARY</p>
 
-## All notes
+<div>
+<p class="collection-kicker">CHAPTERS</p>
+
+## Browse the notes
 </div>
 
-<p>Search titles, summaries, and subject tags. The default order follows the most recent substantive revision.</p>
+<p>Each chapter is divided into sections, and each section is developed through a small sequence of focused learning units.</p>
+
 :::
 
-::: {#notes-listing}
+::: {.chapter-grid}
+
+::: {.chapter-card}
+
+<div class="chapter-card-topline">
+<span class="chapter-index">01</span>
+<span class="chapter-status">In progress</span>
+</div>
+
+## [Filtrations and Martingales](filtrations-and-martingales/index.qmd)
+
+A chapter on information flow, measurability, martingales, and the basic language of continuous-time probability.
+
+<div class="chapter-meta">
+<span>1 section started</span>
+<span>1 unit published</span>
+</div>
+
+<div class="chapter-source">
+<span class="chapter-source-label">Primary source</span>
+<span>Brownian Motion, Martingales, and Stochastic Calculus</span>
+</div>
+
 :::
+
+:::
+
+::: {.collection-heading}
+
+<div>
+<p class="collection-kicker">LATEST</p>
+
+## Recently published
+</div>
+
+<p>The newest learning units appear here independently of their source book.</p>
+
+:::
+
+::: {.recent-unit-card}
+
+<div class="recent-unit-meta">FILTRATIONS AND MARTINGALES · SECTION 1.1 · UNIT 1</div>
+
+### [Filtrations, Right-Continuity, and Completeness](filtrations-and-martingales/section-1-1/filtrations-right-continuity-completeness.qmd)
+
+Filtrations as evolving information, the canonical filtration of a process, and the two regularity conditions used throughout stochastic analysis.
+
+<div class="recent-unit-footer">
+<span>Published July 22, 2026</span>
+<span>Probability · Stochastic Processes</span>
+</div>
+
+:::
+
 :::

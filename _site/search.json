@@ -250,5 +250,96 @@
     "title": "Brownian Motion, Martingales, and Stochastic Calculus: Chapter 3",
     "section": "Materials",
     "text": "Materials\nSlides, handouts, and related notes are still in preparation."
+  },
+  {
+    "objectID": "notes/index.html#browse-the-notes",
+    "href": "notes/index.html#browse-the-notes",
+    "title": "Notes",
+    "section": "Browse the notes",
+    "text": "Browse the notes"
+  },
+  {
+    "objectID": "notes/index.html#filtrations-and-martingales",
+    "href": "notes/index.html#filtrations-and-martingales",
+    "title": "Notes",
+    "section": "Filtrations and Martingales",
+    "text": "Filtrations and Martingales\nA chapter on information flow, measurability, martingales, and the basic language of continuous-time probability.\n\n1 section started 1 unit published\n\n\nPrimary source Brownian Motion, Martingales, and Stochastic Calculus"
+  },
+  {
+    "objectID": "notes/index.html#recently-published",
+    "href": "notes/index.html#recently-published",
+    "title": "Notes",
+    "section": "Recently published",
+    "text": "Recently published"
+  },
+  {
+    "objectID": "notes/filtrations-and-martingales/index.html",
+    "href": "notes/filtrations-and-martingales/index.html",
+    "title": "Filtrations and Martingales",
+    "section": "",
+    "text": "Code"
+  },
+  {
+    "objectID": "notes/filtrations-and-martingales/index.html#about-these-notes",
+    "href": "notes/filtrations-and-martingales/index.html#about-these-notes",
+    "title": "Filtrations and Martingales",
+    "section": "About these notes",
+    "text": "About these notes\nThe chapter title is the main organizing label. The source book is recorded for attribution and orientation, but the notes are intended to become an independent study document: examples, omitted arguments, and supplementary references may be added as the chapter develops."
+  },
+  {
+    "objectID": "notes/filtrations-and-martingales/index.html#filtrations-and-processes",
+    "href": "notes/filtrations-and-martingales/index.html#filtrations-and-processes",
+    "title": "Filtrations and Martingales",
+    "section": "Filtrations and Processes",
+    "text": "Filtrations and Processes"
+  },
+  {
+    "objectID": "notes/filtrations-and-martingales/section-1-1/filtrations-right-continuity-completeness.html",
+    "href": "notes/filtrations-and-martingales/section-1-1/filtrations-right-continuity-completeness.html",
+    "title": "Filtrations, Right-Continuity, and Completeness",
+    "section": "",
+    "text": "Code\n\n2026-07-22"
+  },
+  {
+    "objectID": "notes/filtrations-and-martingales/section-1-1/filtrations-right-continuity-completeness.html#learning-objectives",
+    "href": "notes/filtrations-and-martingales/section-1-1/filtrations-right-continuity-completeness.html#learning-objectives",
+    "title": "Filtrations, Right-Continuity, and Completeness",
+    "section": "1.1 Learning objectives",
+    "text": "1.1 Learning objectives\nAfter reading this unit, the reader should be able to:\n\ndefine a filtration and a filtered probability space\ninterpret \\(\\mathcal F_t\\) as the information available at time \\(t\\)\nconstruct the canonical filtration of a stochastic process\nexplain right-continuity and completeness of a filtration and\ndescribe why completion does not alter probability identities such as independence."
+  },
+  {
+    "objectID": "notes/filtrations-and-martingales/section-1-1/filtrations-right-continuity-completeness.html#filtrations-as-evolving-information",
+    "href": "notes/filtrations-and-martingales/section-1-1/filtrations-right-continuity-completeness.html#filtrations-as-evolving-information",
+    "title": "Filtrations, Right-Continuity, and Completeness",
+    "section": "1.2 Filtrations as evolving information",
+    "text": "1.2 Filtrations as evolving information\nLet \\((\\Omega,\\mathcal F,P)\\) be a probability space. The \\(\\sigma\\)-field \\(\\mathcal F\\) represents all events to which probabilities are assigned. In a time-dependent model, however, an observer generally does not know all of this information at once. The information available should increase as time passes.\n\n1.2.1 Definition: Filtration\nA filtration on \\((\\Omega,\\mathcal F,P)\\) is a family\n\\[\n(\\mathcal F_t)_{0\\le t\\le \\infty}\n\\]\nof sub-\\(\\sigma\\)-fields of \\(\\mathcal F\\) such that\n\\[\n\\mathcal F_s\\subseteq \\mathcal F_t\n\\qquad\\text{whenever }s\\le t.\n\\]\nThe tuple\n\\[\n\\bigl(\\Omega,\\mathcal F,(\\mathcal F_t)_{0\\le t\\le\\infty},P\\bigr)\n\\]\nis called a filtered probability space.\n\nThus, for \\(0\\le s\\le t\\),\n\\[\n\\mathcal F_0\\subseteq \\mathcal F_s\\subseteq \\mathcal F_t\n\\subseteq \\mathcal F_\\infty\\subseteq \\mathcal F.\n\\]\nFor an event \\(A\\), the statement \\(A\\in\\mathcal F_t\\) means that the information available by time \\(t\\) is sufficient to decide whether the realized outcome \\(\\omega\\) belongs to \\(A\\). The inclusion \\(\\mathcal F_s\\subseteq\\mathcal F_t\\) says that information, once observed, remains available later.\n\nRemark (Events versus random variables). The object \\(\\mathcal F_t\\) is a collection of events, not a collection of random variables. A random variable is observable at time \\(t\\) precisely when it is \\(\\mathcal F_t\\)-measurable.\n\n\n1.2.2 Example: Two coin tosses\nSuppose two coin tosses are performed at times \\(1\\) and \\(2\\), with\n\\[\n\\Omega=\\{HH,HT,TH,TT\\}.\n\\]\nBefore observing either toss,\n\\[\n\\mathcal F_0=\\{\\varnothing,\\Omega\\}.\n\\]\nAfter the first toss, the observer knows whether the first coordinate is \\(H\\) or \\(T\\), so\n\\[\n\\mathcal F_1\n=\n\\{\\varnothing,\\Omega,\\{HH,HT\\},\\{TH,TT\\}\\}.\n\\]\nAfter the second toss, the complete outcome is known, and therefore\n\\[\n\\mathcal F_2=2^\\Omega.\n\\]\nThe sample space remains the space of complete two-toss outcomes. What changes with time is not \\(\\Omega\\), but which subsets of \\(\\Omega\\) can be distinguished."
+  },
+  {
+    "objectID": "notes/filtrations-and-martingales/section-1-1/filtrations-right-continuity-completeness.html#the-canonical-filtration-of-a-process",
+    "href": "notes/filtrations-and-martingales/section-1-1/filtrations-right-continuity-completeness.html#the-canonical-filtration-of-a-process",
+    "title": "Filtrations, Right-Continuity, and Completeness",
+    "section": "1.3 The canonical filtration of a process",
+    "text": "1.3 The canonical filtration of a process\nLet \\(X=(X_t)_{t\\ge0}\\) be a stochastic process. Observing the process up to time \\(t\\) generates the \\(\\sigma\\)-field\n\\[\n\\mathcal F_t^X\n=\n\\sigma(X_s:0\\le s\\le t).\n\\]\nTogether with\n\\[\n\\mathcal F_\\infty^X\n=\n\\sigma(X_s:s\\ge0),\n\\]\nthis is called the canonical filtration or natural filtration of \\(X\\).\nThe canonical filtration contains exactly the information generated by the process itself up to each time. In particular,\n\\[\n\\sigma(X_t)\n\\subseteq\n\\sigma(X_s:0\\le s\\le t)\n=\n\\mathcal F_t^X,\n\\]\nso \\(X_t\\) is \\(\\mathcal F_t^X\\)-measurable.\n\n1.3.1 Proposition: Minimality of the canonical filtration\nThe canonical filtration is the smallest filtration to which \\(X\\) is adapted.\n\n\n1.3.2 Proof\nSuppose \\((\\mathcal G_t)_{t\\ge0}\\) is another filtration such that \\(X_s\\) is \\(\\mathcal G_s\\)-measurable for every \\(s\\ge0\\). If \\(s\\le t\\), then\n\\[\n\\sigma(X_s)\\subseteq\\mathcal G_s\\subseteq\\mathcal G_t.\n\\]\nConsequently, \\(\\mathcal G_t\\) contains every \\(\\sigma(X_s)\\) for \\(0\\le s\\le t\\), and hence\n\\[\n\\mathcal F_t^X\n=\n\\sigma(X_s:0\\le s\\le t)\n\\subseteq\n\\mathcal G_t.\n\\]\nTherefore every filtration making \\(X\\) adapted must contain the canonical filtration. \\(\\square\\)\n\nA filtration represents the information available to a chosen observer. It may therefore contain more information than is generated by one particular process."
+  },
+  {
+    "objectID": "notes/filtrations-and-martingales/section-1-1/filtrations-right-continuity-completeness.html#right-continuous-filtrations",
+    "href": "notes/filtrations-and-martingales/section-1-1/filtrations-right-continuity-completeness.html#right-continuous-filtrations",
+    "title": "Filtrations, Right-Continuity, and Completeness",
+    "section": "1.4 Right-continuous filtrations",
+    "text": "1.4 Right-continuous filtrations\nFor a filtration \\((\\mathcal F_t)\\), define\n\\[\n\\mathcal F_{t+}\n=\n\\bigcap_{s&gt;t}\\mathcal F_s.\n\\]\nSince \\(\\mathcal F_t\\subseteq\\mathcal F_s\\) for every \\(s&gt;t\\), we always have\n\\[\n\\mathcal F_t\\subseteq\\mathcal F_{t+}.\n\\]\n\n1.4.1 Definition: Right-continuity\nA filtration is right-continuous if\n\\[\n\\mathcal F_t=\\mathcal F_{t+}\n\\qquad\\text{for every }t\\ge0.\n\\]\n\nThe interpretation is that an event which is observable at every time immediately after \\(t\\) is already regarded as observable at time \\(t\\).\nThe family \\((\\mathcal F_{t+})_{t\\ge0}\\) is right-continuous by construction. Indeed,\n\\[\n(\\mathcal F_{t+})_+\n=\n\\bigcap_{s&gt;t}\\mathcal F_{s+}\n=\n\\bigcap_{s&gt;t}\\bigcap_{u&gt;s}\\mathcal F_u\n=\n\\bigcap_{u&gt;t}\\mathcal F_u\n=\n\\mathcal F_{t+}.\n\\]\n\n1.4.2 Example: Information arriving immediately after time 1\nLet \\(Z\\) be a nonconstant random variable and define\n\\[\n\\mathcal F_t=\n\\begin{cases}\n\\{\\varnothing,\\Omega\\}, & 0\\le t\\le1,\\\\\n\\sigma(Z), & t&gt;1.\n\\end{cases}\n\\]\nThen\n\\[\n\\mathcal F_1=\\{\\varnothing,\\Omega\\},\n\\]\nwhereas\n\\[\n\\mathcal F_{1+}\n=\n\\bigcap_{s&gt;1}\\mathcal F_s\n=\n\\sigma(Z).\n\\]\nThus \\(\\mathcal F_1\\ne\\mathcal F_{1+}\\). The information carried by \\(Z\\) is available at every time strictly after \\(1\\), but not at time \\(1\\) itself."
+  },
+  {
+    "objectID": "notes/filtrations-and-martingales/section-1-1/filtrations-right-continuity-completeness.html#complete-filtrations",
+    "href": "notes/filtrations-and-martingales/section-1-1/filtrations-right-continuity-completeness.html#complete-filtrations",
+    "title": "Filtrations, Right-Continuity, and Completeness",
+    "section": "1.5 Complete filtrations",
+    "text": "1.5 Complete filtrations\nLet \\(\\mathcal N\\) denote the collection of all subsets of \\(\\mathcal F_\\infty\\)-measurable null sets. Thus \\(A\\in\\mathcal N\\) when there exists \\(A_0\\in\\mathcal F_\\infty\\) such that\n\\[\nA\\subseteq A_0,\n\\qquad\nP(A_0)=0.\n\\]\nThe set \\(A\\) itself need not belong to the original \\(\\sigma\\)-field. This is why the definition is not simply written as \\(P(A)=0\\): the expression \\(P(A)\\) is not defined until \\(A\\) is known to be measurable.\n\n1.5.1 Definition: Complete filtration\nA filtration is complete if\n\\[\n\\mathcal N\\subseteq\\mathcal F_0.\n\\]\n\nSince \\(\\mathcal F_0\\subseteq\\mathcal F_t\\), completeness implies\n\\[\n\\mathcal N\\subseteq\\mathcal F_t\n\\qquad\\text{for every }t\\ge0.\n\\]\n\n1.5.2 Why completeness is needed\nSuppose \\(X_t\\) is \\(\\mathcal F_t\\)-measurable and another random variable \\(Y_t\\) satisfies\n\\[\nP(X_t=Y_t)=1.\n\\]\nLet\n\\[\nN=\\{X_t\\ne Y_t\\}.\n\\]\nAlthough \\(N\\) is negligible, a noncomplete filtration need not contain \\(N\\) or all of its subsets. It is then possible for \\(X_t\\) to be \\(\\mathcal F_t\\)-measurable while \\(Y_t\\) is not. Completeness prevents measurability from depending on the chosen representative of an almost-sure equivalence class.\nThis matters because stochastic processes are frequently modified on negligible sets in order to obtain continuous or right-continuous sample paths.\n\n\n1.5.3 Completing a filtration\nIf the original filtration is not complete, define\n\\[\n\\mathcal F_t'\n=\n\\mathcal F_t\\vee\\sigma(\\mathcal N)\n=\n\\sigma(\\mathcal F_t\\cup\\mathcal N).\n\\]\nThen \\((\\mathcal F_t')\\) is a complete filtration, and the filtration property is preserved because\n\\[\n\\mathcal F_s\\subseteq\\mathcal F_t\n\\quad\\Longrightarrow\\quad\n\\mathcal F_s'\\subseteq\\mathcal F_t'.\n\\]\n\nRemark (Why completion preserves independence identities). Every event \\(A'\\in\\mathcal F_t'\\) differs by a null set from some event \\(A\\in\\mathcal F_t\\):\n\\[\nP(A'\\triangle A)=0.\n\\]\nTherefore \\(P(A')=P(A)\\), and intersections are also unchanged up to null sets. If original events \\(A\\) and \\(B\\) satisfy\n\\[\nP(A\\cap B)=P(A)P(B),\n\\]\nand \\(A',B'\\) are completed versions of them, then\n\\[\nP(A'\\cap B')\n=\nP(A\\cap B)\n=\nP(A)P(B)\n=\nP(A')P(B').\n\\]\nThus adding negligible events changes which representatives are measurable, but not the probability identities that define independence."
+  },
+  {
+    "objectID": "notes/filtrations-and-martingales/section-1-1/filtrations-right-continuity-completeness.html#key-takeaways",
+    "href": "notes/filtrations-and-martingales/section-1-1/filtrations-right-continuity-completeness.html#key-takeaways",
+    "title": "Filtrations, Right-Continuity, and Completeness",
+    "section": "1.6 Key takeaways",
+    "text": "1.6 Key takeaways\n\nA filtration \\((\\mathcal F_t)\\) records information accumulated over time.\nThe canonical filtration \\((\\mathcal F_t^X)\\) is the smallest filtration generated by observing a process \\(X\\).\nRight-continuity includes information available at every time immediately after \\(t\\).\nCompleteness includes all subsets of measurable null sets from the beginning.\nCompletion stabilizes almost-sure modifications without changing probability identities.\n\n\nSource note. This learning unit was developed primarily from Chapter 1, Section 1.1 of Brownian Motion, Martingales, and Stochastic Calculus, with additional explanatory examples and expanded arguments.\n\n\n\nCHAPTER\n← Filtrations and Martingales\n\n\nNEXT UNIT\nMeasurable, Adapted, and Progressive Processes\nComing next"
   }
 ]

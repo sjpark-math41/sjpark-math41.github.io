@@ -1,0 +1,123 @@
+---
+title: "Filtrations and Martingales"
+description: "Chapter notes on filtrations, process measurability, martingales, and stopping-time ideas."
+date-modified: 2026-07-22
+page-layout: full
+title-block-style: none
+toc: false
+number-sections: false
+---
+
+::: {.chapter-page-shell}
+
+::: {.chapter-hero}
+<p class="chapter-kicker">CHAPTER NOTES · PROBABILITY THEORY</p>
+
+# Filtrations and Martingales
+
+This chapter develops the mathematical language used to describe information evolving over time. It begins with filtrations and measurability conditions for stochastic processes and then proceeds toward martingales and related constructions.
+
+<div class="chapter-source-line">
+<span>Primary source</span>
+<strong>Brownian Motion, Martingales, and Stochastic Calculus</strong>
+</div>
+
+:::
+
+::: {.chapter-overview-grid}
+
+::: {.chapter-fact}
+<span class="chapter-fact-label">Status</span>
+
+**In progress**
+:::
+
+::: {.chapter-fact}
+<span class="chapter-fact-label">Published</span>
+
+**1 learning unit**
+:::
+
+::: {.chapter-fact}
+<span class="chapter-fact-label">Current focus</span>
+
+**Section 1.1**
+:::
+
+:::
+
+::: {.chapter-introduction}
+
+## About these notes
+
+The chapter title is the main organizing label. The source book is recorded for attribution and orientation, but the notes are intended to become an independent study document: examples, omitted arguments, and supplementary references may be added as the chapter develops.
+
+:::
+
+::: {.section-block}
+
+<div class="section-heading">
+<div>
+<p class="section-number">SECTION 1.1</p>
+
+## Filtrations and Processes
+</div>
+
+<span class="section-progress">1 of approximately 3 units published</span>
+</div>
+
+This section introduces filtrations and compares the principal measurability conditions imposed on stochastic processes.
+
+::: {.unit-list}
+
+::: {.unit-row .unit-row-published}
+<div class="unit-number">01</div>
+
+<div class="unit-copy">
+
+### [Filtrations, Right-Continuity, and Completeness](section-1-1/filtrations-right-continuity-completeness.qmd)
+
+Filtrations as information, canonical filtrations, right-continuity, completeness, and completion by negligible sets.
+
+</div>
+
+<div class="unit-status unit-status-published">Published</div>
+:::
+
+::: {.unit-row .unit-row-planned}
+<div class="unit-number">02</div>
+
+<div class="unit-copy">
+
+### Measurable, Adapted, and Progressive Processes
+
+A comparison of the principal measurability conditions for processes and the logical relations among them.
+
+</div>
+
+<div class="unit-status unit-status-planned">Planned</div>
+:::
+
+::: {.unit-row .unit-row-planned}
+<div class="unit-number">03</div>
+
+<div class="unit-copy">
+
+### Regular Adapted Processes Are Progressive
+
+Why path regularity upgrades adaptedness to progressive measurability, together with the proof strategy.
+
+</div>
+
+<div class="unit-status unit-status-planned">Planned</div>
+:::
+
+:::
+
+:::
+
+::: {.chapter-bottom-navigation}
+[← Back to all notes](../index.qmd)
+:::
+
+:::
